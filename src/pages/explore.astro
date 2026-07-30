@@ -4,23 +4,23 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import PageHeader from "../components/PageHeader.astro";
 const graphDocuments = manifest.documents.map(({ slug, title, topic, links }) => ({ slug, title, topic, links }));
 ---
-<BaseLayout title="Explore" description="Search and browse every public document by topic, tag, or connection." generatedAt={manifest.generatedAt}>
-  <PageHeader eyebrow="07 / Find a thread" title="Explore everything" intro="Search the full knowledge base, browse its major topics, or use the connection map to follow relationships between notes." count={manifest.documents.length} />
+<BaseLayout title="Search" description="Search and browse Ayush’s public notes." generatedAt={manifest.generatedAt}>
+  <PageHeader eyebrow="Search" title="Search" intro="Search by title, topic, tag, or anything written in a note." count={manifest.documents.length} />
   <section class="search-panel" id="search">
-    <label for="knowledge-search">Search documents</label>
+    <label for="knowledge-search">Search notes</label>
     <div class="search-box"><span aria-hidden="true">⌕</span><input id="knowledge-search" type="search" autocomplete="off" placeholder="Try “local AI”, “headphones”, or “philosophy”…" /><kbd>ESC</kbd></div>
     <div class="filter-row">
       <select id="topic-filter" aria-label="Filter by topic">
         <option value="">All topics</option>
         {manifest.topics.map((topic) => <option value={topic.title}>{topic.title}</option>)}
       </select>
-      <span id="result-count">{manifest.documents.length} documents</span>
+      <span id="result-count">{manifest.documents.length} notes</span>
     </div>
     <div id="search-results" class="search-results" aria-live="polite"></div>
   </section>
 
   <section class="topic-directory">
-    <div class="section-heading"><span>Topic index</span><h2>Browse the map</h2></div>
+    <div class="section-heading"><span>Topics</span><h2>Browse by topic</h2></div>
     <div class="topic-grid">
       {manifest.topics.map((topic) => (
         <button type="button" data-topic={topic.title}>
@@ -31,11 +31,11 @@ const graphDocuments = manifest.documents.map(({ slug, title, topic, links }) =>
     </div>
   </section>
 
-  <section class="graph-section">
-    <div class="section-heading"><span>Connection map</span><h2>A secondary way through</h2></div>
-    <p>Each point is a document; lines represent direct links. Use search and the structured sections for orientation, then this map for serendipity.</p>
+  <details class="graph-section">
+    <summary>Show note graph</summary>
+    <p>Each point is a note and each line is a link between two notes.</p>
     <canvas id="knowledge-graph" width="1000" height="520" aria-label="Visualization of connections between knowledge-base documents"></canvas>
-  </section>
+  </details>
 </BaseLayout>
 <script is:inline define:vars={{ graphDocuments }}>
   const input = document.querySelector("#knowledge-search");
@@ -54,13 +54,13 @@ const graphDocuments = manifest.documents.map(({ slug, title, topic, links }) =>
       const haystack = `${item.title} ${item.summary} ${item.topic} ${item.tags.join(" ")} ${item.text}`.toLowerCase();
       return (!query || haystack.includes(query)) && (!topic || item.topic === topic);
     }).slice(0, 60);
-    count.textContent = `${matches.length}${matches.length === 60 ? "+" : ""} document${matches.length === 1 ? "" : "s"}`;
+    count.textContent = `${matches.length}${matches.length === 60 ? "+" : ""} note${matches.length === 1 ? "" : "s"}`;
     results.innerHTML = matches.map((item) => `
       <a href="/notes/${item.slug}/">
         <span>${escapeHtml(item.topic)}${item.updated ? ` · ${escapeHtml(item.updated)}` : ""}</span>
         <strong>${escapeHtml(item.title)}</strong>
         <p>${escapeHtml(item.summary)}</p>
-      </a>`).join("") || "<p class='empty-state'>No documents matched that search.</p>";
+      </a>`).join("") || "<p class='empty-state'>No notes found.</p>";
   };
   fetch("/search.json").then((response) => response.json()).then((data) => { searchIndex = data; render(); });
   input.addEventListener("input", render);
@@ -75,6 +75,7 @@ const graphDocuments = manifest.documents.map(({ slug, title, topic, links }) =>
   });
   const params = new URLSearchParams(location.search);
   if (params.get("topic")) filter.value = params.get("topic");
+  if (params.get("q")) input.value = params.get("q");
 
   const canvas = document.querySelector("#knowledge-graph");
   const context = canvas.getContext("2d");

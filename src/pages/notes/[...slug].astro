@@ -40,8 +40,8 @@ const sectionLabel = document.section[0].toUpperCase() + document.section.slice(
       </header>
       <div class="prose" set:html={document.html} />
       <footer class="source-context">
-        <span>Source context</span>
-        <p>Adapted from <code>{document.sourcePath.replace(/\.md$/, "")}</code> in the living Obsidian vault.</p>
+        <span>From my vault</span>
+        <p><code>{document.sourcePath.replace(/\.md$/, "")}</code></p>
       </footer>
     </article>
     <aside class="document-rail">

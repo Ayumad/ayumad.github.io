@@ -8,7 +8,7 @@ interface Props {
 const { eyebrow, title, intro, count } = Astro.props;
 ---
 <header class="page-header">
-  <div class="eyebrow">{eyebrow}{typeof count === "number" && <span>{count} documents</span>}</div>
+  <div class="eyebrow">{eyebrow}{typeof count === "number" && <span>{count} notes</span>}</div>
   <h1>{title}</h1>
   <p>{intro}</p>
 </header>

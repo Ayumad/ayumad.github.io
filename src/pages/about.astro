@@ -4,19 +4,17 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import PageHeader from "../components/PageHeader.astro";
 const profile = manifest.documents.filter((document) => document.section === "about");
 ---
-<BaseLayout title="About this knowledge base" description="How to navigate Ayush’s public knowledge system and what it contains." generatedAt={manifest.generatedAt}>
+<BaseLayout title="About" description="About Ayush and these notes." generatedAt={manifest.generatedAt}>
   <PageHeader
-    eyebrow="01 / Orientation"
-    title="Documentation about a person, not a folder dump."
-    intro="The vault behind this site is where projects, equipment, research, interests, and decisions meet. This public layer turns that material into a calmer map designed for someone encountering it for the first time."
+    eyebrow="About"
+    title="About me"
+    intro="I’m Ayush Madhukar, a computer engineering student in the Bay Area. Technology is my main hobby, and I spend a lot of time figuring out what hardware and software can do once the defaults get out of the way."
     count={profile.length}
   />
   <div class="prose overview-prose">
-    <h2>Who I am</h2>
-    <p>I’m Ayush Madhukar, a computer engineering student and builder in the Bay Area. I’m interested in technology as both an engineering discipline and a personal creative medium—especially local AI, computers, audio, knowledge systems, photography, and the infrastructure that connects them.</p>
-    <h2>How to use this site</h2>
-    <p>Start with Projects for the things I am actively making. Systems explains the underlying hardware and workflows. Interests follows the subjects that keep recurring. Library contains the deeper reference layer. Every document includes related notes and backlinks, so following one thread should reveal the next without requiring knowledge of my vault structure.</p>
-    <h2>How it stays current</h2>
-    <p>The site is generated from a living Obsidian vault. Internal maintenance material and repetitive archive copies are removed, related notes are connected, and the remaining knowledge is placed into stable public routes. Dates and status labels come from the source when they are useful to a reader.</p>
+    <p>I have always liked finding the capabilities and limits of things. When I was younger that meant jailbreaking devices and running emulators on hardware that was not meant to do it. I still approach technology the same way: set it up, take it apart, compare options, break something, and learn enough to fix it.</p>
+    <p>Lately I have been working on local AI, a Proxmox homelab, Linux computers, audio systems, cameras, and the Obsidian vault that feeds these pages.</p>
+    <h2>About these notes</h2>
+    <p>This is not a copy of my vault. It removes old duplicates and internal maintenance notes, then turns the useful parts into normal pages with links between them. It updates when I change the vault.</p>
   </div>
 </BaseLayout>

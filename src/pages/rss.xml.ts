@@ -7,9 +7,9 @@ export async function GET() {
     .slice(0, 30);
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>Ayumad Knowledge updates</title>
+<title>Ayush’s notes</title>
 <link>https://ayumad.github.io</link>
-<description>Recently updated public documentation from Ayush Madhukar’s knowledge base.</description>
+<description>Recently updated notes from Ayush Madhukar.</description>
 ${recent.map((document) => `<item><title>${escapeXml(document.title)}</title><link>https://ayumad.github.io/notes/${document.slug}/</link><guid>https://ayumad.github.io/notes/${document.slug}/</guid><pubDate>${new Date(document.updated!).toUTCString()}</pubDate><description>${escapeXml(document.summary)}</description></item>`).join("")}
 </channel></rss>`;
   return new Response(xml, { headers: { "Content-Type": "application/rss+xml; charset=utf-8" } });

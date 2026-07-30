@@ -7,7 +7,7 @@ const documents = manifest.documents
   .sort((a, b) => (b.updated || b.created || "").localeCompare(a.updated || a.created || ""));
 ---
 <BaseLayout title="Timeline" description="A chronological view of meaningful projects, notes, and changes." generatedAt={manifest.generatedAt}>
-  <PageHeader eyebrow="06 / Change over time" title="Timeline" intro="A chronological route through what has been created, revisited, completed, and kept." count={documents.length} />
+  <PageHeader eyebrow="Timeline" title="Timeline" intro="Notes ordered by when I last updated them." count={documents.length} />
   <ol class="timeline">
     {documents.map((document) => (
       <li>

@@ -17,10 +17,10 @@ const topics = [...new Set(documents.map((document) => document.topic))].sort();
 ---
 <BaseLayout title={title} description={intro} currentPath={`/${section}/`} generatedAt={generatedAt}>
   <PageHeader eyebrow={eyebrow} title={title} intro={intro} count={documents.length} />
-  <div class="topic-filter" aria-label="Topics in this section">
+  <div class="topic-filter" aria-label="Topics">
     {topics.map((topic) => <a href={`/explore/?topic=${encodeURIComponent(topic)}`}>{topic}</a>)}
   </div>
-  <section class="card-grid" aria-label={`${title} documents`}>
+  <section class="note-list" aria-label={`${title} notes`}>
     {documents.map((document) => <DocumentCard document={document} />)}
   </section>
 </BaseLayout>

@@ -2,15 +2,12 @@
 import type { PublicDocument } from "../types";
 const { document } = Astro.props as { document: PublicDocument };
 ---
-<article class="document-card">
+<article class="document-card note-row">
   <div class="card-meta">
     <span>{document.topic}</span>
     {document.updated && <time datetime={document.updated}>{document.updated}</time>}
   </div>
   <h2><a href={`/notes/${document.slug}/`}>{document.title}</a></h2>
   <p>{document.summary}</p>
-  <div class="card-footer">
-    {document.status && <span>{document.status}</span>}
-    <span>{document.readingMinutes} min read</span>
-  </div>
+  <div class="card-footer">{document.status && <span>{document.status}</span>}</div>
 </article>

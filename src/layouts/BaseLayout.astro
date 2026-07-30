@@ -19,7 +19,7 @@ const {
   generatedAt,
   image = "https://ayumad.github.io/og.png",
 } = Astro.props;
-const pageTitle = title === "Start here" ? "Ayumad Knowledge" : `${title} — Ayumad Knowledge`;
+const pageTitle = title === "Home" ? "Ayush’s notes" : `${title} — Ayush’s notes`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 
@@ -32,7 +32,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="description" content={description} />
     <meta name="theme-color" content="#040707" />
     <link rel="canonical" href={canonical} />
-    <link rel="alternate" type="application/rss+xml" title="Ayumad Knowledge updates" href="/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Ayush’s notes" href="/rss.xml" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
@@ -51,7 +51,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
     <button class="mobile-menu" type="button" aria-controls="site-sidebar" aria-expanded="false" data-menu-open>
-      <span>AYUMAD/KNOWLEDGE</span><strong>Menu</strong>
+      <span>AYUMAD/NOTES</span><strong>Menu</strong>
     </button>
     <Sidebar currentPath={currentPath} />
     <div class="page-shell">

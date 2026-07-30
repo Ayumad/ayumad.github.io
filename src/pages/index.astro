@@ -1,72 +1,73 @@
 ---
 import manifest from "../generated/manifest.json";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import DocumentCard from "../components/DocumentCard.astro";
 
 const { documents, generatedAt } = manifest;
-const featured = documents
-  .filter((document) => ["projects", "systems"].includes(document.section))
-  .sort((a, b) => (b.updated || "").localeCompare(a.updated || ""))
-  .slice(0, 6);
+const sections = [
+  {
+    title: "Projects",
+    href: "/projects/",
+    description: "Things I am building or have built.",
+    count: documents.filter((document) => document.section === "projects").length,
+  },
+  {
+    title: "Systems",
+    href: "/systems/",
+    description: "My computers, homelab, audio setup, and how everything fits together.",
+    count: documents.filter((document) => document.section === "systems").length,
+  },
+  {
+    title: "Interests",
+    href: "/interests/",
+    description: "Technology, audio, photography, philosophy, media, and other things I care about.",
+    count: documents.filter((document) => document.section === "interests").length,
+  },
+  {
+    title: "Notes",
+    href: "/library/",
+    description: "Reference notes, lists, comparisons, and other details.",
+    count: documents.filter((document) => document.section === "library").length,
+  },
+];
 const recent = [...documents]
   .filter((document) => document.updated)
   .sort((a, b) => (b.updated || "").localeCompare(a.updated || ""))
-  .slice(0, 5);
-const routes = [
-  { index: "01", title: "Projects", href: "/projects/", description: "Things I am building, testing, and learning through." },
-  { index: "02", title: "Systems", href: "/systems/", description: "The tools, machines, and workflows that make the projects possible." },
-  { index: "03", title: "Interests", href: "/interests/", description: "The subjects I return to, from audio and technology to philosophy and media." },
-  { index: "04", title: "Library", href: "/library/", description: "Reference notes, equipment, concepts, lists, and deeper documentation." },
-];
+  .slice(0, 8);
 ---
 <BaseLayout
-  title="Start here"
-  description="A navigable public knowledge base documenting Ayush Madhukar’s projects, systems, interests, and ideas."
+  title="Home"
+  description="Ayush Madhukar’s public notes about projects, computers, audio, cameras, and other interests."
   generatedAt={generatedAt}
 >
-  <section class="hero">
-    <div class="eyebrow">Public knowledge system <span>{documents.length} connected documents</span></div>
-    <h1>A map of what I build,<br /><em>use, and think about.</em></h1>
+  <header class="plain-home-header">
+    <h1>Ayush’s notes</h1>
     <p>
-      This is the readable public layer of my Obsidian vault: part project archive, part field guide,
-      and part documentation for the systems and interests that shape my work.
+      This is the public part of my Obsidian vault. I use it to keep track of my projects,
+      computers, audio gear, cameras, interests, and whatever I am learning about.
     </p>
-    <div class="hero-actions">
-      <a class="button primary" href="/about/">How to read this site <span>→</span></a>
-      <a class="button" href="/explore/">Search the knowledge base</a>
-    </div>
-  </section>
+    <form class="home-search" action="/explore/" method="get">
+      <label for="home-search">Search my notes</label>
+      <div><input id="home-search" name="q" type="search" placeholder="Search…" /><button type="submit">Search</button></div>
+    </form>
+  </header>
 
-  <section class="route-grid" aria-labelledby="browse-heading">
-    <div class="section-heading">
-      <span>Browse by route</span><h2 id="browse-heading">Begin with context, then go deeper.</h2>
-    </div>
-    {routes.map((route) => (
-      <a class="route-card" href={route.href}>
-        <span>{route.index}</span>
-        <h3>{route.title}</h3>
-        <p>{route.description}</p>
-        <strong>Explore →</strong>
+  <nav class="plain-section-list" aria-label="Sections">
+    {sections.map((section) => (
+      <a href={section.href}>
+        <div><h2>{section.title}</h2><p>{section.description}</p></div>
+        <span>{section.count}</span>
       </a>
     ))}
-  </section>
+  </nav>
 
-  <section class="featured-section">
-    <div class="section-heading split">
-      <div><span>Current map</span><h2>Active projects and systems</h2></div>
-      <a href="/projects/">View all projects →</a>
-    </div>
-    <div class="card-grid">{featured.map((document) => <DocumentCard document={document} />)}</div>
-  </section>
-
-  <section class="recent-panel">
-    <div class="section-heading"><span>Living vault</span><h2>Recently updated</h2></div>
+  <section class="plain-recent">
+    <div class="simple-heading"><h2>Recently updated</h2><a href="/timeline/">View timeline</a></div>
     <ol>
       {recent.map((document) => (
         <li>
-          <time datetime={document.updated}>{document.updated}</time>
           <a href={`/notes/${document.slug}/`}>{document.title}</a>
           <span>{document.topic}</span>
+          <time datetime={document.updated}>{document.updated}</time>
         </li>
       ))}
     </ol>
