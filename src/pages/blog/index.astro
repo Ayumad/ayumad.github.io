@@ -1,0 +1,46 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import PageHeader from "../../components/PageHeader.astro";
+import { blogPosts } from "../../lib/blog";
+---
+
+<BaseLayout
+  title="Blog"
+  description="Long-form essays from Ayush Madhukar about personal systems, local AI, Linux, audio, and the public layer around a private notebook."
+  currentPath="/blog/"
+>
+  <PageHeader
+    eyebrow="Published writing"
+    title="Blog"
+    intro="Long-form essays shaped by the projects and systems documented across this knowledge base. These are edited public pieces, not raw private notes."
+    count={blogPosts.length}
+    unit="essays"
+  />
+
+  <section class="blog-list" aria-label="Published essays">
+    {blogPosts.map((post, index) => (
+      <article class:list={["blog-card", { featured: index === 0 }]}>
+        <div class="blog-card-meta">
+          <span>{String(index + 1).padStart(2, "0")}</span>
+          <time datetime={post.date}>{post.date}</time>
+          <span>{post.readingTime}</span>
+        </div>
+        <div>
+          <h2><a href={`/blog/${post.slug}/`}>{post.title}</a></h2>
+          <p>{post.summary}</p>
+          <ul>{post.tags.map((tag) => <li>{tag}</li>)}</ul>
+        </div>
+        <a class="blog-card-arrow" href={`/blog/${post.slug}/`} aria-label={`Read ${post.title}`}>↗</a>
+      </article>
+    ))}
+  </section>
+
+  <aside class="publishing-boundary">
+    <span>Two publishing layers</span>
+    <p>
+      Essays are deliberately edited for outside readers. The Knowledge sections expose a broader,
+      navigable subset of the vault while private context and operational material remain local.
+    </p>
+    <a href="/library/">Browse public notes <i aria-hidden="true">↗</i></a>
+  </aside>
+</BaseLayout>

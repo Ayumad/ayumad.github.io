@@ -4,11 +4,12 @@ interface Props {
   title: string;
   intro: string;
   count?: number;
+  unit?: string;
 }
-const { eyebrow, title, intro, count } = Astro.props;
+const { eyebrow, title, intro, count, unit = "notes" } = Astro.props;
 ---
 <header class="page-header">
-  <div class="eyebrow">{eyebrow}{typeof count === "number" && <span>{count} notes</span>}</div>
+  <div class="eyebrow">{eyebrow}{typeof count === "number" && <span>{count} {unit}</span>}</div>
   <h1>{title}</h1>
   <p>{intro}</p>
 </header>
