@@ -1,10 +1,15 @@
-# Ayumad Knowledge
+# Ayumad Blog + Knowledge
 
-A navigable public documentation layer generated from Ayush Madhukar’s Obsidian vault.
+The canonical public writing and knowledge layer for [ayumad.me](https://ayumad.me).
 
-The site reorganizes projects, systems, interests, reference notes, inventories, and
-historical context into stable public routes. It intentionally does not reproduce the
-vault’s folder tree or publish internal maintenance material and archive duplicates.
+Edited essays live under `/blog/`. The rest of the site reorganizes projects, systems,
+interests, reference notes, inventories, and historical context exported from Ayush
+Madhukar’s Obsidian vault into stable public routes. It intentionally does not reproduce
+the vault’s folder tree or publish internal maintenance material and archive duplicates.
+
+Portfolio, Blog, and Knowledge links carry the active light/dark theme and visual mode
+between domains. The two repositories remain independently deployable: Vercel serves the
+portfolio, while GitHub Pages serves this static publication layer.
 
 ## Local development
 
@@ -17,6 +22,9 @@ npm run dev
 
 The exporter runs before development and builds the public content manifest and search
 index. Override the vault location with `OBSIDIAN_VAULT=/path/to/vault`.
+
+Blog posts are reviewed Markdown files in `src/content/blog`; unlike exported notes,
+they are written and versioned directly in this repository.
 
 ## Publishing
 

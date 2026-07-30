@@ -1,0 +1,68 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { blogPosts, type BlogPost } from "../../lib/blog";
+
+export function getStaticPaths() {
+  return blogPosts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props as { post: BlogPost };
+const related = blogPosts.filter((item) => item.slug !== post.slug).slice(0, 3);
+---
+
+<BaseLayout
+  title={post.title}
+  description={post.summary}
+  currentPath="/blog/"
+>
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="/">Knowledge</a><span>/</span>
+    <a href="/blog/">Blog</a><span>/</span>
+    <span>{post.title}</span>
+  </nav>
+
+  <div class="document-layout blog-document-layout">
+    <article class="document blog-document">
+      <header class="document-header blog-document-header">
+        <div class="eyebrow">Essay<span>{post.readingTime}</span></div>
+        <h1>{post.title}</h1>
+        <p>{post.summary}</p>
+        <dl>
+          <dt>Published</dt><dd><time datetime={post.date}>{post.date}</time></dd>
+          <dt>Topics</dt><dd>{post.tags.join(" · ")}</dd>
+        </dl>
+      </header>
+      <div class="prose" set:html={post.html} />
+      <footer class="source-context editorial-context">
+        <span>Editorial layer</span>
+        <p>This essay is a public adaptation of ideas and systems developed in the private notebook.</p>
+      </footer>
+    </article>
+
+    <aside class="document-rail">
+      {post.headings.length > 0 && (
+        <nav aria-label="On this page">
+          <strong>On this page</strong>
+          {post.headings.map((heading) => (
+            <a class={`depth-${heading.depth}`} href={`#${heading.id}`}>{heading.text}</a>
+          ))}
+        </nav>
+      )}
+      <div class="related">
+        <strong>Keep reading</strong>
+        {related.map((item) => (
+          <a href={`/blog/${item.slug}/`}><span>Essay</span>{item.title}</a>
+        ))}
+      </div>
+      <div class="related">
+        <strong>Continue exploring</strong>
+        <a href="/projects/"><span>Knowledge</span>Projects</a>
+        <a href="/systems/"><span>Knowledge</span>Systems</a>
+        <a href="/library/"><span>Knowledge</span>Public notes</a>
+      </div>
+    </aside>
+  </div>
+</BaseLayout>

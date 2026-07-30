@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 import manifest from "../src/generated/manifest.json";
+import { blogPosts, findBlogPost } from "../src/lib/blog";
 
 describe("generated knowledge base", () => {
   it("publishes a substantial canonical collection", () => {
@@ -43,5 +44,27 @@ describe("generated knowledge base", () => {
     expect(packageJson.scripts.build).toContain("astro build");
     expect(readFileSync(new URL("../public/robots.txt", import.meta.url), "utf8")).toContain("Sitemap:");
     expect(readFileSync(new URL("../public/og.png", import.meta.url)).byteLength).toBeGreaterThan(10_000);
+  });
+
+  it("publishes complete, uniquely routed essays", () => {
+    expect(blogPosts).toHaveLength(4);
+    expect(new Set(blogPosts.map((post) => post.slug)).size).toBe(blogPosts.length);
+    for (const post of blogPosts) {
+      expect(post.title.length).toBeGreaterThan(8);
+      expect(post.summary.length).toBeGreaterThan(40);
+      expect(post.tags.length).toBeGreaterThan(1);
+      expect(post.html).toContain("<p>");
+      expect(findBlogPost(post.slug)).toBe(post);
+    }
+  });
+
+  it("sanitizes essay markup while preserving linked headings", () => {
+    for (const post of blogPosts) {
+      expect(post.html).not.toMatch(/<script|javascript:/i);
+      for (const heading of post.headings) {
+        expect(post.html).toContain(`id="${heading.id}"`);
+        expect(post.html).toContain(`href="#${heading.id}"`);
+      }
+    }
   });
 });
