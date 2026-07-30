@@ -1,0 +1,40 @@
+---
+const { currentPath = "/" } = Astro.props;
+const nav = [
+  { href: "/", label: "Start here", index: "00" },
+  { href: "/about/", label: "About", index: "01" },
+  { href: "/projects/", label: "Projects", index: "02" },
+  { href: "/systems/", label: "Systems", index: "03" },
+  { href: "/interests/", label: "Interests", index: "04" },
+  { href: "/library/", label: "Library", index: "05" },
+  { href: "/timeline/", label: "Timeline", index: "06" },
+  { href: "/explore/", label: "Explore", index: "07" },
+];
+---
+
+<aside class="sidebar" id="site-sidebar">
+  <div class="sidebar-top">
+    <a class="wordmark" href="/" aria-label="Ayush knowledge base home">
+      <span>AYUMAD</span><strong>/KNOWLEDGE</strong>
+    </a>
+    <button class="menu-close" type="button" aria-label="Close navigation" data-menu-close>×</button>
+  </div>
+  <p class="sidebar-intro">Public documentation about the projects, systems, interests, and ideas shaping Ayush’s work.</p>
+  <nav aria-label="Primary navigation">
+    {nav.map((item) => (
+      <a class:list={["nav-link", { active: item.href === "/" ? currentPath === "/" : currentPath.startsWith(item.href) }]} href={item.href}>
+        <span>{item.index}</span>{item.label}
+      </a>
+    ))}
+  </nav>
+  <div class="sidebar-actions">
+    <a class="search-link" href="/explore/"><kbd>⌘</kbd><kbd>K</kbd><span>Search everything</span></a>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch color theme">
+      <span aria-hidden="true">◐</span> Theme
+    </button>
+  </div>
+  <footer>
+    <a href="https://ayumad.me">← ayumad.me</a>
+    <p>A living public layer of an Obsidian vault.</p>
+  </footer>
+</aside>

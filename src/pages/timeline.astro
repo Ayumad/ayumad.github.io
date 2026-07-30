@@ -1,0 +1,23 @@
+---
+import manifest from "../generated/manifest.json";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/PageHeader.astro";
+const documents = manifest.documents
+  .filter((document) => document.created || document.updated)
+  .sort((a, b) => (b.updated || b.created || "").localeCompare(a.updated || a.created || ""));
+---
+<BaseLayout title="Timeline" description="A chronological view of meaningful projects, notes, and changes." generatedAt={manifest.generatedAt}>
+  <PageHeader eyebrow="06 / Change over time" title="Timeline" intro="A chronological route through what has been created, revisited, completed, and kept." count={documents.length} />
+  <ol class="timeline">
+    {documents.map((document) => (
+      <li>
+        <time datetime={document.updated || document.created}>{document.updated || document.created}</time>
+        <div>
+          <span>{document.topic} / {document.status || "document"}</span>
+          <h2><a href={`/notes/${document.slug}/`}>{document.title}</a></h2>
+          <p>{document.summary}</p>
+        </div>
+      </li>
+    ))}
+  </ol>
+</BaseLayout>

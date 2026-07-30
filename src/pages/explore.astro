@@ -1,0 +1,112 @@
+---
+import manifest from "../generated/manifest.json";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHeader from "../components/PageHeader.astro";
+const graphDocuments = manifest.documents.map(({ slug, title, topic, links }) => ({ slug, title, topic, links }));
+---
+<BaseLayout title="Explore" description="Search and browse every public document by topic, tag, or connection." generatedAt={manifest.generatedAt}>
+  <PageHeader eyebrow="07 / Find a thread" title="Explore everything" intro="Search the full knowledge base, browse its major topics, or use the connection map to follow relationships between notes." count={manifest.documents.length} />
+  <section class="search-panel" id="search">
+    <label for="knowledge-search">Search documents</label>
+    <div class="search-box"><span aria-hidden="true">⌕</span><input id="knowledge-search" type="search" autocomplete="off" placeholder="Try “local AI”, “headphones”, or “philosophy”…" /><kbd>ESC</kbd></div>
+    <div class="filter-row">
+      <select id="topic-filter" aria-label="Filter by topic">
+        <option value="">All topics</option>
+        {manifest.topics.map((topic) => <option value={topic.title}>{topic.title}</option>)}
+      </select>
+      <span id="result-count">{manifest.documents.length} documents</span>
+    </div>
+    <div id="search-results" class="search-results" aria-live="polite"></div>
+  </section>
+
+  <section class="topic-directory">
+    <div class="section-heading"><span>Topic index</span><h2>Browse the map</h2></div>
+    <div class="topic-grid">
+      {manifest.topics.map((topic) => (
+        <button type="button" data-topic={topic.title}>
+          <span>{topic.documentIds.length.toString().padStart(2, "0")}</span>
+          <h3>{topic.title}</h3><p>{topic.description}</p>
+        </button>
+      ))}
+    </div>
+  </section>
+
+  <section class="graph-section">
+    <div class="section-heading"><span>Connection map</span><h2>A secondary way through</h2></div>
+    <p>Each point is a document; lines represent direct links. Use search and the structured sections for orientation, then this map for serendipity.</p>
+    <canvas id="knowledge-graph" width="1000" height="520" aria-label="Visualization of connections between knowledge-base documents"></canvas>
+  </section>
+</BaseLayout>
+<script is:inline define:vars={{ graphDocuments }}>
+  const input = document.querySelector("#knowledge-search");
+  const filter = document.querySelector("#topic-filter");
+  const results = document.querySelector("#search-results");
+  const count = document.querySelector("#result-count");
+  let searchIndex = [];
+
+  const escapeHtml = (value) => value.replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;",
+  }[character]));
+  const render = () => {
+    const query = input.value.trim().toLowerCase();
+    const topic = filter.value;
+    const matches = searchIndex.filter((item) => {
+      const haystack = `${item.title} ${item.summary} ${item.topic} ${item.tags.join(" ")} ${item.text}`.toLowerCase();
+      return (!query || haystack.includes(query)) && (!topic || item.topic === topic);
+    }).slice(0, 60);
+    count.textContent = `${matches.length}${matches.length === 60 ? "+" : ""} document${matches.length === 1 ? "" : "s"}`;
+    results.innerHTML = matches.map((item) => `
+      <a href="/notes/${item.slug}/">
+        <span>${escapeHtml(item.topic)}${item.updated ? ` · ${escapeHtml(item.updated)}` : ""}</span>
+        <strong>${escapeHtml(item.title)}</strong>
+        <p>${escapeHtml(item.summary)}</p>
+      </a>`).join("") || "<p class='empty-state'>No documents matched that search.</p>";
+  };
+  fetch("/search.json").then((response) => response.json()).then((data) => { searchIndex = data; render(); });
+  input.addEventListener("input", render);
+  filter.addEventListener("change", render);
+  document.querySelectorAll("[data-topic]").forEach((button) => button.addEventListener("click", () => {
+    filter.value = button.dataset.topic;
+    render();
+    document.querySelector("#search").scrollIntoView({ behavior: "smooth" });
+  }));
+  addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && document.activeElement === input) { input.value = ""; render(); input.blur(); }
+  });
+  const params = new URLSearchParams(location.search);
+  if (params.get("topic")) filter.value = params.get("topic");
+
+  const canvas = document.querySelector("#knowledge-graph");
+  const context = canvas.getContext("2d");
+  const resize = () => {
+    const ratio = devicePixelRatio || 1;
+    const rect = canvas.getBoundingClientRect();
+    canvas.width = rect.width * ratio;
+    canvas.height = rect.height * ratio;
+    context.setTransform(ratio, 0, 0, ratio, 0, 0);
+    draw(rect.width, rect.height);
+  };
+  const draw = (width, height) => {
+    const style = getComputedStyle(document.documentElement);
+    const cyan = style.getPropertyValue("--cyan");
+    const line = style.getPropertyValue("--line");
+    const nodes = graphDocuments.slice(0, 180).map((item, index) => {
+      const angle = index * 2.399963;
+      const radius = Math.sqrt(index / 180) * Math.min(width, height) * .44;
+      return { ...item, x: width / 2 + Math.cos(angle) * radius, y: height / 2 + Math.sin(angle) * radius };
+    });
+    const bySlug = new Map(nodes.map((node) => [node.slug, node]));
+    context.clearRect(0, 0, width, height);
+    context.strokeStyle = line;
+    context.globalAlpha = .35;
+    nodes.forEach((node) => node.links.slice(0, 4).forEach((slug) => {
+      const target = bySlug.get(slug);
+      if (!target) return;
+      context.beginPath(); context.moveTo(node.x, node.y); context.lineTo(target.x, target.y); context.stroke();
+    }));
+    context.globalAlpha = 1;
+    context.fillStyle = cyan;
+    nodes.forEach((node) => { context.beginPath(); context.arc(node.x, node.y, 2.2, 0, Math.PI * 2); context.fill(); });
+  };
+  new ResizeObserver(resize).observe(canvas);
+</script>

@@ -1,0 +1,14 @@
+---
+import manifest from "../generated/manifest.json";
+import SectionPage from "../components/SectionPage.astro";
+import type { PublicDocument } from "../types";
+const documents = manifest.documents.filter((document) => document.section === "library") as PublicDocument[];
+---
+<SectionPage
+  section="library"
+  title="Library"
+  eyebrow="05 / Reference layer"
+  intro="Detailed notes, inventories, comparisons, concept pages, lists, and other material worth keeping close."
+  documents={documents}
+  generatedAt={manifest.generatedAt}
+/>

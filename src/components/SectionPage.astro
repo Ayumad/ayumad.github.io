@@ -1,0 +1,26 @@
+---
+import type { PublicDocument } from "../types";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import DocumentCard from "./DocumentCard.astro";
+import PageHeader from "./PageHeader.astro";
+
+interface Props {
+  section: string;
+  title: string;
+  eyebrow: string;
+  intro: string;
+  documents: PublicDocument[];
+  generatedAt: string;
+}
+const { section, title, eyebrow, intro, documents, generatedAt } = Astro.props;
+const topics = [...new Set(documents.map((document) => document.topic))].sort();
+---
+<BaseLayout title={title} description={intro} currentPath={`/${section}/`} generatedAt={generatedAt}>
+  <PageHeader eyebrow={eyebrow} title={title} intro={intro} count={documents.length} />
+  <div class="topic-filter" aria-label="Topics in this section">
+    {topics.map((topic) => <a href={`/explore/?topic=${encodeURIComponent(topic)}`}>{topic}</a>)}
+  </div>
+  <section class="card-grid" aria-label={`${title} documents`}>
+    {documents.map((document) => <DocumentCard document={document} />)}
+  </section>
+</BaseLayout>

@@ -1,0 +1,4155 @@
+{
+  "generatedAt": "2026-07-30T05:01:02.491Z",
+  "sourceCount": 1133,
+  "publishedCount": 219,
+  "skippedCount": 912,
+  "duplicateCount": 2,
+  "brokenLinks": [
+    {
+      "source": "02 Projects/Active/Homelab/Legacy Loadout Plan.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "02 Projects/Active/Homelab/Legacy Loadout Plan.md",
+      "target": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook"
+    },
+    {
+      "source": "02 Projects/Active/Homelab/Legacy Loadout Plan.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "02 Projects/Audio and AI 30-Day Journey.md",
+      "target": "05 Archive/Legacy Vault 2026-06-22/AI Suggestions"
+    },
+    {
+      "source": "02 Projects/Homelab.md",
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — Homelab"
+    },
+    {
+      "source": "02 Projects/Homelab.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "02 Projects/NES Emulator.md",
+      "target": "Hermes/Roadmap — NES Emulator"
+    },
+    {
+      "source": "02 Projects/Obsidian RAG Assistant.md",
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — RAG Assistant"
+    },
+    {
+      "source": "02 Projects/Obsidian RAG Assistant.md",
+      "target": "Hermes/Roadmap — RAG Assistant"
+    },
+    {
+      "source": "02 Projects/Obsidian RAG Assistant.md",
+      "target": "Hermes/Roadmap — Hermes"
+    },
+    {
+      "source": "02 Projects/Obsidian RAG Assistant.md",
+      "target": "Journal Processing Workflow"
+    },
+    {
+      "source": "02 Projects/Personal Website.md",
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — Personal Website"
+    },
+    {
+      "source": "02 Projects/Personal Website.md",
+      "target": "Hermes/Project Tracker"
+    },
+    {
+      "source": "02 Projects/Planned/Voice Assistant.md",
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant"
+    },
+    {
+      "source": "03 Areas/Audio/Audio Area.md",
+      "target": "Preferences and Taste"
+    },
+    {
+      "source": "03 Areas/Audio/Audio Area.md",
+      "target": "Audio MOC"
+    },
+    {
+      "source": "03 Areas/Creative Work/Creative Work.md",
+      "target": "Photography MOC"
+    },
+    {
+      "source": "03 Areas/Creative Work/Creative Work.md",
+      "target": "Audio MOC"
+    },
+    {
+      "source": "03 Areas/Creative Work/Creative Work.md",
+      "target": "Ayush Profile"
+    },
+    {
+      "source": "03 Areas/Creative Work/Creative Work.md",
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — Personal Website"
+    },
+    {
+      "source": "03 Areas/Education/School.md",
+      "target": "School MOC"
+    },
+    {
+      "source": "03 Areas/Education/School.md",
+      "target": "Ayush Profile"
+    },
+    {
+      "source": "03 Areas/Education/School.md",
+      "target": "05 Archive/Legacy Vault 2026-06-22/Bio#What I Study and Work On"
+    },
+    {
+      "source": "03 Areas/Personal Development/Personal Development.md",
+      "target": "05 Archive/Legacy Vault 2026-06-22/Personal Schedule"
+    },
+    {
+      "source": "03 Areas/Personal Development/Personal Development.md",
+      "target": "Personal Development MOC"
+    },
+    {
+      "source": "03 Areas/Personal Development/Personal Development.md",
+      "target": "Reflections"
+    },
+    {
+      "source": "03 Areas/Personal Development/Personal Development.md",
+      "target": "Ayush Profile"
+    },
+    {
+      "source": "03 Areas/Philosophy/Personal Philosophy.md",
+      "target": "Philosophy MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
+      "target": "Technology MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
+      "target": "Technical Ecosystem"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
+      "target": "Loadout - Agent Instructions"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/02 Loadout - Valuation.md",
+      "target": "Microsoft Wireless Keyboard (Designer Compact)"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/02 Loadout - Valuation.md",
+      "target": "Logitech MX Anywhere 3"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions.md",
+      "target": "05 Archive/Legacy Vault 2026-06-22/Loadout/codex_notes.md"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions.md",
+      "target": "03 Areas/Technology/Loadout/90 Loadout Operations/Agent Instructions"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
+      "target": "Gaming Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Apple Mac mini (M4, 2024).md",
+      "target": "Omarchy"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Beelink SER8.md",
+      "target": "Hermes Config & Setup"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Lenovo ThinkStation P520.md",
+      "target": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/NVIDIA GeForce RTX 3060 12 GB.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",
+      "target": "99 System/Migration/Rearchitecture Ledger.csv"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Legacy Continuity.md",
+      "target": "03 Areas/Technology/Loadout/90 Loadout Operations/Agent Instructions"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Legacy Continuity.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Technology.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Technology.md",
+      "target": "Technology MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Technology.md",
+      "target": "Computing MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Technology.md",
+      "target": "Local AI MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Technology.md",
+      "target": "Technical Ecosystem"
+    },
+    {
+      "source": "04 Resources/Audio/Earbuds.md",
+      "target": "Airpod Pro 2"
+    },
+    {
+      "source": "04 Resources/Audio/Wired.md",
+      "target": "DT 770 Pro"
+    },
+    {
+      "source": "04 Resources/Audio/Wired.md",
+      "target": "Superlux HD 668B"
+    },
+    {
+      "source": "04 Resources/Audio/Wireless.md",
+      "target": "Sony WH1000 XM5"
+    },
+    {
+      "source": "04 Resources/Audio/Wireless.md",
+      "target": "Focal Bathys"
+    },
+    {
+      "source": "04 Resources/Learning/Books.md",
+      "target": "Manga"
+    },
+    {
+      "source": "04 Resources/Learning/Math.md",
+      "target": "Linear Algebra"
+    },
+    {
+      "source": "04 Resources/Learning/Math.md",
+      "target": "Discrete Math"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Computer Accessories.md",
+      "target": "Keyboards"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Computer Accessories.md",
+      "target": "Mice"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Fashion.md",
+      "target": "Clothes"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Fashion.md",
+      "target": "Shoes"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Jewelry.md",
+      "target": "Watches"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Jewelry.md",
+      "target": "Rings"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Jewelry.md",
+      "target": "Necklaces"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Jewelry.md",
+      "target": "Bracelets"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
+      "target": "00 Index"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
+      "target": "Mobile Gaming"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Shopping.md",
+      "target": "Marketplace"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Sports.md",
+      "target": "Swimming"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Sports.md",
+      "target": "Skating"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Sports.md",
+      "target": "Climbing"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Movies and TV Tracker.md",
+      "target": "Chainsaw Man Reze"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Movies and TV Tracker.md",
+      "target": "A Whisker Away"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Movies and TV Tracker.md",
+      "target": "Eva Rebirths"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Social Media.md",
+      "target": "Twitter"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Social Media.md",
+      "target": "Reddit"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Social Media.md",
+      "target": "Instagram"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Social Media.md",
+      "target": "Facebook"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Social Media.md",
+      "target": "Snapchat"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Social Media.md",
+      "target": "Pinterest"
+    },
+    {
+      "source": "04 Resources/Media and Culture/TV.md",
+      "target": "Movies"
+    },
+    {
+      "source": "04 Resources/Media and Culture/TV.md",
+      "target": "Television"
+    },
+    {
+      "source": "04 Resources/Media and Culture/TV.md",
+      "target": "Anime"
+    },
+    {
+      "source": "04 Resources/Media and Culture/Video.md",
+      "target": "Tiktok"
+    },
+    {
+      "source": "04 Resources/Philosophy/Philosophy Dictionary.md",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "04 Resources/Photography/Cameras.md",
+      "target": "Mirrorless Camera"
+    },
+    {
+      "source": "04 Resources/Photography/DSLR.md",
+      "target": "Nikon D5100"
+    },
+    {
+      "source": "04 Resources/Technology/Computer Science.md",
+      "target": "C++"
+    },
+    {
+      "source": "04 Resources/Technology/Linux.md",
+      "target": "Fedora"
+    },
+    {
+      "source": "04 Resources/Technology/Linux.md",
+      "target": "Arch"
+    },
+    {
+      "source": "04 Resources/Technology/Linux.md",
+      "target": "EndeavourOS"
+    },
+    {
+      "source": "04 Resources/Technology/Software Engineering.md",
+      "target": "App Development"
+    },
+    {
+      "source": "04 Resources/Technology/Windows.md",
+      "target": "Computing MOC"
+    },
+    {
+      "source": "04 Resources/Technology/iOS.md",
+      "target": "Jailbreaking"
+    },
+    {
+      "source": "Home.md",
+      "target": "00 Inbox/Inbox"
+    },
+    {
+      "source": "Home.md",
+      "target": "Task & Project Dashboard"
+    },
+    {
+      "source": "Home.md",
+      "target": "Active Projects"
+    },
+    {
+      "source": "Home.md",
+      "target": "Questions Dashboard"
+    },
+    {
+      "source": "Home.md",
+      "target": "Technology MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Audio MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "School MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Personal Development MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Philosophy MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Photography MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Projects MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Computing MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Local AI MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Obsidian Second Brain MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "Hermes Operations Dashboard"
+    },
+    {
+      "source": "Home.md",
+      "target": "90 Operations/Hermes/Kanban Board"
+    },
+    {
+      "source": "Home.md",
+      "target": "90 Operations/Hermes/TODO Master"
+    },
+    {
+      "source": "Home.md",
+      "target": "90 Operations/Hermes/Configuration/Config & Setup"
+    },
+    {
+      "source": "Home.md",
+      "target": "90 Operations/Hermes/Cron & Automations/Cron Jobs"
+    },
+    {
+      "source": "Home.md",
+      "target": "Maintenance Dashboard"
+    },
+    {
+      "source": "Home.md",
+      "target": "Vault Validation Report"
+    },
+    {
+      "source": "Home.md",
+      "target": "2026 Vault Rearchitecture Manifest"
+    },
+    {
+      "source": "Home.md",
+      "target": "Codex Vault Instructions"
+    },
+    {
+      "source": "Home.md",
+      "target": "Canonical Ownership"
+    },
+    {
+      "source": "Home.md",
+      "target": "Navigation & Naming Standard"
+    },
+    {
+      "source": "Home.md",
+      "target": "05 Archive/Archive Index"
+    },
+    {
+      "source": "Home.md",
+      "target": "01 Daily Notes/README"
+    },
+    {
+      "source": "Home.md",
+      "target": "Vault Growth Guide"
+    },
+    {
+      "source": "Home.md",
+      "target": "Journal Processing Workflow"
+    }
+  ],
+  "skipped": [
+    {
+      "source": "00 Inbox/Inbox.md",
+      "reason": "internal 00 Inbox material"
+    },
+    {
+      "source": "00 Inbox/README.md",
+      "reason": "internal 00 Inbox material"
+    },
+    {
+      "source": "01 Daily Notes/README.md",
+      "reason": "internal 01 Daily Notes material"
+    },
+    {
+      "source": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook.md",
+      "reason": "credential-like content"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Agent Instructions.md",
+      "reason": "navigation or agent instruction"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Legacy Agent Instructions.md",
+      "reason": "navigation or agent instruction"
+    },
+    {
+      "source": "04 Resources/Technology/C++.md",
+      "reason": "parse error: Invalid regular expression: /^C++\\s*/i: Nothing to repeat"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/00 Inbox/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/01 Daily Notes/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/Audio and AI 30-Day Journey.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/Homelab.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/NES Emulator.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/Obsidian RAG Assistant.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/Personal Website.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Audio/Audio Area.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Creative Work/Creative Work.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Education/School.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Personal Development/Personal Development.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Philosophy/Personal Philosophy.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/0 - Table of Contents.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/512 GB NVMe SSD (P520 Boot Drive).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/8BitDo SN30 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/8BitDo Ultimate 2C.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/8BitDo Wireless Keyboard.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/AMD Radeon RX 6600 8 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Ally.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Flow Z13 (2023).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Flow Z13 (2025).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Zephyrus G14.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Acer PM161Q Jbmiuux Portable Monitor.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Anker Thunderbolt 5 Dock.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple AirPods Max (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple AirPods Pro 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple Mac mini (M4, 2024).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple MacBook Air (M2).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple MacBook Pro (M4 Pro).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple TV 4K (3rd Generation, 64 GB).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPad Pro 11-inch (M4, Cellular).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPad mini (6th Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone 13 mini.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone 17.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone Air.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone SE (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audeze LCD-X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audio Inventory.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audio Sources.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Beats Powerbeats Pro 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Beelink SER8.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/BenQ ZOWIE XL2411P.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/CHUWI MiniBook X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Cameras and Lenses.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Computers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Consoles and Controllers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Creekwood.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/DACs and Amplifiers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Displays and Home Theater.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/FiiO K13 R2R.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Focal Azurys.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Focal Clear (Original).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fosi Audio GR70.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fosi Audio ZA3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Framework Laptop 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujifilm X-T4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujifilm X100VI.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujifilm X20.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Gaming Inventory.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Gaming.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Google Nest Wifi (AC2200).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Google Pixel 4 XL.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Google Pixel 5.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/HHKB Pro 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/HIFIMAN Edition XS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Handheld Gaming PCs.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Headphones.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/IEMs and Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Inventory.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/KEF Q150.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Keychron Q1.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Kiwi Ears x B_Media Chorus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Kiwi Ears x B_Media Terras Cable.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Laptops.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad T431s.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad T480.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad X1 Carbon Gen 6.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad X1 Carbon Gen 9.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad X220 Tablet.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad Yoga 260.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkStation P520 Homelab Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkStation P520.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Loadout MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech Combo Touch for iPad Pro (M2).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G ASTRO A50 (Gen 5).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G CLOUD Gaming Handheld.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G Pro Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G Pro X Superlight 2 Dex.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G915 TKL.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech MX Master 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech MX Travel 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech Z625.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/MOONDROP x Crinacle DUSK.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Manfrotto Carbon Fiber Travel Tripod.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Meta Quest 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Meze Audio 99 Classics (1st Gen).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Wireless Keyboard.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Xbox One.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Xbox Wireless Controller (Series X-S).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Mobile Devices.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/NVIDIA GeForce RTX 2060 6 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/NVIDIA GeForce RTX 3060 12 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo New 3DS (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo New 3DS XL (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch 2 Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch Lite (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch OLED Model (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/OWC Thunderbolt 4 Dock.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Panasonic Let's Note SV1.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Panasonic Lumix DMC-ZS50.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Personal Obsidian RAG Assistant Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Planned Sales.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Prices.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Rainy 75 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Raspberry Pi 4 Model B.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Basilisk V3 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Blade Stealth 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Edge.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Viper V3 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Retroid Pocket Nova.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/SVS SB-1000 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung Odyssey G4 (25-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung Odyssey G7 (32-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung Odyssey OLED G8 (G80SD).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser HD 4.50BTNC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser HD 490 PRO.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser HD 660S2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser MOMENTUM 4 Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sony BRAVIA X850G (75-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sony WF-1000XM4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Speakers and Receivers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/TODO.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/TRUTHEAR x Crinacle ZERO RED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/VR Headsets.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Valve Steam Deck OLED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/WiiM Ultra.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Wishlist.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Yamaha RX-V677.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/codex_notes.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/iPad Magic Keyboard (M4).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Technology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Audio Concepts.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Headphone Concepts.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Music.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Wired.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Learning/Books.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Learning/Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Learning/Math.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Learning/Neural Networks.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Learning/Religions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Computer Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Fashion.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Jewelry.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Lifestyle Wishlist.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Products.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Self Care.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Shopping.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Sports.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Subscriptions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Currently Playing.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Media.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/MyAnimeList.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Pokemon ROM Hacks.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Pokemon.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Social Media.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/TV.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Video Games.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Video.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/YouTube.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Felicific Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Idealism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Materialism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Mechanistic.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Philosophy Dictionary.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Process Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Substance Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Photography/Cameras.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Photography/DSLR.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Photography/Digital Camera.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/C++.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Computer Science.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Electronics.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Linux.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Machine Learning.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Operating Systems.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Python.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Software Engineering.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Software.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Web Development.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Windows.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/iOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/macOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/0-Templates/Template_List.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/AI Suggestions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Bio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Books.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/C++.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Cameras.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Codex_Obsidian_Vault_Instructions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Computer Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Computer Science.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Computers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/DSLR.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Digital Camera.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Electronics.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Fashion.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Felicific Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Headphones.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Homelab.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Idealism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Interests.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Intro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Jewelry.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Laptops.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Linux.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Lists.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/8BitDo SN30 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/8BitDo Ultimate 2C.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/ASUS ROG Ally.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple AirPods Max (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple AirPods Pro 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple MacBook Air (M2).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone 13 mini.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone Air.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone SE (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Audeze LCD-X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Beats Powerbeats Pro 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/CHUWI MiniBook X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Cameras and Lenses.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Creekwood.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/DACs and Amplifiers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Displays and Home Theater.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/FiiO K13 R2R.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Focal Azurys.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Focal Clear (Original).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fosi Audio GR70.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fosi Audio ZA3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Framework Laptop 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fujifilm X100VI.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fujifilm X20.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Google Pixel 5.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/HIFIMAN Edition XS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Handheld Gaming PCs.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Headphones.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/IEMs and Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/KEF Q150.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Lenovo ThinkPad T431s.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Logitech G CLOUD Gaming Handheld.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Logitech Z625.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/MOONDROP x Crinacle DUSK.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Meze Audio 99 Classics (1st Gen).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Microsoft Xbox Wireless Controller (Series X-S).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo New 3DS XL (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch 2 Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch Lite (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch OLED Model (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Panasonic Lumix DMC-ZS50.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/SVS SB-1000 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 4.50BTNC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 490 PRO.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 660S2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser MOMENTUM 4 Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sony WF-1000XM4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Speakers and Receivers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/TRUTHEAR x Crinacle ZERO RED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/VR Headsets.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Valve Steam Deck OLED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Welcome.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/WiiM Ultra.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Yamaha RX-V677.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Machine Learning.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Books.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/C++.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Cameras.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Computer Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/DSLR.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Digital Camera.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Fashion.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Headphones.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Idealism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Interests.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Intro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Jewelry.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Laptops.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Machine Learning.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Math.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Music.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/NES emulator.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Neural Networks.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Operating Systems.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Products.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Religions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/School.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Self Care.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Shopping.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Software Engineering.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Software.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Sports.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/TV.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Video.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Web Development.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/iOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Materialism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Math.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Mechanistic.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Media.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Music.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/NES emulator.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Neural Networks.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Operating Systems.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Personal Schedule.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Personal Website.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Personal_Obsidian_RAG_Assistant_Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Philosophy Dictionary.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Philosophy.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Pokemon.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Process Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Products.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Projects.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Python.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Religions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/School.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Self Care.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Shopping.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Social Media.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Software Engineering.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Software.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Sports.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Substance Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/TV.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Table of Contents.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Ultimate_AI_Second_Brain_Goal.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Video Games.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Video.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Web Development.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Wired.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Wishlist.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/iOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/0 - Table of Contents.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/512 GB NVMe SSD (P520 Boot Drive).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/8BitDo Ultimate 2C.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/AGENTS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/AMD Radeon RX 6600 8 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/ASUS ROG Ally.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/ASUS ROG Flow Z13 (2023).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/ASUS ROG Zephyrus G14.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Acer PM161Q Jbmiuux Portable Monitor.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple AirPods Max (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple MacBook Pro (M4 Pro).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple TV 4K (3rd Generation, 64 GB).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPad Pro 11-inch (M4, Cellular).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPad mini (6th Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPhone 17.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPhone Air.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Audeze LCD-X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Audio Sources.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Beelink SER8.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/BenQ ZOWIE XL2411P.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/CHUWI MiniBook X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Computers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Consoles and Controllers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Displays and Home Theater.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/FiiO K13 R2R.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fosi Audio GR70.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Framework Laptop 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fujifilm X-T4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fujifilm X100VI.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fujifilm X20.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Gaming.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Google Nest Wifi (AC2200).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Google Pixel 4 XL.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/HIFIMAN Edition XS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Inventory.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Kiwi Ears x B_Media Chorus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Kiwi Ears x B_Media Terras Cable.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Laptops.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad T431s.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad T480.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad X1 Carbon Gen 6.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad X1 Carbon Gen 9.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad X220 Tablet.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad Yoga 260.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkStation P520 Homelab Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkStation P520.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Logitech G ASTRO A50 (Gen 5).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Logitech G CLOUD Gaming Handheld.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/MOONDROP x Crinacle DUSK.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Meta Quest 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Microsoft Xbox One.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Mobile Devices.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 2060 6 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 3060 12 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo New 3DS (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo New 3DS XL (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch Lite (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch OLED Model (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Panasonic Let's Note SV1.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Personal Obsidian RAG Assistant Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Planned Sales.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Prices.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Raspberry Pi 4 Model B.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Razer Blade Stealth 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Razer Edge.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Retroid Pocket Nova.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/SVS SB-1000 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung Odyssey G4 (25-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung Odyssey G7 (32-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung Odyssey OLED G8 (G80SD).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Sennheiser HD 4.50BTNC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Sony BRAVIA X850G (75-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/TODO.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Valve Steam Deck OLED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Wishlist.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/codex_notes.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/06 AI Generated/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/07 Reflections/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/08 Datasets/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Acceptance Tests.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Active Projects.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Agents/Notion Governance.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Agents/Notion UX Guidelines.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Agents/Sync Rules.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Ayush Profile.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Codex Vault Instructions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Current Interests.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Journal Processing Workflow.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Audio MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Computing MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Homelab MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Local AI MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Obsidian Second Brain MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Personal Development MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Philosophy MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Photography MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Projects MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/School MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Technology MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Maintenance Dashboard.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Metadata Schema.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Migration Manifest.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Preferences and Taste.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Privacy and Dataset Policy.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Question Bank.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Question Preferences.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Question Workflow.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Questions Dashboard.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/RAG Indexing Rules.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Retrieval Evaluation Set.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Technical Ecosystem.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - AI Draft.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Area.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Daily Note.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Decision.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Entity.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Journal Entry.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Project.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Reflection.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Resource.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Troubleshooting.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Vault Growth Guide.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Vault Validation Report.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/AGENTS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/00 Index.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Config & Setup.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Cron Jobs.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Decision Log.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Prep Checklist.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Prep Knowledge Map.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Prep Log.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Prep Skill.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Topic Taxonomy.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/NixOS — Panasonic Let's Note SV1.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/One-Time TODOs.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Project Index.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Project Tracker.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Creative Work.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Hermes.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Homelab.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Linux From Scratch.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — NES Emulator.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Neocities.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — NixOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Personal Website.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — RAG Assistant.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Riced Linux.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — School.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Voice Assistant.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Session Log.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/TODO Master.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Time Tracker.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Home.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Archive Index.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/0-Templates/Template_List.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/AI Suggestions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Bio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Books.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/C++.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Cameras.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Codex_Obsidian_Vault_Instructions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Computer Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Computer Science.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Computers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/DSLR.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Digital Camera.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Electronics.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Fashion.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Felicific Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Headphones.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Homelab.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Idealism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Interests.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Intro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Jewelry.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Laptops.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Linux.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Lists.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/8BitDo SN30 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/8BitDo Ultimate 2C.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/ASUS ROG Ally.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple AirPods Max (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple AirPods Pro 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple MacBook Air (M2).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone 13 mini.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone Air.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone SE (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Audeze LCD-X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Beats Powerbeats Pro 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/CHUWI MiniBook X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Cameras and Lenses.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Creekwood.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/DACs and Amplifiers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Displays and Home Theater.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/FiiO K13 R2R.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Focal Azurys.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Focal Clear (Original).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Fosi Audio GR70.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Fosi Audio ZA3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Framework Laptop 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Fujifilm X100VI.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Fujifilm X20.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Google Pixel 5.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/HIFIMAN Edition XS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Handheld Gaming PCs.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Headphones.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/IEMs and Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/KEF Q150.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Lenovo ThinkPad T431s.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Logitech G CLOUD Gaming Handheld.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Logitech Z625.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/MOONDROP x Crinacle DUSK.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Meze Audio 99 Classics (1st Gen).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Microsoft Xbox Wireless Controller (Series X-S).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo New 3DS XL (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch 2 Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch Lite (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch OLED Model (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Panasonic Lumix DMC-ZS50.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/SVS SB-1000 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 4.50BTNC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 490 PRO.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 660S2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser MOMENTUM 4 Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Sony WF-1000XM4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Speakers and Receivers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/TRUTHEAR x Crinacle ZERO RED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/VR Headsets.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Valve Steam Deck OLED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Welcome.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/WiiM Ultra.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Loadout/Yamaha RX-V677.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Machine Learning.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Books.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/C++.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Calculus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Cameras.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Computer Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/DSLR.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Digital Camera.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Earbuds.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Fashion.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Headphones.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Idealism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Interests.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Intro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Jewelry.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Laptops.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Machine Learning.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Math.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Music.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/NES emulator.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Neural Networks.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Operating Systems.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Products.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Religions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/School.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Self Care.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Shopping.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Software Engineering.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Software.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Sports.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/TV.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Video.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/Web Development.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Main/iOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Materialism.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Math.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Mechanistic.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Media.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Music.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/NES emulator.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Neural Networks.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Operating Systems.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Personal Schedule.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Personal Website.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Personal_Obsidian_RAG_Assistant_Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Philosophy Dictionary.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Philosophy.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Pokemon.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Process Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Products.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Projects.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Python.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Religions.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/School.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Self Care.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Shopping.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Social Media.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Software Engineering.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Software.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Sports.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Substance Ontology.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/TV.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Table of Contents.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Ultimate_AI_Second_Brain_Goal.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Video Games.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Video.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Web Development.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Wired.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/Wishlist.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Legacy Vault 2026-06-22/iOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/0 - Table of Contents.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/512 GB NVMe SSD (P520 Boot Drive).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/8BitDo Ultimate 2C.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/AGENTS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/AMD Radeon RX 6600 8 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/ASUS ROG Ally.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/ASUS ROG Flow Z13 (2023).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/ASUS ROG Zephyrus G14.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Accessories.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Acer PM161Q Jbmiuux Portable Monitor.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple AirPods Max (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple MacBook Pro (M4 Pro).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple TV 4K (3rd Generation, 64 GB).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple iPad Pro 11-inch (M4, Cellular).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple iPad mini (6th Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple iPhone 17.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Apple iPhone Air.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Audeze LCD-X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Audio Sources.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Audio.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Beelink SER8.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/BenQ ZOWIE XL2411P.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/CHUWI MiniBook X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Computers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Consoles and Controllers.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Displays and Home Theater.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/FiiO K13 R2R.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Fosi Audio GR70.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Framework Laptop 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Fujifilm X-T4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Fujifilm X100VI.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Fujifilm X20.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Gaming.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Google Nest Wifi (AC2200).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Google Pixel 4 XL.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/HIFIMAN Edition XS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Inventory.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Kiwi Ears x B_Media Chorus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Kiwi Ears x B_Media Terras Cable.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Laptops.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkPad T431s.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkPad T480.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkPad X1 Carbon Gen 6.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkPad X1 Carbon Gen 9.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkPad X220 Tablet.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkPad Yoga 260.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkStation P520 Homelab Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Lenovo ThinkStation P520.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Logitech G ASTRO A50 (Gen 5).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Logitech G CLOUD Gaming Handheld.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/MOONDROP x Crinacle DUSK.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Meta Quest 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Microsoft Xbox One.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Mobile Devices.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 2060 6 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 3060 12 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Nintendo New 3DS (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Nintendo New 3DS XL (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Nintendo Switch (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Nintendo Switch 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Nintendo Switch Lite (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Nintendo Switch OLED Model (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Panasonic Let's Note SV1.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Personal Obsidian RAG Assistant Plan.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Planned Sales.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Prices.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Raspberry Pi 4 Model B.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Razer Blade Stealth 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Razer Edge.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Retroid Pocket Nova.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/SVS SB-1000 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Samsung Odyssey G4 (25-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Samsung Odyssey G7 (32-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Samsung Odyssey OLED G8 (G80SD).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Sennheiser HD 4.50BTNC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Sony BRAVIA X850G (75-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/TODO.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Valve Steam Deck OLED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/Wishlist.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Loadout Merge Backup/codex_notes.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Superseded Canonical Notes/2026-07-29 Loadout MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Superseded Canonical Notes/2026-07-29 Loadout Table of Contents.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "06 AI Generated/README.md",
+      "reason": "internal 06 AI Generated material"
+    },
+    {
+      "source": "07 Reflections/README.md",
+      "reason": "internal 07 Reflections material"
+    },
+    {
+      "source": "08 Datasets/README.md",
+      "reason": "internal 08 Datasets material"
+    },
+    {
+      "source": "90 Operations/Hermes/00 Index.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Configuration/Config & Setup.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Cron & Automations/Cron Jobs.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Dashboard.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Decision Log/Decision Log.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Checklist.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Knowledge Map.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Log.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Skill.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Interview Preparation/Interview Topic Taxonomy.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Kanban Board.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/One-Time TODOs.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Legacy Project Index.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/NixOS — Panasonic Let's Note SV1.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Creative Work.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Hermes.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Homelab.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Linux From Scratch.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — NES Emulator.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Neocities.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — NixOS.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Personal Website.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — RAG Assistant.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Riced Linux.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — School.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Project Tracker.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Session Summaries/2026-07-29.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Session Summaries/Session Log.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/TODO Master.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Time & Activity Logs/Time Tracker.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Integrations/Notion Sync Manifest.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "99 System/Acceptance Tests.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Active Projects.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Agents/Notion Governance.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Agents/Notion UX Guidelines.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Agents/Sync Rules.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Ayush Profile.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Codex Vault Instructions.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Current Interests.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Dashboards/Task & Project Dashboard.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Governance/Canonical Ownership.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Governance/Navigation & Naming Standard.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Journal Processing Workflow.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Audio MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Computing MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Homelab MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Local AI MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Obsidian Second Brain MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Personal Development MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Philosophy MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Photography MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Projects MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/School MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/MOCs/Technology MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Maintenance Dashboard.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Metadata Schema.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Migration/Rearchitecture Manifest.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Migration Manifest.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Preferences and Taste.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Privacy and Dataset Policy.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Question Bank.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Question Preferences.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Question Workflow.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Questions Dashboard.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/RAG Indexing Rules.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Reports/Vault Validation Report.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Retrieval Evaluation Set.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Technical Ecosystem.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - AI Draft.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Area.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Daily Note.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Decision.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Entity.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Journal Entry.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Project.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Reflection.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Resource.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Troubleshooting.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Vault Growth Guide.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Vault Validation Report.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "AGENTS.md",
+      "reason": "navigation or agent instruction"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+---
+import manifest from "../generated/manifest.json";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import DocumentCard from "../components/DocumentCard.astro";
+
+const { documents, generatedAt } = manifest;
+const featured = documents
+  .filter((document) => ["projects", "systems"].includes(document.section))
+  .sort((a, b) => (b.updated || "").localeCompare(a.updated || ""))
+  .slice(0, 6);
+const recent = [...documents]
+  .filter((document) => document.updated)
+  .sort((a, b) => (b.updated || "").localeCompare(a.updated || ""))
+  .slice(0, 5);
+const routes = [
+  { index: "01", title: "Projects", href: "/projects/", description: "Things I am building, testing, and learning through." },
+  { index: "02", title: "Systems", href: "/systems/", description: "The tools, machines, and workflows that make the projects possible." },
+  { index: "03", title: "Interests", href: "/interests/", description: "The subjects I return to, from audio and technology to philosophy and media." },
+  { index: "04", title: "Library", href: "/library/", description: "Reference notes, equipment, concepts, lists, and deeper documentation." },
+];
+---
+<BaseLayout
+  title="Start here"
+  description="A navigable public knowledge base documenting Ayush Madhukar’s projects, systems, interests, and ideas."
+  generatedAt={generatedAt}
+>
+  <section class="hero">
+    <div class="eyebrow">Public knowledge system <span>{documents.length} connected documents</span></div>
+    <h1>A map of what I build,<br /><em>use, and think about.</em></h1>
+    <p>
+      This is the readable public layer of my Obsidian vault: part project archive, part field guide,
+      and part documentation for the systems and interests that shape my work.
+    </p>
+    <div class="hero-actions">
+      <a class="button primary" href="/about/">How to read this site <span>→</span></a>
+      <a class="button" href="/explore/">Search the knowledge base</a>
+    </div>
+  </section>
+
+  <section class="route-grid" aria-labelledby="browse-heading">
+    <div class="section-heading">
+      <span>Browse by route</span><h2 id="browse-heading">Begin with context, then go deeper.</h2>
+    </div>
+    {routes.map((route) => (
+      <a class="route-card" href={route.href}>
+        <span>{route.index}</span>
+        <h3>{route.title}</h3>
+        <p>{route.description}</p>
+        <strong>Explore →</strong>
+      </a>
+    ))}
+  </section>
+
+  <section class="featured-section">
+    <div class="section-heading split">
+      <div><span>Current map</span><h2>Active projects and systems</h2></div>
+      <a href="/projects/">View all projects →</a>
+    </div>
+    <div class="card-grid">{featured.map((document) => <DocumentCard document={document} />)}</div>
+  </section>
+
+  <section class="recent-panel">
+    <div class="section-heading"><span>Living vault</span><h2>Recently updated</h2></div>
+    <ol>
+      {recent.map((document) => (
+        <li>
+          <time datetime={document.updated}>{document.updated}</time>
+          <a href={`/notes/${document.slug}/`}>{document.title}</a>
+          <span>{document.topic}</span>
+        </li>
+      ))}
+    </ol>
+  </section>
+</BaseLayout>

@@ -1,0 +1,64 @@
+---
+import manifest from "../../generated/manifest.json";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { PublicDocument } from "../../types";
+
+export function getStaticPaths() {
+  return manifest.documents.map((document) => ({
+    params: { slug: document.slug },
+    props: { document },
+  }));
+}
+
+const { document } = Astro.props;
+const bySlug = new Map<string, PublicDocument>(
+  (manifest.documents as PublicDocument[]).map((item) => [item.slug, item]),
+);
+const related = [...new Set([...document.links, ...document.backlinks])]
+  .map((slug) => bySlug.get(slug))
+  .filter((item): item is PublicDocument => Boolean(item))
+  .slice(0, 8);
+const sectionLabel = document.section[0].toUpperCase() + document.section.slice(1);
+---
+<BaseLayout title={document.title} description={document.summary} currentPath={`/${document.section}/`} generatedAt={manifest.generatedAt}>
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="/">Home</a><span>/</span>
+    <a href={`/${document.section}/`}>{sectionLabel}</a><span>/</span>
+    <a href={`/explore/?topic=${encodeURIComponent(document.topic)}`}>{document.topic}</a>
+  </nav>
+  <div class="document-layout">
+    <article class="document">
+      <header class="document-header">
+        <div class="eyebrow">{document.topic}<span>{document.readingMinutes} min read</span></div>
+        <h1>{document.title}</h1>
+        <p>{document.summary}</p>
+        <dl>
+          {document.status && <><dt>Status</dt><dd>{document.status}</dd></>}
+          {document.updated && <><dt>Updated</dt><dd><time datetime={document.updated}>{document.updated}</time></dd></>}
+          {document.tags.length > 0 && <><dt>Topics</dt><dd>{document.tags.slice(0, 6).join(" · ")}</dd></>}
+        </dl>
+      </header>
+      <div class="prose" set:html={document.html} />
+      <footer class="source-context">
+        <span>Source context</span>
+        <p>Adapted from <code>{document.sourcePath.replace(/\.md$/, "")}</code> in the living Obsidian vault.</p>
+      </footer>
+    </article>
+    <aside class="document-rail">
+      {document.headings.length > 0 && (
+        <nav aria-label="On this page">
+          <strong>On this page</strong>
+          {document.headings.map((heading) => (
+            <a class={`depth-${heading.depth}`} href={`#${heading.id}`}>{heading.text}</a>
+          ))}
+        </nav>
+      )}
+      {related.length > 0 && (
+        <div class="related">
+          <strong>Connected notes</strong>
+          {related.map((item) => <a href={`/notes/${item.slug}/`}><span>{item.topic}</span>{item.title}</a>)}
+        </div>
+      )}
+    </aside>
+  </div>
+</BaseLayout>
