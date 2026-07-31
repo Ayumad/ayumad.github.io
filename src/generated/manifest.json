@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:57:06.990Z",
+  "generatedAt": "2026-07-31T14:28:46.296Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -287,8 +287,8 @@
       "slug": "systems/technology/accessories",
       "title": "Accessories",
       "summary": "Inventory index and reference information for Accessories.",
-      "html": "<h1>Accessories</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></p>\n<p>Accessory inventory: keyboards, mice, docks, chargers, cables, and other supporting gear. Displays and living-room playback hardware are tracked in <a href=\"/notes/systems/technology/displays-and-home-theater/\">Displays and Home Theater</a>.</p>\n<h2 id=\"keyboards\">Keyboards<a class=\"heading-anchor\" href=\"#keyboards\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/rainy-75-pro/\">Rainy 75 Pro</a></td>\n<td>WOBKEY, purple 75% tri-mode, 7000 mAh, CNC aluminum</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/keychron-q1/\">Keychron Q1</a></td>\n<td>75% aluminum wired QMK/VIA, hot-swappable</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/8bitdo-wireless-keyboard/\">8BitDo Wireless Keyboard</a></td>\n<td>8BitDo Retro M Edition, 87-key, Kailh Box White V2, tri-mode</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/microsoft-wireless-keyboard/\">Microsoft Wireless Keyboard</a></td>\n<td>Microsoft Designer Compact, Bluetooth, ultra-slim</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/hhkb-pro-2/\">HHKB Pro 2</a></td>\n<td>60% Topre electrostatic capacitive, US ANSI, PBT</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-g915-tkl/\">Logitech G915 TKL</a></td>\n<td>Low-profile GL Tactile, LIGHTSPEED, TKL</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-combo-touch-for-ipad-pro-m2/\">Logitech Combo Touch for iPad Pro (M2)</a></td>\n<td>Keyboard + trackpad case for iPad Pro M2 12.9\"</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/ipad-magic-keyboard-m4/\">iPad Magic Keyboard (M4)</a></td>\n<td>Apple keyboard + trackpad for iPad Pro M4 11\"</td>\n</tr>\n</tbody></table>\n<h2 id=\"mice\">Mice<a class=\"heading-anchor\" href=\"#mice\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/razer-basilisk-v3-pro/\">Razer Basilisk V3 Pro</a></td>\n<td>Ergonomic wireless gaming, Razer Focus Pro 30K</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/razer-viper-v3-pro/\">Razer Viper V3 Pro</a></td>\n<td>Lightweight esports wireless, Razer Focus Pro 35K</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-mx-master-3/\">Logitech MX Master 3</a></td>\n<td>Ergonomic productivity, Darkfield 4000 DPI, MagSpeed</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-mx-travel-3/\">Logitech MX Travel 3</a></td>\n<td>MX Anywhere 3, portable, Darkfield on glass</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-g-pro-x-superlight-2-dex/\">Logitech G Pro X Superlight 2 Dex</a></td>\n<td>Ultra-light right-handed, HERO 2 sensor</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-g-pro-wireless/\">Logitech G Pro Wireless</a></td>\n<td>Ambidextrous wireless, HERO 25K sensor</td>\n</tr>\n</tbody></table>\n<h2 id=\"docks\">Docks<a class=\"heading-anchor\" href=\"#docks\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/anker-thunderbolt-5-dock/\">Anker Thunderbolt 5 Dock</a></td>\n<td>Anker Prime TB5 (A83B5), 14-in-1, 140W, 8K, main desk</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/owc-thunderbolt-4-dock/\">OWC Thunderbolt 4 Dock</a></td>\n<td>OWC 11-port TB4, 96W PD, secondary desk</td>\n</tr>\n</tbody></table>\n<h2 id=\"homelab-infrastructure-and-networking\">Homelab Infrastructure and Networking<a class=\"heading-anchor\" href=\"#homelab-infrastructure-and-networking\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/512-gb-nvme-ssd-p520-boot-drive/\">512 GB NVMe SSD (P520 Boot Drive)</a></td>\n<td>Owned Proxmox boot drive allocated to the P520 build</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/brostrend-8-port-25g-ethernet-switch/\">BrosTrend 8-Port 2.5G Ethernet Switch</a></td>\n<td>Newly purchased main multi-gigabit wired switch</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/google-nest-wifi-ac2200/\">Google Nest Wifi (AC2200)</a></td>\n<td>Existing Wi-Fi mesh system connected behind the wired network core</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/5-port-gigabit-ethernet-switch-model-unknown/\">5-Port Gigabit Ethernet Switch (Model Unknown)</a></td>\n<td>Existing edge switch for lower-priority wired devices</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/monoprice-slimrun-cat6a-7-ft-patch-cables-10-pack/\">Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack)</a></td>\n<td>Ten short-run patch cables for the homelab network</td>\n</tr>\n</tbody></table>\n<h2 id=\"audio-cables\">Audio Cables<a class=\"heading-anchor\" href=\"#audio-cables\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/kiwi-ears-x-b-media-terras-cable/\">Kiwi Ears x B_Media Terras Cable</a></td>\n<td>Modular cable for compatible 0.78 mm 2-pin IEMs</td>\n</tr>\n</tbody></table>\n<p>Audio adapters are tracked within <a href=\"/notes/systems/technology/dacs-and-amplifiers/\">DACs and Amplifiers</a> so the listening chain remains in one place.</p>\n<h2 id=\"provenance\">Provenance<a class=\"heading-anchor\" href=\"#provenance\">#</a></h2>\n<p>Canonicalized on 2026-06-22 from <a href=\"/notes/systems/technology/accessories/\">legacy source</a>.</p>\n",
-      "text": "Accessories Home: Loadout Accessory inventory: keyboards, mice, docks, chargers, cables, and other supporting gear. Displays and living room playback hardware are tracked in Displays and Home Theater. Keyboards Device Notes Rainy 75 Pro WOBKEY, purple 75% tri mode, 7000 mAh, CNC aluminum Keychron Q1 75% aluminum wired QMK/VIA, hot swappable 8BitDo Wireless Keyboard 8BitDo Retro M Edition, 87 key, Kailh Box White V2, tri mode Microsoft Wireless Keyboard Microsoft Designer Compact, Bluetooth, ultra slim HHKB Pro 2 60% Topre electrostatic capacitive, US ANSI, PBT Logitech G915 TKL Low profile GL Tactile, LIGHTSPEED, TKL Logitech Combo Touch for iPad Pro (M2) Keyboard + trackpad case for iPad Pro M2 12.9\" iPad Magic Keyboard (M4) Apple keyboard + trackpad for iPad Pro M4 11\" Mice Device Notes Razer Basilisk V3 Pro Ergonomic wireless gaming, Razer Focus Pro 30K Razer Viper V3 Pro Lightweight esports wireless, Razer Focus Pro 35K Logitech MX Master 3 Ergonomic productivity, Darkfield 4000 DPI, MagSpeed Logitech MX Travel 3 MX Anywhere 3, portable, Darkfield on glass Logitech G Pro X Superlight 2 Dex Ultra light right handed, HERO 2 sensor Logitech G Pro Wireless Ambidextrous wireless, HERO 25K sensor Docks Device Notes Anker Thunderbolt 5 Dock Anker Prime TB5 (A83B5), 14 in 1, 140W, 8K, main desk OWC Thunderbolt 4 Dock OWC 11 port TB4, 96W PD, secondary desk Homelab Infrastructure and Networking Device Role 512 GB NVMe SSD (P520 Boot Drive) Owned Proxmox boot drive allocated to the P520 build BrosTrend 8 Port 2.5G Ethernet Switch Newly purchased main multi gigabit wired switch Google Nest Wifi (AC2200) Existing Wi Fi mesh system connected behind the wired network core 5 Port Gigabit Ethernet Switch (Model Unknown) Existing edge switch for lower priority wired devices Monoprice SlimRun Cat6A 7 ft Patch Cables (10 Pack) Ten short run patch cables for the homelab network Audio Cables Device Role Kiwi Ears x B Media Terras Cable Modular cable for compatible 0.78 mm 2 pin IEMs Audio adapters are tracked within DACs and Amplifiers so the listening chain remains in one place. Provenance Canonicalized on 2026 06 22 from legacy source.",
+      "html": "<h1>Accessories</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></p>\n<p>Accessory inventory: keyboards, mice, docks, chargers, cables, and other supporting gear. Displays and living-room playback hardware are tracked in <a href=\"/notes/systems/technology/displays-and-home-theater/\">Displays and Home Theater</a>.</p>\n<h2 id=\"keyboards\">Keyboards<a class=\"heading-anchor\" href=\"#keyboards\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/rainy-75-pro/\">Rainy 75 Pro</a></td>\n<td>WOBKEY, purple 75% tri-mode, 7000 mAh, CNC aluminum</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/keychron-q1/\">Keychron Q1</a></td>\n<td>75% aluminum wired QMK/VIA, hot-swappable</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/8bitdo-wireless-keyboard/\">8BitDo Wireless Keyboard</a></td>\n<td>8BitDo Retro M Edition, 87-key, Kailh Box White V2, tri-mode</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/microsoft-wireless-keyboard/\">Microsoft Wireless Keyboard</a></td>\n<td>Microsoft Designer Compact, Bluetooth, ultra-slim</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/hhkb-pro-2/\">HHKB Pro 2</a></td>\n<td>60% Topre electrostatic capacitive, US ANSI, PBT</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-g915-tkl/\">Logitech G915 TKL</a></td>\n<td>Low-profile GL Tactile, LIGHTSPEED, TKL</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-combo-touch-for-ipad-pro-m2/\">Logitech Combo Touch for iPad Pro (M2)</a></td>\n<td>Keyboard + trackpad case for iPad Pro M2 12.9\"</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/ipad-magic-keyboard-m4/\">iPad Magic Keyboard (M4)</a></td>\n<td>Apple keyboard + trackpad for iPad Pro M4 11\"</td>\n</tr>\n</tbody></table>\n<h2 id=\"mice\">Mice<a class=\"heading-anchor\" href=\"#mice\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/razer-basilisk-v3-pro/\">Razer Basilisk V3 Pro</a></td>\n<td>Ergonomic wireless gaming, Razer Focus Pro 30K</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/razer-viper-v3-pro/\">Razer Viper V3 Pro</a></td>\n<td>Lightweight esports wireless, Razer Focus Pro 35K</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-mx-master-3/\">Logitech MX Master 3</a></td>\n<td>Ergonomic productivity, Darkfield 4000 DPI, MagSpeed</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-mx-travel-3/\">Logitech MX Travel 3</a></td>\n<td>MX Anywhere 3, portable, Darkfield on glass</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-g-pro-x-superlight-2-dex/\">Logitech G Pro X Superlight 2 Dex</a></td>\n<td>Ultra-light right-handed, HERO 2 sensor</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/logitech-g-pro-wireless/\">Logitech G Pro Wireless</a></td>\n<td>Ambidextrous wireless, HERO 25K sensor</td>\n</tr>\n</tbody></table>\n<h2 id=\"docks\">Docks<a class=\"heading-anchor\" href=\"#docks\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/anker-thunderbolt-5-dock/\">Anker Thunderbolt 5 Dock</a></td>\n<td>Anker Prime TB5 (A83B5), 14-in-1, 140W, 8K, main desk</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/owc-thunderbolt-4-dock/\">OWC Thunderbolt 4 Dock</a></td>\n<td>OWC 11-port TB4, 96W PD, secondary desk</td>\n</tr>\n</tbody></table>\n<h2 id=\"homelab-infrastructure-and-networking\">Homelab Infrastructure and Networking<a class=\"heading-anchor\" href=\"#homelab-infrastructure-and-networking\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/512-gb-nvme-ssd-p520-boot-drive/\">512 GB NVMe SSD (P520 Boot Drive)</a></td>\n<td>Owned Proxmox boot drive allocated to the P520 build</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/brostrend-8-port-25g-ethernet-switch/\">BrosTrend 8-Port 2.5G Ethernet Switch</a></td>\n<td>Newly purchased main multi-gigabit wired switch</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/google-nest-wifi-ac2200/\">Google Nest Wifi (AC2200)</a></td>\n<td>Existing Wi-Fi mesh system connected behind the wired network core</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/5-port-gigabit-ethernet-switch-model-unknown/\">5-Port Gigabit Ethernet Switch (Model Unknown)</a></td>\n<td>Existing edge switch for lower-priority wired devices</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/monoprice-slimrun-cat6a-7-ft-patch-cables-10-pack/\">Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack)</a></td>\n<td>Ten short-run patch cables for the homelab network</td>\n</tr>\n</tbody></table>\n<h2 id=\"sensors-amp-creative-input\">Sensors &amp; Creative Input<a class=\"heading-anchor\" href=\"#sensors-amp-creative-input\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/xbox-kinect/\">Xbox Kinect</a></td>\n<td>Depth camera + body tracking for TouchDesigner, audio visualizers, interactive installations</td>\n</tr>\n</tbody></table>\n<h2 id=\"audio-cables\">Audio Cables<a class=\"heading-anchor\" href=\"#audio-cables\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/kiwi-ears-x-b-media-terras-cable/\">Kiwi Ears x B_Media Terras Cable</a></td>\n<td>Modular cable for compatible 0.78 mm 2-pin IEMs</td>\n</tr>\n</tbody></table>\n<p>Audio adapters are tracked within <a href=\"/notes/systems/technology/dacs-and-amplifiers/\">DACs and Amplifiers</a> so the listening chain remains in one place.</p>\n<h2 id=\"provenance\">Provenance<a class=\"heading-anchor\" href=\"#provenance\">#</a></h2>\n<p>Canonicalized on 2026-06-22 from <a href=\"/notes/systems/technology/accessories/\">legacy source</a>.</p>\n",
+      "text": "Accessories Home: Loadout Accessory inventory: keyboards, mice, docks, chargers, cables, and other supporting gear. Displays and living room playback hardware are tracked in Displays and Home Theater. Keyboards Device Notes Rainy 75 Pro WOBKEY, purple 75% tri mode, 7000 mAh, CNC aluminum Keychron Q1 75% aluminum wired QMK/VIA, hot swappable 8BitDo Wireless Keyboard 8BitDo Retro M Edition, 87 key, Kailh Box White V2, tri mode Microsoft Wireless Keyboard Microsoft Designer Compact, Bluetooth, ultra slim HHKB Pro 2 60% Topre electrostatic capacitive, US ANSI, PBT Logitech G915 TKL Low profile GL Tactile, LIGHTSPEED, TKL Logitech Combo Touch for iPad Pro (M2) Keyboard + trackpad case for iPad Pro M2 12.9\" iPad Magic Keyboard (M4) Apple keyboard + trackpad for iPad Pro M4 11\" Mice Device Notes Razer Basilisk V3 Pro Ergonomic wireless gaming, Razer Focus Pro 30K Razer Viper V3 Pro Lightweight esports wireless, Razer Focus Pro 35K Logitech MX Master 3 Ergonomic productivity, Darkfield 4000 DPI, MagSpeed Logitech MX Travel 3 MX Anywhere 3, portable, Darkfield on glass Logitech G Pro X Superlight 2 Dex Ultra light right handed, HERO 2 sensor Logitech G Pro Wireless Ambidextrous wireless, HERO 25K sensor Docks Device Notes Anker Thunderbolt 5 Dock Anker Prime TB5 (A83B5), 14 in 1, 140W, 8K, main desk OWC Thunderbolt 4 Dock OWC 11 port TB4, 96W PD, secondary desk Homelab Infrastructure and Networking Device Role 512 GB NVMe SSD (P520 Boot Drive) Owned Proxmox boot drive allocated to the P520 build BrosTrend 8 Port 2.5G Ethernet Switch Newly purchased main multi gigabit wired switch Google Nest Wifi (AC2200) Existing Wi Fi mesh system connected behind the wired network core 5 Port Gigabit Ethernet Switch (Model Unknown) Existing edge switch for lower priority wired devices Monoprice SlimRun Cat6A 7 ft Patch Cables (10 Pack) Ten short run patch cables for the homelab network Sensors & Creative Input Device Role Xbox Kinect Depth camera + body tracking for TouchDesigner, audio visualizers, interactive installations Audio Cables Device Role Kiwi Ears x B Media Terras Cable Modular cable for compatible 0.78 mm 2 pin IEMs Audio adapters are tracked within DACs and Amplifiers so the listening chain remains in one place. Provenance Canonicalized on 2026 06 22 from legacy source.",
       "section": "systems",
       "topic": "Technology",
       "status": "reference",
@@ -326,6 +326,7 @@
         "systems/technology/google-nest-wifi-ac2200",
         "systems/technology/5-port-gigabit-ethernet-switch-model-unknown",
         "systems/technology/monoprice-slimrun-cat6a-7-ft-patch-cables-10-pack",
+        "systems/technology/xbox-kinect",
         "systems/technology/kiwi-ears-x-b-media-terras-cable",
         "systems/technology/dacs-and-amplifiers",
         "systems/technology/accessories"
@@ -334,6 +335,7 @@
         "systems/technology/loadout-hub",
         "systems/technology/accessories",
         "systems/technology/kiwi-ears-x-b-media-terras-cable",
+        "systems/technology/xbox-kinect",
         "systems/technology/5-port-gigabit-ethernet-switch-model-unknown",
         "systems/technology/512-gb-nvme-ssd-p520-boot-drive",
         "systems/technology/8bitdo-wireless-keyboard",
@@ -377,6 +379,11 @@
           "depth": 2,
           "text": "Homelab Infrastructure and Networking",
           "id": "homelab-infrastructure-and-networking"
+        },
+        {
+          "depth": 2,
+          "text": "Sensors & Creative Input",
+          "id": "sensors--creative-input"
         },
         {
           "depth": 2,
@@ -538,7 +545,8 @@
       ],
       "backlinks": [
         "systems/technology/wishlist",
-        "systems/technology/test-equipment-and-instruments"
+        "systems/technology/test-equipment-and-instruments",
+        "systems/technology/xbox-kinect"
       ],
       "headings": [
         {
@@ -3339,7 +3347,8 @@
       ],
       "backlinks": [
         "systems/technology/wishlist",
-        "systems/technology/displays-and-home-theater"
+        "systems/technology/displays-and-home-theater",
+        "systems/technology/xbox-kinect"
       ],
       "headings": [
         {
@@ -5792,6 +5801,7 @@
         "systems/technology/samsung-odyssey-g4-25-inch",
         "systems/technology/samsung-odyssey-g7-32-inch",
         "systems/technology/samsung-odyssey-oled-g8-g80sd",
+        "systems/technology/xbox-kinect",
         "systems/technology/5-port-gigabit-ethernet-switch-model-unknown",
         "systems/technology/brostrend-8-port-25g-ethernet-switch",
         "systems/technology/google-nest-wifi-ac2200",
@@ -7312,6 +7322,7 @@
         "systems/technology/valve-steam-deck-oled",
         "systems/technology/apple-iphone-17",
         "systems/technology/razer-edge",
+        "systems/technology/xbox-kinect",
         "systems/technology/5-port-gigabit-ethernet-switch-model-unknown",
         "systems/technology/512-gb-nvme-ssd-p520-boot-drive",
         "systems/technology/8bitdo-wireless-keyboard",
@@ -13637,6 +13648,129 @@
       ]
     },
     {
+      "id": "1f6fcce8830b",
+      "slug": "systems/technology/xbox-kinect",
+      "title": "Xbox Kinect",
+      "summary": "Xbox Kinect depth camera with USB adapter for PC use. TouchDesigner input, audio visualizers, interactive installations.",
+      "html": "<h1>Xbox Kinect</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Category: <a href=\"/notes/systems/technology/accessories/\">Peripherals &amp; Accessories</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a></p>\n<h2 id=\"what-it-is\">What It Is<a class=\"heading-anchor\" href=\"#what-it-is\">#</a></h2>\n<p>Microsoft Xbox Kinect — a depth-sensing camera that provides:</p>\n<ul>\n<li><strong>Depth map</strong> — real-time 3D depth data of the scene (like a low-res 3D scanner)</li>\n<li><strong>RGB camera</strong> — standard color video feed</li>\n<li><strong>Infrared (IR) camera</strong> — structured light depth sensing</li>\n<li><strong>Skeleton tracking</strong> — up to 6 bodies, 25 joints per body (Kinect v2)</li>\n<li><strong>Microphone array</strong> — 4-element mic for audio capture/spatial sound</li>\n</ul>\n<p>Connected via USB adapter for PC use. Total cost: ~$0 (already owned).</p>\n<h2 id=\"which-version\">Which Version?<a class=\"heading-anchor\" href=\"#which-version\">#</a></h2>\n<p>The Kinect comes in two versions — the USB adapter differs:</p>\n<table>\n<thead>\n<tr>\n<th></th>\n<th>Kinect v1 (Xbox 360)</th>\n<th>Kinect v2 (Xbox One)</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Appearance</strong></td>\n<td>Motorized tilt base, round IR emitter</td>\n<td>Flat, no motor, wider body</td>\n</tr>\n<tr>\n<td><strong>Depth resolution</strong></td>\n<td>320×240</td>\n<td>512×424</td>\n</tr>\n<tr>\n<td><strong>RGB resolution</strong></td>\n<td>640×480</td>\n<td>1920×1080</td>\n</tr>\n<tr>\n<td><strong>FOV</strong></td>\n<td>~57° H × 43° V</td>\n<td>~70° H × 60° V</td>\n</tr>\n<tr>\n<td><strong>Skeleton joints</strong></td>\n<td>20 per body</td>\n<td>25 per body</td>\n</tr>\n<tr>\n<td><strong>Bodies tracked</strong></td>\n<td>2</td>\n<td>6</td>\n</tr>\n<tr>\n<td><strong>USB adapter</strong></td>\n<td>AC adapter + USB breakout (P/N 1473)</td>\n<td>Kinect Adapter for Windows (discontinued, ~$20-40 used)</td>\n</tr>\n<tr>\n<td><strong>TouchDesigner</strong></td>\n<td>Supported (Kinect v1)</td>\n<td>Supported (Kinect v2) — better quality</td>\n</tr>\n<tr>\n<td><strong>Windows SDK</strong></td>\n<td>Kinect for Windows SDK 1.8</td>\n<td>Kinect SDK 2.0 (Windows 8/10+)</td>\n</tr>\n</tbody></table>\n<p><strong>To identify yours:</strong> Check the label on the bottom. Model 1414/1473 = v1 (Xbox 360). Model 1520/1524 = v2 (Xbox One). The v1 has a motorized tilt; the v2 is flat.</p>\n<h2 id=\"setup-for-touchdesigner\">Setup for TouchDesigner<a class=\"heading-anchor\" href=\"#setup-for-touchdesigner\">#</a></h2>\n<h3 id=\"prerequisites\">Prerequisites<a class=\"heading-anchor\" href=\"#prerequisites\">#</a></h3>\n<ol>\n<li><strong>TouchDesigner</strong> — free download from <a href=\"https://derivative.ca\">derivative.ca</a>. Non-commercial license is free for learning/personal use.</li>\n<li><strong>Kinect SDK</strong> — install the matching SDK:<ul>\n<li>v1: <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40278\">Kinect for Windows SDK 1.8</a></li>\n<li>v2: <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=44561\">Kinect SDK 2.0</a></li>\n</ul>\n</li>\n<li><strong>USB adapter</strong> — already have it ✓</li>\n</ol>\n<h3 id=\"quick-start-in-touchdesigner\">Quick Start in TouchDesigner<a class=\"heading-anchor\" href=\"#quick-start-in-touchdesigner\">#</a></h3>\n<ol>\n<li>Open TouchDesigner → new project</li>\n<li>Right-click the network editor → create a <strong>Kinect TOP</strong> (under Video Output Devices)</li>\n<li>Set the Kinect TOP to your device — you should see depth, RGB, or IR depending on the setting</li>\n<li>Create a <strong>Kinect CHOP</strong> for skeleton tracking data (joint positions, orientations)</li>\n<li>Connect the Kinect TOP output to whatever visual chain you want</li>\n</ol>\n<h3 id=\"key-operators\">Key Operators<a class=\"heading-anchor\" href=\"#key-operators\">#</a></h3>\n<table>\n<thead>\n<tr>\n<th>Operator</th>\n<th>What it does</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Kinect TOP</strong></td>\n<td>Outputs depth map, RGB, or IR image as a texture</td>\n</tr>\n<tr>\n<td><strong>Kinect CHOP</strong></td>\n<td>Outputs skeleton joint data as channels (tx, ty, tz per joint)</td>\n</tr>\n<tr>\n<td><strong>Audio Device In CHOP</strong></td>\n<td>Captures audio from the Kinect's microphone array</td>\n</tr>\n</tbody></table>\n<h3 id=\"important-notes\">Important Notes<a class=\"heading-anchor\" href=\"#important-notes\">#</a></h3>\n<ul>\n<li><strong>v1 on USB 3.0:</strong> Can be unstable — use USB 2.0 ports if connection drops</li>\n<li><strong>AC power:</strong> The Kinect needs its AC adapter connected, not just USB power</li>\n<li><strong>Windows only:</strong> TouchDesigner's built-in Kinect support is Windows-only (no macOS)</li>\n<li><strong>Only one Kinect per system:</strong> Microsoft doesn't support multiple Kinects simultaneously</li>\n</ul>\n<h2 id=\"use-cases-with-your-loadout\">Use Cases with Your Loadout<a class=\"heading-anchor\" href=\"#use-cases-with-your-loadout\">#</a></h2>\n<h3 id=\"1-audio-reactive-visualizer-touchdesigner\">1. Audio-Reactive Visualizer (TouchDesigner)<a class=\"heading-anchor\" href=\"#1-audio-reactive-visualizer-touchdesigner\">#</a></h3>\n<p>The most popular Kinect + TouchDesigner project. Pipeline:</p>\n<pre><code>Kinect Depth Map → Texture → Noise/Feedback → Color/Post → Output\n     ↑                                              ↓\nAudio Input (Music) ←──── Beat Detection ←──── Visual Output\n</code></pre>\n<ul>\n<li>Feed the Kinect depth map as a texture into TouchDesigner's GLSL shaders</li>\n<li>Use <strong>Audio Spectrum CHOP</strong> to analyze music in real-time</li>\n<li>Map audio amplitude/frequency to visual parameters (scale, color, distortion, particle count)</li>\n<li>Output to your monitor, projector, or the CRT TV you're researching</li>\n</ul>\n<p><strong>Tutorials:</strong></p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=GDZoOnzLYGo\">Interactive Particles – TouchDesigner + Kinect Tutorial 1</a> — beginner-friendly, builds a particle system</li>\n<li><a href=\"https://www.youtube.com/watch?v=VVNjb1rauwA\">Using Kinect + POPs in TouchDesigner</a> — depth camera into particle simulation</li>\n<li><a href=\"https://www.youtube.com/watch?v=9RArP9FovQo\">Motion Visualization with Kinect v2</a> — creative feedback techniques</li>\n</ul>\n<h3 id=\"2-body-reactive-visuals\">2. Body-Reactive Visuals<a class=\"heading-anchor\" href=\"#2-body-reactive-visuals\">#</a></h3>\n<ul>\n<li>Use <strong>Kinect CHOP</strong> skeleton tracking to map body joints to visual parameters</li>\n<li>Wave your hand → particles follow. Dance → visuals pulse with your movement.</li>\n<li>Combine with audio for a full audio-visual-performance rig</li>\n</ul>\n<h3 id=\"3-interactive-installation\">3. Interactive Installation<a class=\"heading-anchor\" href=\"#3-interactive-installation\">#</a></h3>\n<ul>\n<li>Point the Kinect at a room/wall — people walking through create real-time visual effects</li>\n<li>Depth-based silhouettes: extract body shapes from the depth map and project them</li>\n<li>Great for parties, events, or just a cool desk setup</li>\n</ul>\n<h3 id=\"4-real-time-vj--live-performance\">4. Real-Time VJ / Live Performance<a class=\"heading-anchor\" href=\"#4-real-time-vj--live-performance\">#</a></h3>\n<ul>\n<li>Kinect + TouchDesigner is the standard rig for live visual performances</li>\n<li>Map audio input + body movement → GLSL shaders → output via NDI or HDMI</li>\n<li>Chain with your synth wishlist (OP-1, Minilogue) for a full audio-visual performance setup</li>\n</ul>\n<h3 id=\"5-depth-driven-audio-visualization-for-oscilloscope-music\">5. Depth-Driven Audio Visualization for Oscilloscope Music<a class=\"heading-anchor\" href=\"#5-depth-driven-audio-visualization-for-oscilloscope-music\">#</a></h3>\n<ul>\n<li>Use Kinect depth data to modulate oscilloscope XY signals</li>\n<li>Body shapes → audio waveforms → oscilloscope display</li>\n<li>Combines three of your interests: Kinect, TouchDesigner, oscilloscope music</li>\n</ul>\n<h2 id=\"cross-references\">Cross-References<a class=\"heading-anchor\" href=\"#cross-references\">#</a></h2>\n<ul>\n<li><strong>TouchDesigner</strong> → TouchDesigner (skill for MCP integration)</li>\n<li><strong>Oscilloscope</strong> → <a href=\"/notes/systems/technology/analog-oscilloscope/\">Analog Oscilloscope</a> — Kinect depth data can drive oscilloscope XY signals</li>\n<li><strong>CRT TV</strong> → <a href=\"/notes/systems/technology/crt-tv-for-retro-gaming/\">CRT TV for Retro Gaming</a> — can output TouchDesigner visuals to CRT for analog aesthetic</li>\n<li><strong>Synths</strong> → Teenage Engineering OP-1, Korg Minilogue — audio input for reactive visuals</li>\n<li><strong>Audio chain</strong> → Motu M2 — audio interface for feeding music into TouchDesigner</li>\n</ul>\n<h2 id=\"learning-path\">Learning Path<a class=\"heading-anchor\" href=\"#learning-path\">#</a></h2>\n<ol>\n<li><strong>Start here:</strong> Install TouchDesigner + Kinect SDK → get depth map showing in a Kinect TOP</li>\n<li><strong>Basic visual:</strong> Connect Kinect TOP → Level TOP → Noise TOP → Output → see depth-reactive visuals</li>\n<li><strong>Add audio:</strong> Audio Device In CHOP → Audio Spectrum CHOP → map frequency bands to visual parameters</li>\n<li><strong>Go deeper:</strong> GLSL shaders, POPs for particles, feedback networks, NDI output</li>\n<li><strong>Performance:</strong> Combine body tracking + audio reactivity → full live visual rig</li>\n</ol>\n<h2 id=\"resources\">Resources<a class=\"heading-anchor\" href=\"#resources\">#</a></h2>\n<ul>\n<li><a href=\"https://derivative.ca/UserGuide/Kinect\">TouchDesigner Wiki — Kinect</a> — official docs</li>\n<li><a href=\"https://derivative.ca/UserGuide/Kinect1\">TouchDesigner Wiki — Kinect v1</a> — v1-specific docs</li>\n<li><a href=\"https://derivative.ca/Tutorials\">TouchDesigner Tutorials</a> — official tutorial library</li>\n<li><a href=\"https://reddit.com/r/TouchDesigner\">r/TouchDesigner</a> — Reddit community</li>\n<li><a href=\"https://www.youtube.com/results?search_query=touchdesigner+kinect+tutorial\">TouchDesigner + Kinect YouTube playlist</a> — video tutorials</li>\n</ul>\n",
+      "text": "Xbox Kinect Home: Loadout Category: Peripherals & Accessories Inventory: Inventory What It Is Microsoft Xbox Kinect — a depth sensing camera that provides: Depth map — real time 3D depth data of the scene (like a low res 3D scanner) RGB camera — standard color video feed Infrared (IR) camera — structured light depth sensing Skeleton tracking — up to 6 bodies, 25 joints per body (Kinect v2) Microphone array — 4 element mic for audio capture/spatial sound Connected via USB adapter for PC use. Total cost: $0 (already owned). Which Version? The Kinect comes in two versions — the USB adapter differs: Kinect v1 (Xbox 360) Kinect v2 (Xbox One) Appearance Motorized tilt base, round IR emitter Flat, no motor, wider body Depth resolution 320×240 512×424 RGB resolution 640×480 1920×1080 FOV 57° H × 43° V 70° H × 60° V Skeleton joints 20 per body 25 per body Bodies tracked 2 6 USB adapter AC adapter + USB breakout (P/N 1473) Kinect Adapter for Windows (discontinued, $20 40 used) TouchDesigner Supported (Kinect v1) Supported (Kinect v2) — better quality Windows SDK Kinect for Windows SDK 1.8 Kinect SDK 2.0 (Windows 8/10+) To identify yours: Check the label on the bottom. Model 1414/1473 = v1 (Xbox 360). Model 1520/1524 = v2 (Xbox One). The v1 has a motorized tilt; the v2 is flat. Setup for TouchDesigner Prerequisites 1. TouchDesigner — free download from derivative.ca. Non commercial license is free for learning/personal use. 2. Kinect SDK — install the matching SDK: v1: Kinect for Windows SDK 1.8 v2: Kinect SDK 2.0 3. USB adapter — already have it ✓ Quick Start in TouchDesigner 1. Open TouchDesigner → new project 2. Right click the network editor → create a Kinect TOP (under Video Output Devices) 3. Set the Kinect TOP to your device — you should see depth, RGB, or IR depending on the setting 4. Create a Kinect CHOP for skeleton tracking data (joint positions, orientations) 5. Connect the Kinect TOP output to whatever visual chain you want Key Operators Operator What it does Kinect TOP Outputs depth map, RGB, or IR image as a texture Kinect CHOP Outputs skeleton joint data as channels (tx, ty, tz per joint) Audio Device In CHOP Captures audio from the Kinect's microphone array Important Notes v1 on USB 3.0: Can be unstable — use USB 2.0 ports if connection drops AC power: The Kinect needs its AC adapter connected, not just USB power Windows only: TouchDesigner's built in Kinect support is Windows only (no macOS) Only one Kinect per system: Microsoft doesn't support multiple Kinects simultaneously Use Cases with Your Loadout 1. Audio Reactive Visualizer (TouchDesigner) The most popular Kinect + TouchDesigner project. Pipeline: Kinect Depth Map → Texture → Noise/Feedback → Color/Post → Output ↑ ↓ Audio Input (Music) ←──── Beat Detection ←──── Visual Output Feed the Kinect depth map as a texture into TouchDesigner's GLSL shaders Use Audio Spectrum CHOP to analyze music in real time Map audio amplitude/frequency to visual parameters (scale, color, distortion, particle count) Output to your monitor, projector, or the CRT TV you're researching Tutorials: Interactive Particles – TouchDesigner + Kinect Tutorial 1 — beginner friendly, builds a particle system Using Kinect + POPs in TouchDesigner — depth camera into particle simulation Motion Visualization with Kinect v2 — creative feedback techniques 2. Body Reactive Visuals Use Kinect CHOP skeleton tracking to map body joints to visual parameters Wave your hand → particles follow. Dance → visuals pulse with your movement. Combine with audio for a full audio visual performance rig 3. Interactive Installation Point the Kinect at a room/wall — people walking through create real time visual effects Depth based silhouettes: extract body shapes from the depth map and project them Great for parties, events, or just a cool desk setup 4. Real Time VJ / Live Performance Kinect + TouchDesigner is the standard rig for live visual performances Map audio input + body movement → GLSL shaders → output via NDI or HDMI Chain with your synth wishlist (OP 1, Minilogue) for a full audio visual performance setup 5. Depth Driven Audio Visualization for Oscilloscope Music Use Kinect depth data to modulate oscilloscope XY signals Body shapes → audio waveforms → oscilloscope display Combines three of your interests: Kinect, TouchDesigner, oscilloscope music Cross References TouchDesigner → TouchDesigner (skill for MCP integration) Oscilloscope → Analog Oscilloscope — Kinect depth data can drive oscilloscope XY signals CRT TV → CRT TV for Retro Gaming — can output TouchDesigner visuals to CRT for analog aesthetic Synths → Teenage Engineering OP 1, Korg Minilogue — audio input for reactive visuals Audio chain → Motu M2 — audio interface for feeding music into TouchDesigner Learning Path 1. Start here: Install TouchDesigner + Kinect SDK → get depth map showing in a Kinect TOP 2. Basic visual: Connect Kinect TOP → Level TOP → Noise TOP → Output → see depth reactive visuals 3. Add audio: Audio Device In CHOP → Audio Spectrum CHOP → map frequency bands to visual parameters 4. Go deeper: GLSL shaders, POPs for particles, feedback networks, NDI output 5. Performance: Combine body tracking + audio reactivity → full live visual rig Resources TouchDesigner Wiki — Kinect — official docs TouchDesigner Wiki — Kinect v1 — v1 specific docs TouchDesigner Tutorials — official tutorial library r/TouchDesigner — Reddit community TouchDesigner + Kinect YouTube playlist — video tutorials",
+      "section": "systems",
+      "topic": "Technology",
+      "status": "active",
+      "created": "2026-07-31",
+      "updated": "2026-07-31",
+      "tags": [
+        "technology",
+        "loadout",
+        "sensors",
+        "kinect",
+        "touchdesigner",
+        "audio-visual",
+        "depth-camera",
+        "creative"
+      ],
+      "aliases": [
+        "kinect",
+        "depth camera",
+        "motion sensor",
+        "body tracker"
+      ],
+      "sourcePath": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+      "readingMinutes": 5,
+      "links": [
+        "systems/technology/loadout-hub",
+        "systems/technology/accessories",
+        "systems/technology/inventory",
+        "systems/technology/analog-oscilloscope",
+        "systems/technology/crt-tv-for-retro-gaming"
+      ],
+      "backlinks": [
+        "systems/technology/accessories"
+      ],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "What It Is",
+          "id": "what-it-is"
+        },
+        {
+          "depth": 2,
+          "text": "Which Version?",
+          "id": "which-version"
+        },
+        {
+          "depth": 2,
+          "text": "Setup for TouchDesigner",
+          "id": "setup-for-touchdesigner"
+        },
+        {
+          "depth": 3,
+          "text": "Prerequisites",
+          "id": "prerequisites"
+        },
+        {
+          "depth": 3,
+          "text": "Quick Start in TouchDesigner",
+          "id": "quick-start-in-touchdesigner"
+        },
+        {
+          "depth": 3,
+          "text": "Key Operators",
+          "id": "key-operators"
+        },
+        {
+          "depth": 3,
+          "text": "Important Notes",
+          "id": "important-notes"
+        },
+        {
+          "depth": 2,
+          "text": "Use Cases with Your Loadout",
+          "id": "use-cases-with-your-loadout"
+        },
+        {
+          "depth": 3,
+          "text": "1. Audio Reactive Visualizer (TouchDesigner)",
+          "id": "1-audio-reactive-visualizer-touchdesigner"
+        },
+        {
+          "depth": 3,
+          "text": "2. Body Reactive Visuals",
+          "id": "2-body-reactive-visuals"
+        },
+        {
+          "depth": 3,
+          "text": "3. Interactive Installation",
+          "id": "3-interactive-installation"
+        },
+        {
+          "depth": 3,
+          "text": "4. Real Time VJ / Live Performance",
+          "id": "4-real-time-vj--live-performance"
+        },
+        {
+          "depth": 3,
+          "text": "5. Depth Driven Audio Visualization for Oscilloscope Music",
+          "id": "5-depth-driven-audio-visualization-for-oscilloscope-music"
+        },
+        {
+          "depth": 2,
+          "text": "Cross References",
+          "id": "cross-references"
+        },
+        {
+          "depth": 2,
+          "text": "Learning Path",
+          "id": "learning-path"
+        },
+        {
+          "depth": 2,
+          "text": "Resources",
+          "id": "resources"
+        }
+      ]
+    },
+    {
       "id": "59139bcc93e7",
       "slug": "systems/technology/yamaha-rx-v677",
       "title": "Yamaha RX-V677",
@@ -14039,14 +14173,15 @@
         "0ca0cadbdca5",
         "b60e34a767e5",
         "55e7ed4faba0",
+        "1f6fcce8830b",
         "59139bcc93e7"
       ]
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-07-31T13:57:06.990Z",
-    "sourceCount": 1138,
-    "publishedCount": 222,
+    "generatedAt": "2026-07-31T14:28:46.296Z",
+    "sourceCount": 1139,
+    "publishedCount": 223,
     "skippedCount": 914,
     "duplicateCount": 2,
     "brokenLinks": [
@@ -14213,6 +14348,22 @@
       {
         "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/NVIDIA GeForce RTX 3060 12 GB.md",
         "target": "Personal Obsidian RAG Assistant Plan"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+        "target": "TouchDesigner"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+        "target": "Teenage Engineering OP-1"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+        "target": "Korg Minilogue"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+        "target": "Motu M2"
       },
       {
         "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",

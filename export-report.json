@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-31T13:57:06.990Z",
-  "sourceCount": 1138,
-  "publishedCount": 222,
+  "generatedAt": "2026-07-31T14:28:46.296Z",
+  "sourceCount": 1139,
+  "publishedCount": 223,
   "skippedCount": 914,
   "duplicateCount": 2,
   "brokenLinks": [
@@ -168,6 +168,22 @@
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/NVIDIA GeForce RTX 3060 12 GB.md",
       "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+      "target": "TouchDesigner"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+      "target": "Teenage Engineering OP-1"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+      "target": "Korg Minilogue"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+      "target": "Motu M2"
     },
     {
       "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",
