@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:44:25.522Z",
+  "generatedAt": "2026-07-31T13:56:04.407Z",
   "sourceCount": 1135,
   "publishedCount": 219,
   "skippedCount": 914,
@@ -148,6 +148,14 @@
     {
       "source": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions.md",
       "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
+      "target": "Analog Oscilloscope"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
+      "target": "CRT TV for Retro Gaming"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
