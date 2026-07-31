@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:57:01.547Z",
+  "generatedAt": "2026-07-31T13:57:06.990Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -7158,8 +7158,8 @@
       "slug": "systems/technology/loadout-hub",
       "title": "Loadout Hub",
       "summary": "Primary navigation hub for Ayush's owned, planned, and historical technology loadout.",
-      "html": "<h1>Loadout Hub</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> | Area: Technology MOC | Context: Technical Ecosystem</p>\n<h2 id=\"core-records\">Core Records<a class=\"heading-anchor\" href=\"#core-records\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/inventory/\">Loadout Inventory</a> — current ownership rollup</li>\n<li><a href=\"/notes/systems/technology/prices/\">Loadout Valuation</a> — current value estimates and historical basis</li>\n<li><a href=\"/notes/systems/technology/planned-sales/\">Loadout Sales &amp; Lifecycle</a> — planned sales, completed sales, loans, and replacements</li>\n<li><a href=\"/notes/systems/technology/todo/\">Loadout Questions</a> — identity/configuration follow-ups</li>\n</ul>\n<h2 id=\"browse-by-category\">Browse by Category<a class=\"heading-anchor\" href=\"#browse-by-category\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/audio-inventory/\">Loadout Audio</a></li>\n<li><a href=\"/notes/systems/technology/computers/\">Loadout Computers &amp; Servers</a></li>\n<li><a href=\"/notes/systems/technology/mobile-devices/\">Loadout Mobile &amp; Tablets</a></li>\n<li><a href=\"/notes/systems/technology/gaming/\">Loadout Gaming &amp; VR</a></li>\n<li><a href=\"/notes/systems/technology/displays-and-home-theater/\">Loadout Displays &amp; Home Theater</a></li>\n<li><a href=\"/notes/systems/technology/cameras-and-lenses/\">Loadout Photography</a></li>\n<li><a href=\"/notes/systems/technology/accessories/\">Loadout Peripherals &amp; Accessories</a></li>\n<li><a href=\"/notes/systems/technology/accessories/#homelab-infrastructure-and-networking\">Loadout Network &amp; Infrastructure</a></li>\n</ul>\n<h2 id=\"conventions\">Conventions<a class=\"heading-anchor\" href=\"#conventions\">#</a></h2>\n<p>Each physical item has one canonical device note. Category maps are the browsing layer; Inventory is the master rollup; Valuation and Sales &amp; Lifecycle own their respective operational views. Details are recorded in Loadout - Agent Instructions.</p>\n",
-      "text": "Loadout Hub Home: Home Area: Technology MOC Context: Technical Ecosystem Core Records Loadout Inventory — current ownership rollup Loadout Valuation — current value estimates and historical basis Loadout Sales & Lifecycle — planned sales, completed sales, loans, and replacements Loadout Questions — identity/configuration follow ups Browse by Category Loadout Audio Loadout Computers & Servers Loadout Mobile & Tablets Loadout Gaming & VR Loadout Displays & Home Theater Loadout Photography Loadout Peripherals & Accessories Loadout Network & Infrastructure Conventions Each physical item has one canonical device note. Category maps are the browsing layer; Inventory is the master rollup; Valuation and Sales & Lifecycle own their respective operational views. Details are recorded in Loadout Agent Instructions.",
+      "html": "<h1>Loadout Hub</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> | Area: Technology MOC | Context: Technical Ecosystem</p>\n<h2 id=\"core-records\">Core Records<a class=\"heading-anchor\" href=\"#core-records\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/inventory/\">Loadout Inventory</a> — current ownership rollup</li>\n<li><a href=\"/notes/systems/technology/prices/\">Loadout Valuation</a> — current value estimates and historical basis</li>\n<li><a href=\"/notes/systems/technology/planned-sales/\">Loadout Sales &amp; Lifecycle</a> — planned sales, completed sales, loans, and replacements</li>\n<li><a href=\"/notes/systems/technology/todo/\">Loadout Questions</a> — identity/configuration follow-ups</li>\n</ul>\n<h2 id=\"browse-by-category\">Browse by Category<a class=\"heading-anchor\" href=\"#browse-by-category\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/audio-inventory/\">Loadout Audio</a></li>\n<li><a href=\"/notes/systems/technology/computers/\">Loadout Computers &amp; Servers</a></li>\n<li><a href=\"/notes/systems/technology/mobile-devices/\">Loadout Mobile &amp; Tablets</a></li>\n<li><a href=\"/notes/systems/technology/gaming/\">Loadout Gaming &amp; VR</a></li>\n<li><a href=\"/notes/systems/technology/displays-and-home-theater/\">Loadout Displays &amp; Home Theater</a></li>\n<li><a href=\"/notes/systems/technology/cameras-and-lenses/\">Loadout Photography</a></li>\n<li><a href=\"/notes/systems/technology/accessories/\">Loadout Peripherals &amp; Accessories</a></li>\n<li><a href=\"/notes/systems/technology/accessories/#homelab-infrastructure-and-networking\">Loadout Network &amp; Infrastructure</a></li>\n<li><a href=\"/notes/systems/technology/test-equipment-and-instruments/\">Loadout Test Equipment</a></li>\n</ul>\n<h2 id=\"conventions\">Conventions<a class=\"heading-anchor\" href=\"#conventions\">#</a></h2>\n<p>Each physical item has one canonical device note. Category maps are the browsing layer; Inventory is the master rollup; Valuation and Sales &amp; Lifecycle own their respective operational views. Details are recorded in Loadout - Agent Instructions.</p>\n",
+      "text": "Loadout Hub Home: Home Area: Technology MOC Context: Technical Ecosystem Core Records Loadout Inventory — current ownership rollup Loadout Valuation — current value estimates and historical basis Loadout Sales & Lifecycle — planned sales, completed sales, loans, and replacements Loadout Questions — identity/configuration follow ups Browse by Category Loadout Audio Loadout Computers & Servers Loadout Mobile & Tablets Loadout Gaming & VR Loadout Displays & Home Theater Loadout Photography Loadout Peripherals & Accessories Loadout Network & Infrastructure Loadout Test Equipment Conventions Each physical item has one canonical device note. Category maps are the browsing layer; Inventory is the master rollup; Valuation and Sales & Lifecycle own their respective operational views. Details are recorded in Loadout Agent Instructions.",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -7188,7 +7188,8 @@
         "systems/technology/displays-and-home-theater",
         "systems/technology/cameras-and-lenses",
         "systems/technology/accessories",
-        "systems/technology/accessories"
+        "systems/technology/accessories",
+        "systems/technology/test-equipment-and-instruments"
       ],
       "backlinks": [
         "interests/audio/audio",
@@ -12669,6 +12670,7 @@
         "systems/technology/analog-oscilloscope"
       ],
       "backlinks": [
+        "systems/technology/loadout-hub",
         "systems/technology/analog-oscilloscope"
       ],
       "headings": [
@@ -14042,7 +14044,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-07-31T13:57:01.547Z",
+    "generatedAt": "2026-07-31T13:57:06.990Z",
     "sourceCount": 1138,
     "publishedCount": 222,
     "skippedCount": 914,
