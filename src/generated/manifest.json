@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:56:54.855Z",
+  "generatedAt": "2026-07-31T13:57:01.547Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -3338,7 +3338,8 @@
         "systems/technology/inventory"
       ],
       "backlinks": [
-        "systems/technology/wishlist"
+        "systems/technology/wishlist",
+        "systems/technology/displays-and-home-theater"
       ],
       "headings": [
         {
@@ -3851,8 +3852,8 @@
       "slug": "systems/technology/displays-and-home-theater",
       "title": "Displays and Home Theater",
       "summary": "Inventory index and reference information for Displays and Home Theater.",
-      "html": "<h1>Displays and Home Theater</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a> | Valuation: <a href=\"/notes/systems/technology/prices/\">Valuation</a> | Clarifications: <a href=\"/notes/systems/technology/todo/\">Questions</a></p>\n<p>Displays, televisions, and living-room playback hardware owned in the loadout.</p>\n<h2 id=\"monitors\">Monitors<a class=\"heading-anchor\" href=\"#monitors\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role / Status</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/samsung-odyssey-oled-g8-g80sd/\">Samsung Odyssey OLED G8 (G80SD)</a></td>\n<td>32-inch 4K OLED / 240 Hz; only monitor at the main setup</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/samsung-odyssey-g7-32-inch/\">Samsung Odyssey G7 (32-inch)</a></td>\n<td>32-inch QHD / 240 Hz curved monitor; elsewhere or lent out</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/samsung-odyssey-g4-25-inch/\">Samsung Odyssey G4 (25-inch)</a></td>\n<td>25-inch FHD / 240 Hz IPS monitor; elsewhere or lent out</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/samsung-1080p-120-hz-monitor-model-unknown/\">Samsung 1080p 120 Hz Monitor (Model Unknown)</a></td>\n<td>Older secondary Samsung monitor; elsewhere or lent out</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/benq-zowie-xl2411p/\">BenQ ZOWIE XL2411P</a></td>\n<td>24-inch FHD / 144 Hz TN monitor; not at the main setup</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/acer-pm161q-jbmiuux-portable-monitor/\">Acer PM161Q Jbmiuux Portable Monitor</a></td>\n<td>15.6-inch FHD IPS portable monitor for P520 local troubleshooting and possible always-on wallboard</td>\n</tr>\n</tbody></table>\n<h2 id=\"living-room-display-and-playback\">Living Room Display and Playback<a class=\"heading-anchor\" href=\"#living-room-display-and-playback\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role / Status</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/sony-bravia-x850g-75-inch/\">Sony BRAVIA X850G (75-inch)</a></td>\n<td>75-inch 4K television</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/apple-tv-4k-3rd-generation-64-gb/\">Apple TV 4K (3rd Generation, 64 GB)</a></td>\n<td>4K streaming box connected to the Sony TV</td>\n</tr>\n</tbody></table>\n<h2 id=\"provenance\">Provenance<a class=\"heading-anchor\" href=\"#provenance\">#</a></h2>\n<p>Canonicalized on 2026-06-22 from <a href=\"/notes/systems/technology/displays-and-home-theater/\">legacy source</a>.</p>\n",
-      "text": "Displays and Home Theater Home: Loadout Inventory: Inventory Valuation: Valuation Clarifications: Questions Displays, televisions, and living room playback hardware owned in the loadout. Monitors Device Role / Status Samsung Odyssey OLED G8 (G80SD) 32 inch 4K OLED / 240 Hz; only monitor at the main setup Samsung Odyssey G7 (32 inch) 32 inch QHD / 240 Hz curved monitor; elsewhere or lent out Samsung Odyssey G4 (25 inch) 25 inch FHD / 240 Hz IPS monitor; elsewhere or lent out Samsung 1080p 120 Hz Monitor (Model Unknown) Older secondary Samsung monitor; elsewhere or lent out BenQ ZOWIE XL2411P 24 inch FHD / 144 Hz TN monitor; not at the main setup Acer PM161Q Jbmiuux Portable Monitor 15.6 inch FHD IPS portable monitor for P520 local troubleshooting and possible always on wallboard Living Room Display and Playback Device Role / Status Sony BRAVIA X850G (75 inch) 75 inch 4K television Apple TV 4K (3rd Generation, 64 GB) 4K streaming box connected to the Sony TV Provenance Canonicalized on 2026 06 22 from legacy source.",
+      "html": "<h1>Displays and Home Theater</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a> | Valuation: <a href=\"/notes/systems/technology/prices/\">Valuation</a> | Clarifications: <a href=\"/notes/systems/technology/todo/\">Questions</a></p>\n<p>Displays, televisions, and living-room playback hardware owned in the loadout.</p>\n<h2 id=\"monitors\">Monitors<a class=\"heading-anchor\" href=\"#monitors\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role / Status</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/samsung-odyssey-oled-g8-g80sd/\">Samsung Odyssey OLED G8 (G80SD)</a></td>\n<td>32-inch 4K OLED / 240 Hz; only monitor at the main setup</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/samsung-odyssey-g7-32-inch/\">Samsung Odyssey G7 (32-inch)</a></td>\n<td>32-inch QHD / 240 Hz curved monitor; elsewhere or lent out</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/samsung-odyssey-g4-25-inch/\">Samsung Odyssey G4 (25-inch)</a></td>\n<td>25-inch FHD / 240 Hz IPS monitor; elsewhere or lent out</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/samsung-1080p-120-hz-monitor-model-unknown/\">Samsung 1080p 120 Hz Monitor (Model Unknown)</a></td>\n<td>Older secondary Samsung monitor; elsewhere or lent out</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/benq-zowie-xl2411p/\">BenQ ZOWIE XL2411P</a></td>\n<td>24-inch FHD / 144 Hz TN monitor; not at the main setup</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/acer-pm161q-jbmiuux-portable-monitor/\">Acer PM161Q Jbmiuux Portable Monitor</a></td>\n<td>15.6-inch FHD IPS portable monitor for P520 local troubleshooting and possible always-on wallboard</td>\n</tr>\n</tbody></table>\n<h2 id=\"living-room-display-and-playback\">Living Room Display and Playback<a class=\"heading-anchor\" href=\"#living-room-display-and-playback\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role / Status</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/sony-bravia-x850g-75-inch/\">Sony BRAVIA X850G (75-inch)</a></td>\n<td>75-inch 4K television</td>\n</tr>\n<tr>\n<td><a href=\"/notes/systems/technology/apple-tv-4k-3rd-generation-64-gb/\">Apple TV 4K (3rd Generation, 64 GB)</a></td>\n<td>4K streaming box connected to the Sony TV</td>\n</tr>\n</tbody></table>\n<h2 id=\"retro--analog-display\">Retro / Analog Display<a class=\"heading-anchor\" href=\"#retro--analog-display\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Device</th>\n<th>Role / Status</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/systems/technology/crt-tv-for-retro-gaming/\">CRT TV for Retro Gaming</a></td>\n<td>Wishlist — CRT for retro gaming, zero input lag, native 240p scanlines</td>\n</tr>\n</tbody></table>\n<h2 id=\"provenance\">Provenance<a class=\"heading-anchor\" href=\"#provenance\">#</a></h2>\n<p>Canonicalized on 2026-06-22 from <a href=\"/notes/systems/technology/displays-and-home-theater/\">legacy source</a>.</p>\n",
+      "text": "Displays and Home Theater Home: Loadout Inventory: Inventory Valuation: Valuation Clarifications: Questions Displays, televisions, and living room playback hardware owned in the loadout. Monitors Device Role / Status Samsung Odyssey OLED G8 (G80SD) 32 inch 4K OLED / 240 Hz; only monitor at the main setup Samsung Odyssey G7 (32 inch) 32 inch QHD / 240 Hz curved monitor; elsewhere or lent out Samsung Odyssey G4 (25 inch) 25 inch FHD / 240 Hz IPS monitor; elsewhere or lent out Samsung 1080p 120 Hz Monitor (Model Unknown) Older secondary Samsung monitor; elsewhere or lent out BenQ ZOWIE XL2411P 24 inch FHD / 144 Hz TN monitor; not at the main setup Acer PM161Q Jbmiuux Portable Monitor 15.6 inch FHD IPS portable monitor for P520 local troubleshooting and possible always on wallboard Living Room Display and Playback Device Role / Status Sony BRAVIA X850G (75 inch) 75 inch 4K television Apple TV 4K (3rd Generation, 64 GB) 4K streaming box connected to the Sony TV Retro / Analog Display Device Role / Status CRT TV for Retro Gaming Wishlist — CRT for retro gaming, zero input lag, native 240p scanlines Provenance Canonicalized on 2026 06 22 from legacy source.",
       "section": "systems",
       "topic": "Technology",
       "status": "reference",
@@ -3879,6 +3880,7 @@
         "systems/technology/acer-pm161q-jbmiuux-portable-monitor",
         "systems/technology/sony-bravia-x850g-75-inch",
         "systems/technology/apple-tv-4k-3rd-generation-64-gb",
+        "systems/technology/crt-tv-for-retro-gaming",
         "systems/technology/displays-and-home-theater"
       ],
       "backlinks": [
@@ -3908,6 +3910,11 @@
           "depth": 2,
           "text": "Living Room Display and Playback",
           "id": "living-room-display-and-playback"
+        },
+        {
+          "depth": 2,
+          "text": "Retro / Analog Display",
+          "id": "retro--analog-display"
         },
         {
           "depth": 2,
@@ -14035,7 +14042,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-07-31T13:56:54.855Z",
+    "generatedAt": "2026-07-31T13:57:01.547Z",
     "sourceCount": 1138,
     "publishedCount": 222,
     "skippedCount": 914,
