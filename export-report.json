@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-31T13:56:15.798Z",
-  "sourceCount": 1135,
-  "publishedCount": 219,
+  "generatedAt": "2026-07-31T13:56:30.777Z",
+  "sourceCount": 1136,
+  "publishedCount": 220,
   "skippedCount": 914,
   "duplicateCount": 2,
   "brokenLinks": [
@@ -151,10 +151,6 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
-      "target": "Analog Oscilloscope"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
       "target": "CRT TV for Retro Gaming"
     },
     {
@@ -176,6 +172,10 @@
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/NVIDIA GeForce RTX 3060 12 GB.md",
       "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Test Equipment/Analog Oscilloscope.md",
+      "target": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Test Equipment"
     },
     {
       "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",
