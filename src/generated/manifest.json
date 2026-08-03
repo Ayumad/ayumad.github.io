@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T08:06:20.916Z",
+  "generatedAt": "2026-08-03T08:06:43.210Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -3132,8 +3132,8 @@
       "slug": "systems/technology/consoles-and-controllers",
       "title": "Consoles and Controllers",
       "summary": "Inventory map of game consoles, handhelds, and controllers.",
-      "html": "<h1>Consoles and Controllers</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a> | Valuation: <a href=\"/notes/systems/technology/prices/\">Valuation</a> | Gaming: <a href=\"/notes/systems/technology/gaming/\">Gaming</a></p>\n<h2 id=\"nintendo-systems\">Nintendo Systems<a class=\"heading-anchor\" href=\"#nintendo-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/nintendo-switch-2/\">Nintendo Switch 2</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-oled-model-modded/\">Nintendo Switch OLED Model (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-modded/\">Nintendo Switch (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-lite-modded/\">Nintendo Switch Lite (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-new-3ds-xl-modded/\">Nintendo New 3DS XL (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-new-3ds-modded/\">Nintendo New 3DS (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-dsi-xl-super-mario-bros-25th-anniversary-modded/\">Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded)</a></li>\n</ul>\n<h2 id=\"xbox-systems\">Xbox Systems<a class=\"heading-anchor\" href=\"#xbox-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/microsoft-xbox-one/\">Microsoft Xbox One</a></li>\n</ul>\n<h2 id=\"controllers\">Controllers<a class=\"heading-anchor\" href=\"#controllers\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/nintendo-switch-2-pro-controller/\">Nintendo Switch 2 Pro Controller</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-pro-controller/\">Nintendo Switch Pro Controller</a></li>\n<li><a href=\"/notes/systems/technology/8bitdo-sn30-pro/\">8BitDo SN30 Pro</a></li>\n<li><a href=\"/notes/systems/technology/8bitdo-ultimate-2c/\">8BitDo Ultimate 2C</a></li>\n<li><a href=\"/notes/systems/technology/microsoft-xbox-elite-wireless-controller-series-2/\">Microsoft Xbox Elite Wireless Controller Series 2</a></li>\n<li><a href=\"/notes/systems/technology/microsoft-xbox-wireless-controller-series-xs/\">Microsoft Xbox Wireless Controller (Series X|S)</a></li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li>Gaming Inventory</li>\n<li><a href=\"/notes/systems/technology/handheld-gaming-pcs/\">Handheld Gaming PCs</a></li>\n</ul>\n",
-      "text": "Consoles and Controllers Home: Loadout Inventory: Inventory Valuation: Valuation Gaming: Gaming Nintendo Systems Nintendo Switch 2 Nintendo Switch OLED Model (Modded) Nintendo Switch (Modded) Nintendo Switch Lite (Modded) Nintendo New 3DS XL (Modded) Nintendo New 3DS (Modded) Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded) Xbox Systems Microsoft Xbox One Controllers Nintendo Switch 2 Pro Controller Nintendo Switch Pro Controller 8BitDo SN30 Pro 8BitDo Ultimate 2C Microsoft Xbox Elite Wireless Controller Series 2 Microsoft Xbox Wireless Controller (Series X S) Related Notes Gaming Inventory Handheld Gaming PCs",
+      "html": "<h1>Consoles and Controllers</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a> | Valuation: <a href=\"/notes/systems/technology/prices/\">Valuation</a> | Gaming: <a href=\"/notes/systems/technology/gaming/\">Gaming</a></p>\n<h2 id=\"nintendo-systems\">Nintendo Systems<a class=\"heading-anchor\" href=\"#nintendo-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/nintendo-switch-2/\">Nintendo Switch 2</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-oled-model-modded/\">Nintendo Switch OLED Model (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-modded/\">Nintendo Switch (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-lite-modded/\">Nintendo Switch Lite (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-new-3ds-xl-modded/\">Nintendo New 3DS XL (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-new-3ds-modded/\">Nintendo New 3DS (Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-dsi-xl-super-mario-bros-25th-anniversary-modded/\">Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded)</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-ds-lite-modded/\">Nintendo DS Lite (Modded)</a></li>\n</ul>\n<h2 id=\"xbox-systems\">Xbox Systems<a class=\"heading-anchor\" href=\"#xbox-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/microsoft-xbox-one/\">Microsoft Xbox One</a></li>\n</ul>\n<h2 id=\"controllers\">Controllers<a class=\"heading-anchor\" href=\"#controllers\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/nintendo-switch-2-pro-controller/\">Nintendo Switch 2 Pro Controller</a></li>\n<li><a href=\"/notes/systems/technology/nintendo-switch-pro-controller/\">Nintendo Switch Pro Controller</a></li>\n<li><a href=\"/notes/systems/technology/8bitdo-sn30-pro/\">8BitDo SN30 Pro</a></li>\n<li><a href=\"/notes/systems/technology/8bitdo-ultimate-2c/\">8BitDo Ultimate 2C</a></li>\n<li><a href=\"/notes/systems/technology/microsoft-xbox-elite-wireless-controller-series-2/\">Microsoft Xbox Elite Wireless Controller Series 2</a></li>\n<li><a href=\"/notes/systems/technology/microsoft-xbox-wireless-controller-series-xs/\">Microsoft Xbox Wireless Controller (Series X|S)</a></li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li>Gaming Inventory</li>\n<li><a href=\"/notes/systems/technology/handheld-gaming-pcs/\">Handheld Gaming PCs</a></li>\n</ul>\n",
+      "text": "Consoles and Controllers Home: Loadout Inventory: Inventory Valuation: Valuation Gaming: Gaming Nintendo Systems Nintendo Switch 2 Nintendo Switch OLED Model (Modded) Nintendo Switch (Modded) Nintendo Switch Lite (Modded) Nintendo New 3DS XL (Modded) Nintendo New 3DS (Modded) Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded) Nintendo DS Lite (Modded) Xbox Systems Microsoft Xbox One Controllers Nintendo Switch 2 Pro Controller Nintendo Switch Pro Controller 8BitDo SN30 Pro 8BitDo Ultimate 2C Microsoft Xbox Elite Wireless Controller Series 2 Microsoft Xbox Wireless Controller (Series X S) Related Notes Gaming Inventory Handheld Gaming PCs",
       "section": "systems",
       "topic": "Technology",
       "status": "reference",
@@ -3159,6 +3159,7 @@
         "systems/technology/nintendo-new-3ds-xl-modded",
         "systems/technology/nintendo-new-3ds-modded",
         "systems/technology/nintendo-dsi-xl-super-mario-bros-25th-anniversary-modded",
+        "systems/technology/nintendo-ds-lite-modded",
         "systems/technology/microsoft-xbox-one",
         "systems/technology/nintendo-switch-2-pro-controller",
         "systems/technology/nintendo-switch-pro-controller",
@@ -9127,7 +9128,8 @@
         "systems/technology/gaming"
       ],
       "backlinks": [
-        "systems/technology/wishlist"
+        "systems/technology/wishlist",
+        "systems/technology/consoles-and-controllers"
       ],
       "headings": [
         {
@@ -14381,7 +14383,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-03T08:06:20.916Z",
+    "generatedAt": "2026-08-03T08:06:43.210Z",
     "sourceCount": 1144,
     "publishedCount": 225,
     "skippedCount": 917,
