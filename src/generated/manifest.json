@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T05:00:39.725Z",
+  "generatedAt": "2026-08-03T08:03:10.786Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -2588,6 +2588,7 @@
       "backlinks": [
         "systems/technology/loadout-hub",
         "systems/technology/cameras-and-lenses",
+        "systems/technology/kodak-pixpro-fz55",
         "systems/technology/fujifilm-x-t4",
         "systems/technology/fujifilm-x100vi",
         "systems/technology/fujifilm-x20",
@@ -5779,6 +5780,7 @@
         "systems/technology/apple-ipad-pro-129-inch-m2-wi-fi",
         "systems/technology/apple-ipad-mini-6th-generation",
         "systems/technology/google-pixel-4-xl",
+        "systems/technology/kodak-pixpro-fz55",
         "systems/technology/amd-radeon-rx-6600-8-gb",
         "systems/technology/beelink-ser8",
         "systems/technology/desktop-pc-core-i7-4790k-geforce-gtx-780-ti",
@@ -6291,6 +6293,82 @@
           "depth": 2,
           "text": "Value Reference",
           "id": "value-reference"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "id": "sources"
+        }
+      ]
+    },
+    {
+      "id": "c74d98c00942",
+      "slug": "systems/technology/kodak-pixpro-fz55",
+      "title": "Kodak PixPro FZ55",
+      "summary": "Budget point-and-shoot digicam with CCD sensor aesthetic. 16MP, 5x zoom, 720p video, AA batteries.",
+      "html": "<h1>Kodak PixPro FZ55</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Category: <a href=\"/notes/systems/technology/cameras-and-lenses/\">Cameras &amp; Lenses</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a></p>\n<h2 id=\"what-it-is\">What It Is<a class=\"heading-anchor\" href=\"#what-it-is\">#</a></h2>\n<p>Budget point-and-shoot digital camera riding the \"digicam revival\" trend. Not a great camera by technical standards, but produces a distinctive retro aesthetic that's hard to replicate with modern phones. The CCD sensor gives photos a warm, dreamy, film-like quality that's popular on TikTok/social media.</p>\n<h2 id=\"specs\">Specs<a class=\"heading-anchor\" href=\"#specs\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Spec</th>\n<th>Details</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Sensor</strong></td>\n<td>16 MP CCD (not CMOS — this is the key to the aesthetic)</td>\n</tr>\n<tr>\n<td><strong>Lens</strong></td>\n<td>5x optical zoom, 26-130mm equiv., f/3.5-6.5</td>\n</tr>\n<tr>\n<td><strong>Video</strong></td>\n<td>720p HD only (no 4K)</td>\n</tr>\n<tr>\n<td><strong>Display</strong></td>\n<td>2.7\" rear LCD (no viewfinder)</td>\n</tr>\n<tr>\n<td><strong>Batteries</strong></td>\n<td>2x AA (recommend rechargeable NiMH like Panasonic Eneloop)</td>\n</tr>\n<tr>\n<td><strong>Storage</strong></td>\n<td>SD/SDHC/SDXC card (not included)</td>\n</tr>\n<tr>\n<td><strong>Connectivity</strong></td>\n<td>None — no WiFi, no Bluetooth. Transfer via SD card or USB cable</td>\n</tr>\n<tr>\n<td><strong>Flash</strong></td>\n<td>Built-in pop-up flash</td>\n</tr>\n<tr>\n<td><strong>Size</strong></td>\n<td>Ultra-compact, pocketable</td>\n</tr>\n<tr>\n<td><strong>Colors</strong></td>\n<td>Black, Red, Blue, Silver</td>\n</tr>\n</tbody></table>\n<h2 id=\"price\">Price<a class=\"heading-anchor\" href=\"#price\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Source</th>\n<th>Price</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>New (Amazon/Best Buy)</strong></td>\n<td>~$150</td>\n</tr>\n<tr>\n<td><strong>Used (Marketplace/eBay)</strong></td>\n<td>~$70-100</td>\n</tr>\n<tr>\n<td><strong>Budget target</strong></td>\n<td>$80-100 used</td>\n</tr>\n</tbody></table>\n<h2 id=\"why-people-like-it\">Why People Like It<a class=\"heading-anchor\" href=\"#why-people-like-it\">#</a></h2>\n<ul>\n<li><strong>CCD sensor aesthetic</strong> — warm, saturated colors with a \"Kodak color\" look. People describe it as \"dreamy,\" \"vintage,\" \"soulful\"</li>\n<li><strong>Pocketable</strong> — fits in a jacket pocket, much smaller than any mirrorless/DSLR</li>\n<li><strong>Simple</strong> — no settings to obsess over, just point and shoot</li>\n<li><strong>Durable</strong> — multiple reviewers report surviving drops onto concrete</li>\n<li><strong>Affordable</strong> — one of the only new point-and-shoots under $200 that isn't a scam</li>\n</ul>\n<h2 id=\"honest-limitations\">Honest Limitations<a class=\"heading-anchor\" href=\"#honest-limitations\">#</a></h2>\n<ul>\n<li><strong>Image quality</strong> — a modern phone beats it in most scenarios, especially low light and dynamic range</li>\n<li><strong>No WiFi/BT</strong> — you have to physically remove the SD card to transfer photos</li>\n<li><strong>720p video only</strong> — no 4K, mediocre stabilization</li>\n<li><strong>No raw support</strong> — JPEG only, limited post-processing latitude</li>\n<li><strong>Slow autofocus</strong> — especially in low light</li>\n<li><strong>AA batteries</strong> — drain fast with heavy use, carry spares</li>\n</ul>\n<h2 id=\"what-it-competes-with\">What It Competes With<a class=\"heading-anchor\" href=\"#what-it-competes-with\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Camera</th>\n<th>Price</th>\n<th>Advantage</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Canon PowerShot ELPH 180</td>\n<td>~$150</td>\n<td>Similar specs, different color science</td>\n</tr>\n<tr>\n<td>Nikon Coolpix A10</td>\n<td>~$120</td>\n<td>Similar budget tier</td>\n</tr>\n<tr>\n<td>Used vintage digicams (Canon PowerShot, Sony Cyber-shot)</td>\n<td>$30-100</td>\n<td>Better optics, more character, but used/unknown condition</td>\n</tr>\n<tr>\n<td>Camp Snap</td>\n<td>~$65</td>\n<td>Screen-free, intentionally limited</td>\n</tr>\n<tr>\n<td>Your phone</td>\n<td>$0</td>\n<td>Better quality, always in your pocket</td>\n</tr>\n</tbody></table>\n<h2 id=\"practical-fit\">Practical Fit<a class=\"heading-anchor\" href=\"#practical-fit\">#</a></h2>\n<ul>\n<li><strong>Strengths:</strong> Unique aesthetic for social media, pocketable, fun factor, no subscription needed</li>\n<li><strong>Limitations:</strong> Not a \"good camera\" technically — it's about the vibe</li>\n<li><strong>Good use in this loadout:</strong> Second/third camera for casual snaps, travel, events. Pairs with the Fujifilm X-T4/X100VI as the \"serious\" cameras — this is the \"just have fun\" camera.</li>\n</ul>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li><a href=\"https://www.kodak.com/en/consumer/product/cameras/digital/fz55/\">Kodak official page</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=-XrB-97lO1Q\">Why Is EVERYONE Buying This $140 Camera? — YouTube</a></li>\n<li><a href=\"https://medium.com/@kashafshahid467/kodak-pixpro-fz55-review-is-kodak-pixpro-fz55-still-worth-it-to-buy-in-2026-034a4bd34fa3\">Is Kodak PixPro FZ55 still worth it in 2026 — Medium</a></li>\n<li><a href=\"https://www.reddit.com/r/Cameras/comments/1kcgs6n/is_the_kodak_pixpro_fz55_worth_to_buy/\">r/Cameras discussion</a></li>\n</ul>\n",
+      "text": "Kodak PixPro FZ55 Home: Loadout Category: Cameras & Lenses Inventory: Inventory What It Is Budget point and shoot digital camera riding the \"digicam revival\" trend. Not a great camera by technical standards, but produces a distinctive retro aesthetic that's hard to replicate with modern phones. The CCD sensor gives photos a warm, dreamy, film like quality that's popular on TikTok/social media. Specs Spec Details Sensor 16 MP CCD (not CMOS — this is the key to the aesthetic) Lens 5x optical zoom, 26 130mm equiv., f/3.5 6.5 Video 720p HD only (no 4K) Display 2.7\" rear LCD (no viewfinder) Batteries 2x AA (recommend rechargeable NiMH like Panasonic Eneloop) Storage SD/SDHC/SDXC card (not included) Connectivity None — no WiFi, no Bluetooth. Transfer via SD card or USB cable Flash Built in pop up flash Size Ultra compact, pocketable Colors Black, Red, Blue, Silver Price Source Price New (Amazon/Best Buy) $150 Used (Marketplace/eBay) $70 100 Budget target $80 100 used Why People Like It CCD sensor aesthetic — warm, saturated colors with a \"Kodak color\" look. People describe it as \"dreamy,\" \"vintage,\" \"soulful\" Pocketable — fits in a jacket pocket, much smaller than any mirrorless/DSLR Simple — no settings to obsess over, just point and shoot Durable — multiple reviewers report surviving drops onto concrete Affordable — one of the only new point and shoots under $200 that isn't a scam Honest Limitations Image quality — a modern phone beats it in most scenarios, especially low light and dynamic range No WiFi/BT — you have to physically remove the SD card to transfer photos 720p video only — no 4K, mediocre stabilization No raw support — JPEG only, limited post processing latitude Slow autofocus — especially in low light AA batteries — drain fast with heavy use, carry spares What It Competes With Camera Price Advantage Canon PowerShot ELPH 180 $150 Similar specs, different color science Nikon Coolpix A10 $120 Similar budget tier Used vintage digicams (Canon PowerShot, Sony Cyber shot) $30 100 Better optics, more character, but used/unknown condition Camp Snap $65 Screen free, intentionally limited Your phone $0 Better quality, always in your pocket Practical Fit Strengths: Unique aesthetic for social media, pocketable, fun factor, no subscription needed Limitations: Not a \"good camera\" technically — it's about the vibe Good use in this loadout: Second/third camera for casual snaps, travel, events. Pairs with the Fujifilm X T4/X100VI as the \"serious\" cameras — this is the \"just have fun\" camera. Sources Kodak official page Why Is EVERYONE Buying This $140 Camera? — YouTube Is Kodak PixPro FZ55 still worth it in 2026 — Medium r/Cameras discussion",
+      "section": "systems",
+      "topic": "Technology",
+      "status": "active",
+      "created": "2026-07-31",
+      "updated": "2026-07-31",
+      "tags": [
+        "technology",
+        "loadout",
+        "cameras",
+        "digicam",
+        "point-and-shoot",
+        "kodak"
+      ],
+      "aliases": [
+        "fz55",
+        "digicam",
+        "point and shoot"
+      ],
+      "sourcePath": "03 Areas/Technology/Loadout/20 Devices/Cameras & Lenses/Kodak PixPro FZ55.md",
+      "readingMinutes": 2,
+      "links": [
+        "systems/technology/loadout-hub",
+        "systems/technology/cameras-and-lenses",
+        "systems/technology/inventory"
+      ],
+      "backlinks": [],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "What It Is",
+          "id": "what-it-is"
+        },
+        {
+          "depth": 2,
+          "text": "Specs",
+          "id": "specs"
+        },
+        {
+          "depth": 2,
+          "text": "Price",
+          "id": "price"
+        },
+        {
+          "depth": 2,
+          "text": "Why People Like It",
+          "id": "why-people-like-it"
+        },
+        {
+          "depth": 2,
+          "text": "Honest Limitations",
+          "id": "honest-limitations"
+        },
+        {
+          "depth": 2,
+          "text": "What It Competes With",
+          "id": "what-it-competes-with"
+        },
+        {
+          "depth": 2,
+          "text": "Practical Fit",
+          "id": "practical-fit"
         },
         {
           "depth": 2,
@@ -7262,6 +7340,7 @@
         "systems/technology/truthear-x-crinacle-zero-red",
         "systems/technology/wiim-ultra",
         "systems/technology/yamaha-rx-v677",
+        "systems/technology/kodak-pixpro-fz55",
         "systems/technology/amd-radeon-rx-6600-8-gb",
         "systems/technology/asus-rog-flow-z13-2023",
         "systems/technology/asus-rog-flow-z13-2025",
@@ -14089,6 +14168,7 @@
         "626f05d02d41",
         "9de99e851812",
         "f445ce8cd814",
+        "c74d98c00942",
         "954041292eba",
         "0805c3e2c5c2",
         "9dd655b0afe8",
@@ -14179,9 +14259,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-03T05:00:39.725Z",
-    "sourceCount": 1142,
-    "publishedCount": 223,
+    "generatedAt": "2026-08-03T08:03:10.786Z",
+    "sourceCount": 1143,
+    "publishedCount": 224,
     "skippedCount": 917,
     "duplicateCount": 2,
     "brokenLinks": [
