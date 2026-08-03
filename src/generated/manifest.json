@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T08:03:10.786Z",
+  "generatedAt": "2026-08-03T08:03:39.067Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -3164,6 +3164,7 @@
       ],
       "backlinks": [
         "systems/technology/gaming",
+        "systems/technology/nintendo-ds-lite-modded",
         "systems/technology/8bitdo-sn30-pro",
         "systems/technology/8bitdo-ultimate-2c",
         "systems/technology/logitech-g-cloud-gaming-handheld",
@@ -4830,6 +4831,7 @@
         "systems/technology/desktop-pc-core-i9-12900k-geforce-rtx-4080",
         "systems/technology/sff-pc-ryzen-5-3600-radeon-rx-9060-xt",
         "systems/technology/sff-pc-ryzen-5-5600-radeon-rx-9070-xt",
+        "systems/technology/nintendo-ds-lite-modded",
         "systems/technology/8bitdo-sn30-pro",
         "systems/technology/8bitdo-ultimate-2c",
         "systems/technology/logitech-g-cloud-gaming-handheld",
@@ -5794,6 +5796,7 @@
         "systems/technology/raspberry-pi-4-model-b",
         "systems/technology/sff-pc-ryzen-5-3600-radeon-rx-9060-xt",
         "systems/technology/sff-pc-ryzen-5-5600-radeon-rx-9070-xt",
+        "systems/technology/nintendo-ds-lite-modded",
         "systems/technology/apple-tv-4k-3rd-generation-64-gb",
         "systems/technology/crt-tv-for-retro-gaming",
         "systems/technology/samsung-1080p-120-hz-monitor-model-unknown",
@@ -7371,6 +7374,7 @@
         "systems/technology/razer-blade-stealth-13",
         "systems/technology/sff-pc-ryzen-5-3600-radeon-rx-9060-xt",
         "systems/technology/sff-pc-ryzen-5-5600-radeon-rx-9070-xt",
+        "systems/technology/nintendo-ds-lite-modded",
         "systems/technology/acer-pm161q-jbmiuux-portable-monitor",
         "systems/technology/apple-tv-4k-3rd-generation-64-gb",
         "systems/technology/crt-tv-for-retro-gaming",
@@ -9073,6 +9077,107 @@
           "depth": 2,
           "text": "Provenance",
           "id": "provenance"
+        }
+      ]
+    },
+    {
+      "id": "a0c7159880ea",
+      "slug": "systems/technology/nintendo-ds-lite-modded",
+      "title": "Nintendo DS Lite (Modded)",
+      "summary": "Modded Nintendo DS Lite with translucent shell and USB-C charging port. Retro gaming handheld with modern convenience.",
+      "html": "<h1>Nintendo DS Lite (Modded)</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Category: <a href=\"/notes/systems/technology/consoles-and-controllers/\">Consoles &amp; Controllers</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a></p>\n<h2 id=\"what-it-is\">What It Is<a class=\"heading-anchor\" href=\"#what-it-is\">#</a></h2>\n<p>A Nintendo DS Lite with two mods:</p>\n<ol>\n<li><strong>Translucent shell</strong> — aftermarket shell (typically from eXtremeRate) that shows the internals, giving it a retro transparent aesthetic reminiscent of the Atomic Purple Game Boy era</li>\n<li><strong>USB-C charging</strong> — replaces the proprietary GBA-SP-style charging port with a modern USB-C port</li>\n</ol>\n<h2 id=\"why-modded\">Why Modded?<a class=\"heading-anchor\" href=\"#why-modded\">#</a></h2>\n<ul>\n<li><strong>Translucent shell</strong> — the original DS Lite shells yellow over time and look tired. A fresh translucent shell gives it a clean, modern-retro aesthetic</li>\n<li><strong>USB-C</strong> — one cable for everything. No more hunting for the proprietary charger. Charge with the same cable as your phone, earbuds, or Kindle</li>\n</ul>\n<h2 id=\"what-you-need-if-buying-base-ds-lite--modding\">What You Need (If Buying Base DS Lite + Modding)<a class=\"heading-anchor\" href=\"#what-you-need-if-buying-base-ds-lite--modding\">#</a></h2>\n<h3 id=\"base-console\">Base Console<a class=\"heading-anchor\" href=\"#base-console\">#</a></h3>\n<table>\n<thead>\n<tr>\n<th>Source</th>\n<th>Price</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Used DS Lite (eBay/Marketplace)</strong></td>\n<td>$25-60</td>\n<td>Any color — the shell is getting replaced anyway</td>\n</tr>\n<tr>\n<td><strong>\"For parts\" DS Lite</strong></td>\n<td>$10-25</td>\n<td>Often works fine, just cosmetic issues</td>\n</tr>\n</tbody></table>\n<h3 id=\"translucent-shell\">Translucent Shell<a class=\"heading-anchor\" href=\"#translucent-shell\">#</a></h3>\n<table>\n<thead>\n<tr>\n<th>Source</th>\n<th>Price</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>eXtremeRate translucent shell</strong></td>\n<td>$15-25</td>\n<td>Best quality aftermarket shells. Multiple colors: clear, smoke, ice blue, etc.</td>\n</tr>\n<tr>\n<td><strong>Generic AliExpress shell</strong></td>\n<td>$8-15</td>\n<td>Lower quality but functional</td>\n</tr>\n</tbody></table>\n<h3 id=\"usb-c-mod-kit\">USB-C Mod Kit<a class=\"heading-anchor\" href=\"#usb-c-mod-kit\">#</a></h3>\n<table>\n<thead>\n<tr>\n<th>Source</th>\n<th>Price</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Tindie DS Lite USB-C kit</strong></td>\n<td>$5-15</td>\n<td>Comes with USB-C port, jig, and bezel</td>\n</tr>\n<tr>\n<td><strong>Etsy DIYlightful kit</strong></td>\n<td>$13.50</td>\n<td>USB-C replacement port with jig + bezel, 5-star reviews</td>\n</tr>\n<tr>\n<td><strong>AliExpress</strong></td>\n<td>$5-10</td>\n<td>Budget option, may need adjustments</td>\n</tr>\n</tbody></table>\n<h3 id=\"total-cost\">Total Cost<a class=\"heading-anchor\" href=\"#total-cost\">#</a></h3>\n<table>\n<thead>\n<tr>\n<th>Route</th>\n<th>Total</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>DIY (buy base + mod yourself)</strong></td>\n<td>$45-100</td>\n</tr>\n<tr>\n<td><strong>Pre-modded (buy from modder on eBay/Etsy)</strong></td>\n<td>$80-150</td>\n</tr>\n</tbody></table>\n<h2 id=\"mod-difficulty\">Mod Difficulty<a class=\"heading-anchor\" href=\"#mod-difficulty\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Mod</th>\n<th>Difficulty</th>\n<th>Tools Needed</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Shell swap</strong></td>\n<td>Easy-Medium</td>\n<td>Tri-wing screwdriver, Phillips screwdriver</td>\n</tr>\n<tr>\n<td><strong>USB-C port</strong></td>\n<td>Medium</td>\n<td>Soldering iron, solder, flux, fine-tip tweezers</td>\n</tr>\n</tbody></table>\n<p>The shell swap is straightforward — ~30 minutes, just remove screws and transfer internals. The USB-C mod requires soldering a small breakout board to the charging circuit — doable with basic soldering skills but requires precision.</p>\n<h2 id=\"good-tutorial\">Good Tutorial<a class=\"heading-anchor\" href=\"#good-tutorial\">#</a></h2>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=az4umJuRyQk\">USB-C port and eXtremeRate shell install on a Nintendo DS Lite — YouTube</a> — step-by-step guide for both mods</li>\n</ul>\n<h2 id=\"ds-lite-highlights\">DS Lite Highlights<a class=\"heading-anchor\" href=\"#ds-lite-highlights\">#</a></h2>\n<ul>\n<li><strong>Dual screens</strong> — top screen + bottom touchscreen</li>\n<li><strong>GBA slot</strong> — plays Game Boy Advance games natively (without adapters)</li>\n<li><strong>DS games</strong> — huge library: Mario Kart DS, Phantom Hourglass, Pokémon Diamond/Pearl, Ace Attorney, Castlevania, Professor Layton</li>\n<li><strong>Backwards compatible</strong> — plays GBA games in the GBA slot</li>\n<li><strong>Size</strong> — very pocketable, lighter than a Switch Lite</li>\n</ul>\n<h2 id=\"cross-references\">Cross-References<a class=\"heading-anchor\" href=\"#cross-references\">#</a></h2>\n<ul>\n<li><strong>ROM Hacks</strong> → <a href=\"/notes/library/media-and-culture/rom-hacks-kanban/\">ROM Hacks Kanban</a> — DS has a huge ROM hack scene (Pokémon, Mario, etc.)</li>\n<li><strong>Gaming inventory</strong> → <a href=\"/notes/systems/technology/gaming/\">Gaming</a> — adds a dedicated handheld to the retro lineup</li>\n<li><strong>Switch Lite</strong> → if you own one, DS fills the gap for pre-Switch Nintendo titles</li>\n</ul>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li><a href=\"https://www.reddit.com/r/NintendoDS/comments/16j6754/usb_type_c_on_nintendo_ds_lite/\">r/NintendoDS — USB-C mod discussion</a></li>\n<li><a href=\"https://www.extremerate.com\">eXtremeRate shells</a> — quality aftermarket shells</li>\n<li><a href=\"https://www.tindie.com/products/bxdiy/ds-lite-usb-c-mod-kit-w-snapjigbezel/\">Tindie DS Lite USB-C kit</a></li>\n<li><a href=\"https://www.etsy.com/listing/1460230138/nintendo-ds-lite-usb-c-replacement\">Etsy USB-C kit</a></li>\n</ul>\n",
+      "text": "Nintendo DS Lite (Modded) Home: Loadout Category: Consoles & Controllers Inventory: Inventory What It Is A Nintendo DS Lite with two mods: 1. Translucent shell — aftermarket shell (typically from eXtremeRate) that shows the internals, giving it a retro transparent aesthetic reminiscent of the Atomic Purple Game Boy era 2. USB C charging — replaces the proprietary GBA SP style charging port with a modern USB C port Why Modded? Translucent shell — the original DS Lite shells yellow over time and look tired. A fresh translucent shell gives it a clean, modern retro aesthetic USB C — one cable for everything. No more hunting for the proprietary charger. Charge with the same cable as your phone, earbuds, or Kindle What You Need (If Buying Base DS Lite + Modding) Base Console Source Price Notes Used DS Lite (eBay/Marketplace) $25 60 Any color — the shell is getting replaced anyway \"For parts\" DS Lite $10 25 Often works fine, just cosmetic issues Translucent Shell Source Price Notes eXtremeRate translucent shell $15 25 Best quality aftermarket shells. Multiple colors: clear, smoke, ice blue, etc. Generic AliExpress shell $8 15 Lower quality but functional USB C Mod Kit Source Price Notes Tindie DS Lite USB C kit $5 15 Comes with USB C port, jig, and bezel Etsy DIYlightful kit $13.50 USB C replacement port with jig + bezel, 5 star reviews AliExpress $5 10 Budget option, may need adjustments Total Cost Route Total DIY (buy base + mod yourself) $45 100 Pre modded (buy from modder on eBay/Etsy) $80 150 Mod Difficulty Mod Difficulty Tools Needed Shell swap Easy Medium Tri wing screwdriver, Phillips screwdriver USB C port Medium Soldering iron, solder, flux, fine tip tweezers The shell swap is straightforward — 30 minutes, just remove screws and transfer internals. The USB C mod requires soldering a small breakout board to the charging circuit — doable with basic soldering skills but requires precision. Good Tutorial USB C port and eXtremeRate shell install on a Nintendo DS Lite — YouTube — step by step guide for both mods DS Lite Highlights Dual screens — top screen + bottom touchscreen GBA slot — plays Game Boy Advance games natively (without adapters) DS games — huge library: Mario Kart DS, Phantom Hourglass, Pokémon Diamond/Pearl, Ace Attorney, Castlevania, Professor Layton Backwards compatible — plays GBA games in the GBA slot Size — very pocketable, lighter than a Switch Lite Cross References ROM Hacks → ROM Hacks Kanban — DS has a huge ROM hack scene (Pokémon, Mario, etc.) Gaming inventory → Gaming — adds a dedicated handheld to the retro lineup Switch Lite → if you own one, DS fills the gap for pre Switch Nintendo titles Sources r/NintendoDS — USB C mod discussion eXtremeRate shells — quality aftermarket shells Tindie DS Lite USB C kit Etsy USB C kit",
+      "section": "systems",
+      "topic": "Technology",
+      "status": "active",
+      "created": "2026-07-31",
+      "updated": "2026-07-31",
+      "tags": [
+        "technology",
+        "loadout",
+        "gaming",
+        "nintendo",
+        "ds",
+        "handheld",
+        "modded",
+        "retro"
+      ],
+      "aliases": [
+        "ds lite",
+        "nds",
+        "nintendo ds",
+        "translucent ds"
+      ],
+      "sourcePath": "03 Areas/Technology/Loadout/20 Devices/Consoles & Controllers/Nintendo DS Lite (Modded).md",
+      "readingMinutes": 3,
+      "links": [
+        "systems/technology/loadout-hub",
+        "systems/technology/consoles-and-controllers",
+        "systems/technology/inventory",
+        "library/media-and-culture/rom-hacks-kanban",
+        "systems/technology/gaming"
+      ],
+      "backlinks": [],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "What It Is",
+          "id": "what-it-is"
+        },
+        {
+          "depth": 2,
+          "text": "Why Modded?",
+          "id": "why-modded"
+        },
+        {
+          "depth": 2,
+          "text": "What You Need (If Buying Base DS Lite + Modding)",
+          "id": "what-you-need-if-buying-base-ds-lite--modding"
+        },
+        {
+          "depth": 3,
+          "text": "Base Console",
+          "id": "base-console"
+        },
+        {
+          "depth": 3,
+          "text": "Translucent Shell",
+          "id": "translucent-shell"
+        },
+        {
+          "depth": 3,
+          "text": "USB C Mod Kit",
+          "id": "usb-c-mod-kit"
+        },
+        {
+          "depth": 3,
+          "text": "Total Cost",
+          "id": "total-cost"
+        },
+        {
+          "depth": 2,
+          "text": "Mod Difficulty",
+          "id": "mod-difficulty"
+        },
+        {
+          "depth": 2,
+          "text": "Good Tutorial",
+          "id": "good-tutorial"
+        },
+        {
+          "depth": 2,
+          "text": "DS Lite Highlights",
+          "id": "ds-lite-highlights"
+        },
+        {
+          "depth": 2,
+          "text": "Cross References",
+          "id": "cross-references"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "id": "sources"
         }
       ]
     },
@@ -11463,6 +11568,7 @@
       "readingMinutes": 1,
       "links": [],
       "backlinks": [
+        "systems/technology/nintendo-ds-lite-modded",
         "library/media-and-culture/pokemon-rom-hacks"
       ],
       "headings": [
@@ -14201,6 +14307,7 @@
         "3a09414fca5f",
         "9483795016f7",
         "2733f48a0b64",
+        "a0c7159880ea",
         "a29e93a98318",
         "4b45f5c4dbae",
         "f176f94876cb",
@@ -14259,9 +14366,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-03T08:03:10.786Z",
-    "sourceCount": 1143,
-    "publishedCount": 224,
+    "generatedAt": "2026-08-03T08:03:39.067Z",
+    "sourceCount": 1144,
+    "publishedCount": 225,
     "skippedCount": 917,
     "duplicateCount": 2,
     "brokenLinks": [
