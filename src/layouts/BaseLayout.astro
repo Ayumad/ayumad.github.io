@@ -17,7 +17,7 @@ const {
   description,
   currentPath = Astro.url.pathname,
   generatedAt,
-  image = "https://ayumad.github.io/og.png",
+  image = "https://ayumad.me/og.png",
 } = Astro.props;
 const pageTitle = title === "Home" ? "Ayush’s knowledge" : `${title} — Ayush’s knowledge`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
@@ -40,6 +40,15 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:image" content={image} />
     <meta name="twitter:card" content="summary_large_image" />
     <title>{pageTitle}</title>
+    <script is:inline>
+      (() => {
+        if (location.hostname !== "ayumad.github.io") return;
+        const legacyPath = location.pathname.replace(/\/+$/, "") || "/";
+        const destinationPath = legacyPath === "/" ? "/knowledge" : legacyPath;
+        const destination = `https://ayumad.me${destinationPath}${location.search}${location.hash}`;
+        location.replace(destination);
+      })();
+    </script>
     <script is:inline>
       (() => {
         const params = new URLSearchParams(location.search);
