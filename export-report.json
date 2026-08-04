@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:07:29.128Z",
+  "generatedAt": "2026-08-04T08:08:13.050Z",
   "sourceCount": 1145,
   "publishedCount": 225,
   "skippedCount": 918,
@@ -31,7 +31,7 @@
     },
     {
       "source": "02 Projects/NES Emulator.md",
-      "target": "Hermes/Roadmap — NES Emulator"
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — NES Emulator"
     },
     {
       "source": "02 Projects/Obsidian RAG Assistant.md",
@@ -39,11 +39,7 @@
     },
     {
       "source": "02 Projects/Obsidian RAG Assistant.md",
-      "target": "Hermes/Roadmap — RAG Assistant"
-    },
-    {
-      "source": "02 Projects/Obsidian RAG Assistant.md",
-      "target": "Hermes/Roadmap — Hermes"
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — Hermes"
     },
     {
       "source": "02 Projects/Obsidian RAG Assistant.md",
@@ -55,7 +51,7 @@
     },
     {
       "source": "02 Projects/Personal Website.md",
-      "target": "Hermes/Project Tracker"
+      "target": "90 Operations/Hermes/Project Tracker"
     },
     {
       "source": "02 Projects/Planned/Voice Assistant.md",
