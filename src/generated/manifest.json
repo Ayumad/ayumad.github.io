@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T05:01:13.213Z",
+  "generatedAt": "2026-08-04T08:07:29.128Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -13318,19 +13318,20 @@
       "id": "477c26bd737e",
       "slug": "projects/projects/voice-assistant",
       "title": "Voice Assistant",
-      "summary": "Build an always-on, local-first voice interface to Hermes using a Raspberry Pi and Home Assistant.",
-      "html": "<h1>Voice Assistant</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> | Dependency: <a href=\"/notes/projects/projects/homelab/\">Homelab</a> | RAG: <a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a> | Detailed historical roadmap: Roadmap — Voice Assistant</p>\n<h2 id=\"goal\">Goal<a class=\"heading-anchor\" href=\"#goal\">#</a></h2>\n<p>Create an always-on, hands-free “Hey Hermes” voice assistant using the existing Raspberry Pi 4, local wake word, speech-to-text, text-to-speech, and a Hermes gateway integration.</p>\n<h2 id=\"current-state\">Current State<a class=\"heading-anchor\" href=\"#current-state\">#</a></h2>\n<p>Planned and intentionally deferred until the Homelab and core RAG stack are stable.</p>\n<h2 id=\"next-steps\">Next Steps<a class=\"heading-anchor\" href=\"#next-steps\">#</a></h2>\n<ul>\n<li> Confirm Homelab/RAG dependencies are stable.</li>\n<li> Test the Raspberry Pi microphone and speaker setup.</li>\n<li> Evaluate Home Assistant Assist, OpenVoiceOS, and Rhasspy against the historical roadmap.</li>\n</ul>\n<h2 id=\"history\">History<a class=\"heading-anchor\" href=\"#history\">#</a></h2>\n<p>The detailed phased roadmap is retained as a historical project-material source in Operations; this note is the canonical project owner.</p>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li>Roadmap — Voice Assistant</li>\n</ul>\n",
-      "text": "Voice Assistant Home: Home Dependency: Homelab RAG: Obsidian RAG Assistant Detailed historical roadmap: Roadmap — Voice Assistant Goal Create an always on, hands free “Hey Hermes” voice assistant using the existing Raspberry Pi 4, local wake word, speech to text, text to speech, and a Hermes gateway integration. Current State Planned and intentionally deferred until the Homelab and core RAG stack are stable. Next Steps [ ] Confirm Homelab/RAG dependencies are stable. [ ] Test the Raspberry Pi microphone and speaker setup. [ ] Evaluate Home Assistant Assist, OpenVoiceOS, and Rhasspy against the historical roadmap. History The detailed phased roadmap is retained as a historical project material source in Operations; this note is the canonical project owner. Related Notes Homelab Obsidian RAG Assistant Roadmap — Voice Assistant",
+      "summary": "Deferred local-first voice interface to Hermes using Raspberry Pi audio hardware and Home Assistant.",
+      "html": "<h1>Voice Assistant</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> | Dependency: <a href=\"/notes/projects/projects/homelab/\">Homelab</a> | RAG: <a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a> | Detailed roadmap: Roadmap — Voice Assistant</p>\n<h2 id=\"goal\">Goal<a class=\"heading-anchor\" href=\"#goal\">#</a></h2>\n<p>Create an always-on, hands-free “Hey Hermes” voice assistant using a Raspberry Pi 4, local wake word, speech-to-text, text-to-speech, and a Hermes gateway integration.</p>\n<h2 id=\"current-state\">Current State<a class=\"heading-anchor\" href=\"#current-state\">#</a></h2>\n<p><strong>Intentionally deferred.</strong> The Mac mini has no microphone hardware, so Hermes voice mode and wake-word behavior cannot be exercised on the current host. Hermes v0.20.0's improved voice features are documented, but no always-on voice or webhook configuration has been enabled.</p>\n<p>The intended implementation target remains a Raspberry Pi 4 with a USB microphone and speaker, paired with Home Assistant Assist. The Homelab and RAG dependencies should stabilize first.</p>\n<h2 id=\"next-trigger\">Next Trigger<a class=\"heading-anchor\" href=\"#next-trigger\">#</a></h2>\n<p>Resume this project when all of the following are true:</p>\n<ul>\n<li> A Raspberry Pi microphone and speaker are available and tested.</li>\n<li> Homelab/RAG dependencies are stable enough for a voice front end.</li>\n<li> The desired voice path is selected: Home Assistant Assist, OpenVoiceOS, or Rhasspy.</li>\n</ul>\n<h2 id=\"history\">History<a class=\"heading-anchor\" href=\"#history\">#</a></h2>\n<p>The detailed phased roadmap is retained as project material in Operations. No work was discarded; the status was clarified after the Hermes v0.20.0 upgrade.</p>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li>Hermes Roadmap</li>\n<li>Roadmap — Voice Assistant</li>\n</ul>\n",
+      "text": "Voice Assistant Home: Home Dependency: Homelab RAG: Obsidian RAG Assistant Detailed roadmap: Roadmap — Voice Assistant Goal Create an always on, hands free “Hey Hermes” voice assistant using a Raspberry Pi 4, local wake word, speech to text, text to speech, and a Hermes gateway integration. Current State Intentionally deferred. The Mac mini has no microphone hardware, so Hermes voice mode and wake word behavior cannot be exercised on the current host. Hermes v0.20.0's improved voice features are documented, but no always on voice or webhook configuration has been enabled. The intended implementation target remains a Raspberry Pi 4 with a USB microphone and speaker, paired with Home Assistant Assist. The Homelab and RAG dependencies should stabilize first. Next Trigger Resume this project when all of the following are true: [ ] A Raspberry Pi microphone and speaker are available and tested. [ ] Homelab/RAG dependencies are stable enough for a voice front end. [ ] The desired voice path is selected: Home Assistant Assist, OpenVoiceOS, or Rhasspy. History The detailed phased roadmap is retained as project material in Operations. No work was discarded; the status was clarified after the Hermes v0.20.0 upgrade. Related Notes Homelab Obsidian RAG Assistant Hermes Roadmap Roadmap — Voice Assistant",
       "section": "projects",
       "topic": "Projects",
       "status": "planned",
       "created": "2026-06-22",
-      "updated": "2026-07-29",
+      "updated": "2026-08-04",
       "tags": [
         "project",
         "voice",
         "raspberry-pi",
-        "home-assistant"
+        "home-assistant",
+        "deferred"
       ],
       "aliases": [
         "Hey Hermes"
@@ -13358,8 +13359,8 @@
         },
         {
           "depth": 2,
-          "text": "Next Steps",
-          "id": "next-steps"
+          "text": "Next Trigger",
+          "id": "next-trigger"
         },
         {
           "depth": 2,
@@ -14383,7 +14384,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-04T05:01:13.213Z",
+    "generatedAt": "2026-08-04T08:07:29.128Z",
     "sourceCount": 1145,
     "publishedCount": 225,
     "skippedCount": 918,
@@ -14444,6 +14445,10 @@
       {
         "source": "02 Projects/Planned/Voice Assistant.md",
         "target": "90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant"
+      },
+      {
+        "source": "02 Projects/Planned/Voice Assistant.md",
+        "target": "90 Operations/Hermes/Project Materials/Roadmap — Hermes"
       },
       {
         "source": "03 Areas/Audio/Audio Area.md",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T05:01:13.213Z",
+  "generatedAt": "2026-08-04T08:07:29.128Z",
   "sourceCount": 1145,
   "publishedCount": 225,
   "skippedCount": 918,
@@ -60,6 +60,10 @@
     {
       "source": "02 Projects/Planned/Voice Assistant.md",
       "target": "90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant"
+    },
+    {
+      "source": "02 Projects/Planned/Voice Assistant.md",
+      "target": "90 Operations/Hermes/Project Materials/Roadmap — Hermes"
     },
     {
       "source": "03 Areas/Audio/Audio Area.md",
