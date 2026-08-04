@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T09:04:28.908Z",
+  "generatedAt": "2026-08-04T12:24:58.357Z",
   "sourceCount": 1145,
   "publishedCount": 225,
   "skippedCount": 918,
@@ -156,10 +156,6 @@
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Apple Mac mini (M4, 2024).md",
       "target": "Omarchy"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Beelink SER8.md",
-      "target": "Hermes Config & Setup"
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Lenovo ThinkStation P520.md",
