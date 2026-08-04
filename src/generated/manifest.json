@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T19:02:54.112Z",
+  "generatedAt": "2026-08-04T21:17:15.815Z",
   "documents": [
     {
       "id": "1cc8b25ffbd7",
@@ -5818,6 +5818,7 @@
         "systems/technology/desktop-pc-core-i7-9700k-gpu-unconfirmed",
         "systems/technology/desktop-pc-core-i9-12900k-geforce-rtx-4080",
         "systems/technology/lenovo-thinkstation-p520",
+        "systems/technology/minisforum-v3",
         "systems/technology/nvidia-geforce-rtx-2060-6-gb",
         "systems/technology/nvidia-geforce-rtx-3060-12-gb",
         "systems/technology/raspberry-pi-4-model-b",
@@ -6467,6 +6468,7 @@
         "systems/technology/lenovo-thinkpad-x1-carbon-gen-9",
         "systems/technology/lenovo-thinkpad-x220-tablet",
         "systems/technology/lenovo-thinkpad-yoga-260",
+        "systems/technology/minisforum-v3",
         "systems/technology/panasonic-lets-note-sv1",
         "systems/technology/razer-blade-stealth-13",
         "systems/technology/codex-notes"
@@ -7397,6 +7399,7 @@
         "systems/technology/lenovo-thinkpad-x220-tablet",
         "systems/technology/lenovo-thinkpad-yoga-260",
         "systems/technology/lenovo-thinkstation-p520",
+        "systems/technology/minisforum-v3",
         "systems/technology/nvidia-geforce-rtx-2060-6-gb",
         "systems/technology/nvidia-geforce-rtx-3060-12-gb",
         "systems/technology/panasonic-lets-note-sv1",
@@ -8625,6 +8628,52 @@
           "depth": 2,
           "text": "Provenance",
           "id": "provenance"
+        }
+      ]
+    },
+    {
+      "id": "78718800d15d",
+      "slug": "systems/technology/minisforum-v3",
+      "title": "Minisforum V3",
+      "summary": "3-in-1 Windows tablet (tablet, laptop with keyboard, portable monitor). Ryzen 7 8840U / 32 GB / 1 TB.",
+      "html": "<h1>Minisforum V3</h1>\n<p>Home: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> | Category: <a href=\"/notes/systems/technology/laptops/\">Laptops</a> | Inventory: <a href=\"/notes/systems/technology/inventory/\">Inventory</a> | Valuation: <a href=\"/notes/systems/technology/prices/\">Valuation</a></p>\n<h2 id=\"role\">Role<a class=\"heading-anchor\" href=\"#role\">#</a></h2>\n<p>3-in-1 Windows tablet used as a portable monitor when needed. Runs Windows and serves as a secondary display for on-the-go work.</p>\n<h2 id=\"essentials\">Essentials<a class=\"heading-anchor\" href=\"#essentials\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Component</th>\n<th>Details</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Processor</td>\n<td>AMD Ryzen 7 8840U (8C/16T, up to 5.1 GHz, Hawk Point)</td>\n</tr>\n<tr>\n<td>Graphics</td>\n<td>AMD Radeon 780M (integrated)</td>\n</tr>\n<tr>\n<td>NPU</td>\n<td>Up to 38 TOPS (Ryzen AI)</td>\n</tr>\n<tr>\n<td>Memory</td>\n<td>32 GB LPDDR5 6400 MT/s</td>\n</tr>\n<tr>\n<td>Storage</td>\n<td>1 TB NVMe SSD</td>\n</tr>\n<tr>\n<td>Display</td>\n<td>14\" IPS, 2560×1600 (2.5K), 165 Hz, touchscreen</td>\n</tr>\n<tr>\n<td>Battery</td>\n<td>50.82 Wh (~8 hours advertised)</td>\n</tr>\n<tr>\n<td>Form factor</td>\n<td>3-in-1: tablet, laptop (with keyboard cover), portable monitor</td>\n</tr>\n<tr>\n<td>Ports</td>\n<td>USB-C (supports DisplayPort Alt Mode for monitor input), USB-A</td>\n</tr>\n<tr>\n<td>Weight</td>\n<td>~1.9 lbs</td>\n</tr>\n<tr>\n<td>Operating system</td>\n<td>Windows</td>\n</tr>\n<tr>\n<td>Accessories included</td>\n<td>Keyboard cover, kickstand</td>\n</tr>\n<tr>\n<td>Purchase price</td>\n<td>$550</td>\n</tr>\n<tr>\n<td>Date acquired</td>\n<td>August 2026</td>\n</tr>\n</tbody></table>\n<h2 id=\"practical-fit\">Practical Fit<a class=\"heading-anchor\" href=\"#practical-fit\">#</a></h2>\n<ul>\n<li><strong>Strengths:</strong> High-resolution 14\" touchscreen with 165 Hz refresh rate; doubles as a portable monitor via USB-C DP Alt Mode input; solid Ryzen 7 performance for a tablet.</li>\n<li><strong>Limitations:</strong> Windows tablet ergonomics; keyboard cover and kickstand quality not premium; battery life varies under load.</li>\n<li><strong>Good use in this loadout:</strong> Secondary portable display when traveling or troubleshooting; lightweight Windows endpoint; tablet for media consumption.</li>\n</ul>\n",
+      "text": "Minisforum V3 Home: Loadout Category: Laptops Inventory: Inventory Valuation: Valuation Role 3 in 1 Windows tablet used as a portable monitor when needed. Runs Windows and serves as a secondary display for on the go work. Essentials Component Details Processor AMD Ryzen 7 8840U (8C/16T, up to 5.1 GHz, Hawk Point) Graphics AMD Radeon 780M (integrated) NPU Up to 38 TOPS (Ryzen AI) Memory 32 GB LPDDR5 6400 MT/s Storage 1 TB NVMe SSD Display 14\" IPS, 2560×1600 (2.5K), 165 Hz, touchscreen Battery 50.82 Wh ( 8 hours advertised) Form factor 3 in 1: tablet, laptop (with keyboard cover), portable monitor Ports USB C (supports DisplayPort Alt Mode for monitor input), USB A Weight 1.9 lbs Operating system Windows Accessories included Keyboard cover, kickstand Purchase price $550 Date acquired August 2026 Practical Fit Strengths: High resolution 14\" touchscreen with 165 Hz refresh rate; doubles as a portable monitor via USB C DP Alt Mode input; solid Ryzen 7 performance for a tablet. Limitations: Windows tablet ergonomics; keyboard cover and kickstand quality not premium; battery life varies under load. Good use in this loadout: Secondary portable display when traveling or troubleshooting; lightweight Windows endpoint; tablet for media consumption.",
+      "section": "systems",
+      "topic": "Technology",
+      "status": "active",
+      "created": "2026-08-04",
+      "updated": "2026-08-04",
+      "tags": [
+        "technology",
+        "loadout",
+        "laptop",
+        "tablet"
+      ],
+      "aliases": [],
+      "sourcePath": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
+      "readingMinutes": 1,
+      "links": [
+        "systems/technology/loadout-hub",
+        "systems/technology/laptops",
+        "systems/technology/inventory",
+        "systems/technology/prices"
+      ],
+      "backlinks": [],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "Role",
+          "id": "role"
+        },
+        {
+          "depth": 2,
+          "text": "Essentials",
+          "id": "essentials"
+        },
+        {
+          "depth": 2,
+          "text": "Practical Fit",
+          "id": "practical-fit"
         }
       ]
     },
@@ -10825,6 +10874,7 @@
         "systems/technology/desktop-pc-core-i7-9700k-gpu-unconfirmed",
         "systems/technology/desktop-pc-core-i9-12900k-geforce-rtx-4080",
         "systems/technology/lenovo-thinkstation-p520",
+        "systems/technology/minisforum-v3",
         "systems/technology/nvidia-geforce-rtx-2060-6-gb",
         "systems/technology/nvidia-geforce-rtx-3060-12-gb",
         "systems/technology/raspberry-pi-4-model-b",
@@ -14342,6 +14392,7 @@
         "7014b0e4d552",
         "ae3424008100",
         "951e1b339465",
+        "78718800d15d",
         "3a09414fca5f",
         "9483795016f7",
         "2733f48a0b64",
@@ -14404,9 +14455,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-04T19:02:54.112Z",
-    "sourceCount": 1145,
-    "publishedCount": 225,
+    "generatedAt": "2026-08-04T21:17:15.815Z",
+    "sourceCount": 1146,
+    "publishedCount": 226,
     "skippedCount": 918,
     "duplicateCount": 2,
     "brokenLinks": [
