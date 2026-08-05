@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:59:46.381Z",
+  "generatedAt": "2026-08-05T17:03:02.220Z",
   "sourceCount": 1215,
   "publishedCount": 212,
   "skippedCount": 1002,
@@ -8,6 +8,10 @@
     {
       "source": "02 Projects/Electronics Workbench.md",
       "target": "90 Operations/Hermes/Session Summaries/2026-08-04"
+    },
+    {
+      "source": "02 Projects/Homelab.md",
+      "target": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook"
     },
     {
       "source": "02 Projects/Obsidian RAG Assistant.md",
@@ -208,6 +212,14 @@
     {
       "source": "Home.md",
       "target": "99 System/Schemas/Fileclass/README"
+    },
+    {
+      "source": "Home.md",
+      "target": "99 System/Vault Growth Guide"
+    },
+    {
+      "source": "Home.md",
+      "target": "99 System/Question Workflow"
     },
     {
       "source": "Home.md",
