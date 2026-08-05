@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:30:58.388Z",
+  "generatedAt": "2026-08-05T14:35:05.140Z",
   "sourceCount": 1850,
   "publishedCount": 212,
   "skippedCount": 1637,
@@ -10,20 +10,8 @@
       "target": "90 Operations/Hermes/Session Summaries/2026-08-04"
     },
     {
-      "source": "02 Projects/Homelab.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — Homelab"
-    },
-    {
-      "source": "02 Projects/NES Emulator.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — NES Emulator"
-    },
-    {
       "source": "02 Projects/Obsidian RAG Assistant.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — RAG Assistant"
-    },
-    {
-      "source": "02 Projects/Obsidian RAG Assistant.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — Hermes"
+      "target": "90 Operations/Hermes/Hermes Operations Queue"
     },
     {
       "source": "02 Projects/Obsidian RAG Assistant.md",
@@ -31,19 +19,15 @@
     },
     {
       "source": "02 Projects/Personal Website.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — Personal Website"
-    },
-    {
-      "source": "02 Projects/Personal Website.md",
       "target": "02 Projects/Project Portfolio"
     },
     {
       "source": "02 Projects/Planned/Voice Assistant.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant"
+      "target": "90 Operations/Hermes/Hermes Operations Queue"
     },
     {
       "source": "02 Projects/Planned/Voice Assistant.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — Hermes"
+      "target": "90 Operations/Hermes/00 Index"
     },
     {
       "source": "02 Projects/Someday Projects.md",
@@ -54,16 +38,32 @@
       "target": "90 Operations/Hermes/Hermes Operations Queue"
     },
     {
+      "source": "02 Projects/Someday Projects.md",
+      "target": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — NixOS"
+    },
+    {
+      "source": "02 Projects/Someday Projects.md",
+      "target": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Linux From Scratch"
+    },
+    {
+      "source": "02 Projects/Someday Projects.md",
+      "target": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Riced Linux"
+    },
+    {
+      "source": "02 Projects/Someday Projects.md",
+      "target": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Neocities"
+    },
+    {
+      "source": "02 Projects/Someday Projects.md",
+      "target": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/NixOS — Panasonic Let's Note SV1"
+    },
+    {
       "source": "03 Areas/Audio/Audio Area.md",
       "target": "99 System/Preferences and Taste"
     },
     {
       "source": "03 Areas/Creative Work/Creative Work.md",
       "target": "99 System/Ayush Profile"
-    },
-    {
-      "source": "03 Areas/Creative Work/Creative Work.md",
-      "target": "90 Operations/Hermes/Project Materials/Roadmap — Personal Website"
     },
     {
       "source": "03 Areas/Education/Career & Interview Prep.md",
@@ -4884,6 +4884,58 @@
       "reason": "internal 05 Archive material"
     },
     {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/NixOS — Panasonic Let's Note SV1.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Creative Work.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Hermes.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Homelab.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Linux From Scratch.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — NES Emulator.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Neocities.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — NixOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Personal Website.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — RAG Assistant.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Riced Linux.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — School.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
       "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Tracker.md",
       "reason": "internal 05 Archive material"
     },
@@ -6477,58 +6529,6 @@
     },
     {
       "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Log.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/NixOS — Panasonic Let's Note SV1.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Creative Work.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Hermes.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Homelab.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Linux From Scratch.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — NES Emulator.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Neocities.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — NixOS.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Personal Website.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — RAG Assistant.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Riced Linux.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — School.md",
-      "reason": "internal 90 Operations material"
-    },
-    {
-      "source": "90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant.md",
       "reason": "internal 90 Operations material"
     },
     {
