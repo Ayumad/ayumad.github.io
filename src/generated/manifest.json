@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:25:40.677Z",
+  "generatedAt": "2026-08-05T17:30:12.279Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18608,10 +18608,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T17:25:40.677Z",
-    "sourceCount": 1215,
+    "generatedAt": "2026-08-05T17:30:12.279Z",
+    "sourceCount": 1216,
     "publishedCount": 212,
-    "skippedCount": 1002,
+    "skippedCount": 1003,
     "duplicateCount": 1,
     "brokenLinks": [
       {
@@ -22674,6 +22674,10 @@
       },
       {
         "source": "99 System/Dashboards/Vault Dashboard.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Dashboards/Vault Dashboard99 System/Dashboards/Vault Dashboard.md",
         "reason": "internal 99 System material"
       },
       {
