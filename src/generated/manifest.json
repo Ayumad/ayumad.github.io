@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T15:44:47.467Z",
+  "generatedAt": "2026-08-05T16:20:52.388Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18487,10 +18487,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T15:44:47.467Z",
-    "sourceCount": 1202,
+    "generatedAt": "2026-08-05T16:20:52.388Z",
+    "sourceCount": 1210,
     "publishedCount": 212,
-    "skippedCount": 989,
+    "skippedCount": 997,
     "duplicateCount": 1,
     "brokenLinks": [
       {
@@ -22520,6 +22520,10 @@
         "reason": "internal 99 System material"
       },
       {
+        "source": "99 System/Plugin Workflow Guide.md",
+        "reason": "internal 99 System material"
+      },
+      {
         "source": "99 System/Preferences and Taste.md",
         "reason": "internal 99 System material"
       },
@@ -22613,6 +22617,34 @@
       },
       {
         "source": "99 System/Templates/Template - Troubleshooting.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Templates/Templater/Area.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Templates/Templater/Product.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Templates/Templater/Project.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Templates/Templater/README.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Templates/Templater/Reflection.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Templates/Templater/Resource.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Templates/Templater/Weekly Review.md",
         "reason": "internal 99 System material"
       },
       {
