@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:44:42.532Z",
+  "generatedAt": "2026-08-05T16:51:46.526Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -523,8 +523,8 @@
       "slug": "systems/technology/accessories",
       "title": "Accessories",
       "summary": "Canonical Accessories browse hub backed by the Product Catalog Base.",
-      "html": "<h1>Accessories</h1>\n<p>Product notes remain canonical.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Accessories Product notes remain canonical. !Product Catalog.base",
+      "html": "<h1>Accessories</h1>\n<p>Product notes remain canonical.</p>\n<p>Product Catalog.base</p>\n",
+      "text": "Accessories Product notes remain canonical. Product Catalog.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -3514,8 +3514,8 @@
       "slug": "systems/technology/cameras-and-lenses",
       "title": "Cameras and Lenses",
       "summary": "Canonical Cameras and Lenses browse hub backed by the Product Catalog Base.",
-      "html": "<h1>Cameras and Lenses</h1>\n<p>Product notes remain canonical.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Cameras and Lenses Product notes remain canonical. !Product Catalog.base",
+      "html": "<h1>Cameras and Lenses</h1>\n<p>Product notes remain canonical.</p>\n<p>Product Catalog.base</p>\n",
+      "text": "Cameras and Lenses Product notes remain canonical. Product Catalog.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -4086,8 +4086,8 @@
       "slug": "systems/technology/computers",
       "title": "Computers",
       "summary": "Canonical Computers browse hub backed by the Product Catalog Base.",
-      "html": "<h1>Computers</h1>\n<p>Product notes remain canonical.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Computers Product notes remain canonical. !Product Catalog.base",
+      "html": "<h1>Computers</h1>\n<p>Product notes remain canonical.</p>\n<p>Product Catalog.base</p>\n",
+      "text": "Computers Product notes remain canonical. Product Catalog.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -4935,8 +4935,8 @@
       "slug": "systems/technology/displays-and-home-theater",
       "title": "Displays and Home Theater",
       "summary": "Canonical Displays and Home Theater browse hub backed by the Product Catalog Base.",
-      "html": "<h1>Displays and Home Theater</h1>\n<p>Product notes remain canonical.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Displays and Home Theater Product notes remain canonical. !Product Catalog.base",
+      "html": "<h1>Displays and Home Theater</h1>\n<p>Product notes remain canonical.</p>\n<p>Product Catalog.base</p>\n",
+      "text": "Displays and Home Theater Product notes remain canonical. Product Catalog.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -6235,8 +6235,8 @@
       "slug": "systems/technology/gaming",
       "title": "Gaming",
       "summary": "Canonical Gaming browse hub backed by the Product Catalog Base.",
-      "html": "<h1>Gaming</h1>\n<p>Product notes remain canonical.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Gaming Product notes remain canonical. !Product Catalog.base",
+      "html": "<h1>Gaming</h1>\n<p>Product notes remain canonical.</p>\n<p>Product Catalog.base</p>\n",
+      "text": "Gaming Product notes remain canonical. Product Catalog.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -8841,8 +8841,8 @@
       "slug": "systems/technology/loadout-inventory",
       "title": "Loadout Inventory",
       "summary": "Derived view of products included in inventory; product notes remain the only owner",
-      "html": "<h1>Loadout Inventory</h1>\n<p>This is a derived browse layer. Update <code>inventory_included</code>, <code>bundle_parent</code>, and lifecycle fields on the canonical product note; do not maintain duplicate rows here.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Loadout Inventory This is a derived browse layer. Update inventory included , bundle parent , and lifecycle fields on the canonical product note; do not maintain duplicate rows here. !Product Catalog.base",
+      "html": "<h1>Loadout Inventory</h1>\n<p>This is a derived browse layer. Update <code>inventory_included</code>, <code>bundle_parent</code>, and lifecycle fields on the canonical product note; do not maintain duplicate rows here.</p>\n<p>Product Inventory.base</p>\n",
+      "text": "Loadout Inventory This is a derived browse layer. Update inventory included , bundle parent , and lifecycle fields on the canonical product note; do not maintain duplicate rows here. Product Inventory.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -8900,8 +8900,8 @@
       "slug": "systems/technology/loadout-sales-and-lifecycle",
       "title": "Loadout Sales & Lifecycle",
       "summary": "Derived review view for ownership and product lifecycle",
-      "html": "<h1>Loadout Sales &amp; Lifecycle</h1>\n<p>Lifecycle is controlled by <code>ownership</code>, <code>disposition</code>, and <code>availability</code> on product notes. Sold, returned, bundled, and uncertain records remain preserved.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Loadout Sales & Lifecycle Lifecycle is controlled by ownership , disposition , and availability on product notes. Sold, returned, bundled, and uncertain records remain preserved. !Product Catalog.base",
+      "html": "<h1>Loadout Sales &amp; Lifecycle</h1>\n<p>Lifecycle is controlled by <code>ownership</code>, <code>disposition</code>, and <code>availability</code> on product notes. Sold, returned, bundled, and uncertain records remain preserved.</p>\n<p>Product Sales.base</p>\n",
+      "text": "Loadout Sales & Lifecycle Lifecycle is controlled by ownership , disposition , and availability on product notes. Sold, returned, bundled, and uncertain records remain preserved. Product Sales.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -8933,8 +8933,8 @@
       "slug": "systems/technology/loadout-valuation",
       "title": "Loadout Valuation",
       "summary": "Derived review view of product valuation fields",
-      "html": "<h1>Loadout Valuation</h1>\n<p>Valuation remains on individual product notes. Preserve existing ranges and dates unless an explicit valuation refresh is requested.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Loadout Valuation Valuation remains on individual product notes. Preserve existing ranges and dates unless an explicit valuation refresh is requested. !Product Catalog.base",
+      "html": "<h1>Loadout Valuation</h1>\n<p>Valuation remains on individual product notes. Preserve existing ranges and dates unless an explicit valuation refresh is requested.</p>\n<p>Product Valuation.base</p>\n",
+      "text": "Loadout Valuation Valuation remains on individual product notes. Preserve existing ranges and dates unless an explicit valuation refresh is requested. Product Valuation.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -11181,8 +11181,8 @@
       "slug": "systems/technology/mobile-devices",
       "title": "Mobile Devices",
       "summary": "Canonical Mobile Devices browse hub backed by the Product Catalog Base.",
-      "html": "<h1>Mobile Devices</h1>\n<p>Product notes remain canonical.</p>\n<p>!Product Catalog.base</p>\n",
-      "text": "Mobile Devices Product notes remain canonical. !Product Catalog.base",
+      "html": "<h1>Mobile Devices</h1>\n<p>Product notes remain canonical.</p>\n<p>Product Catalog.base</p>\n",
+      "text": "Mobile Devices Product notes remain canonical. Product Catalog.base",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -18492,7 +18492,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T16:44:42.532Z",
+    "generatedAt": "2026-08-05T16:51:46.526Z",
     "sourceCount": 1215,
     "publishedCount": 212,
     "skippedCount": 1002,
@@ -18575,6 +18575,26 @@
         "target": "99 System/Ayush Profile"
       },
       {
+        "source": "03 Areas/Technology/Loadout/Accessories.md",
+        "target": "03 Areas/Technology/Loadout/Product Catalog.base#Accessories"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Cameras and Lenses.md",
+        "target": "03 Areas/Technology/Loadout/Product Catalog.base#Cameras and Lenses"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Computers.md",
+        "target": "03 Areas/Technology/Loadout/Product Catalog.base#Computers"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Displays and Home Theater.md",
+        "target": "03 Areas/Technology/Loadout/Product Catalog.base#Displays and Home Theater"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Gaming.md",
+        "target": "03 Areas/Technology/Loadout/Product Catalog.base#Gaming"
+      },
+      {
         "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
         "target": "03 Areas/Technology/Loadout/Audio"
       },
@@ -18589,6 +18609,26 @@
       {
         "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
         "target": "99 System/Metadata Schema"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
+        "target": "03 Areas/Technology/Loadout/Product Catalog.base"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Loadout Inventory.md",
+        "target": "03 Areas/Technology/Loadout/Product Inventory.base#Current Inventory"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Loadout Sales & Lifecycle.md",
+        "target": "03 Areas/Technology/Loadout/Product Sales.base#Planned and Possible Sales"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Loadout Valuation.md",
+        "target": "03 Areas/Technology/Loadout/Product Valuation.base#Product Valuation"
+      },
+      {
+        "source": "03 Areas/Technology/Loadout/Mobile Devices.md",
+        "target": "03 Areas/Technology/Loadout/Product Catalog.base#Mobile Devices"
       },
       {
         "source": "03 Areas/Technology/Loadout/Product Notes TODO.md",

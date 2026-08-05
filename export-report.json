@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:44:42.532Z",
+  "generatedAt": "2026-08-05T16:51:46.526Z",
   "sourceCount": 1215,
   "publishedCount": 212,
   "skippedCount": 1002,
@@ -82,6 +82,26 @@
       "target": "99 System/Ayush Profile"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Accessories.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base#Accessories"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Cameras and Lenses.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base#Cameras and Lenses"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Computers.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base#Computers"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Displays and Home Theater.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base#Displays and Home Theater"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Gaming.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base#Gaming"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
       "target": "03 Areas/Technology/Loadout/Audio"
     },
@@ -96,6 +116,26 @@
     {
       "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
       "target": "99 System/Metadata Schema"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Loadout Inventory.md",
+      "target": "03 Areas/Technology/Loadout/Product Inventory.base#Current Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Loadout Sales & Lifecycle.md",
+      "target": "03 Areas/Technology/Loadout/Product Sales.base#Planned and Possible Sales"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Loadout Valuation.md",
+      "target": "03 Areas/Technology/Loadout/Product Valuation.base#Product Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Mobile Devices.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base#Mobile Devices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Product Notes TODO.md",
