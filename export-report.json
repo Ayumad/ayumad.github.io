@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T16:21:52.635Z",
-  "sourceCount": 1214,
+  "generatedAt": "2026-08-05T16:22:43.775Z",
+  "sourceCount": 1215,
   "publishedCount": 212,
-  "skippedCount": 1001,
+  "skippedCount": 1002,
   "duplicateCount": 1,
   "brokenLinks": [
     {
@@ -4173,6 +4173,10 @@
     },
     {
       "source": "99 System/Templates/Templater/Weekly Review.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Tools/QuickAdd/README.md",
       "reason": "internal 99 System material"
     },
     {
