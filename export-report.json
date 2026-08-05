@@ -1,9 +1,9 @@
 {
   "generatedAt": "2026-08-05T13:20:04.776Z",
-  "sourceCount": 1350,
-  "publishedCount": 221,
-  "skippedCount": 1024,
-  "duplicateCount": 105,
+  "sourceCount": 1233,
+  "publishedCount": 195,
+  "skippedCount": 1036,
+  "duplicateCount": 2,
   "brokenLinks": [
     {
       "source": "02 Projects/Audio and AI 30-Day Journey.md",
@@ -150,8 +150,28 @@
       "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
+      "target": "Manfrotto Carbon Fiber Travel Tripod"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
+      "target": "Kodak PixPro FZ55"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Computers & Servers.md",
       "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Computers & Servers.md",
+      "target": "Apple Mac mini (M4, 2024)"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Computers & Servers.md",
+      "target": "Minisforum X1 Lite"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Computers & Servers.md",
+      "target": "ASUS ROG Flow Z13 (2025)"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Computers & Servers.md",
@@ -168,6 +188,10 @@
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
       "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
+      "target": "Nintendo DS Lite (Modded)"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
@@ -194,8 +218,20 @@
       "target": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Displays & Home Theater.md",
+      "target": "Minisforum V3"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Displays & Home Theater.md",
+      "target": "CRT TV for Retro Gaming"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Gaming & VR.md",
       "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Gaming & VR.md",
+      "target": "ASUS ROG Flow Z13 (2025)"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Handheld Gaming PCs.md",
@@ -238,6 +274,14 @@
       "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Laptops.md",
+      "target": "ASUS ROG Flow Z13 (2025)"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Laptops.md",
+      "target": "Minisforum V3"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Mobile & Tablets.md",
       "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
@@ -258,6 +302,74 @@
       "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Rainy 75 Pro"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Keychron Q1"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "8BitDo Wireless Keyboard"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Microsoft Wireless Keyboard"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "HHKB Pro 2"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Logitech G915 TKL"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Logitech Combo Touch for iPad Pro (M2)"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "iPad Magic Keyboard (M4)"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Razer Basilisk V3 Pro"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Razer Viper V3 Pro"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Logitech MX Master 3"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Logitech MX Travel 3"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Logitech G Pro X Superlight 2 Dex"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Logitech G Pro Wireless"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Anker Thunderbolt 5 Dock"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "OWC Thunderbolt 4 Dock"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "Xbox Kinect"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Speakers & Receivers.md",
       "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
@@ -274,6 +386,10 @@
       "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Test Equipment.md",
+      "target": "Analog Oscilloscope"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - VR Headsets.md",
       "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
@@ -284,154 +400,6 @@
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - VR Headsets.md",
       "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Cameras & Lenses/Kodak PixPro FZ55.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Cameras & Lenses/Kodak PixPro FZ55.md",
-      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/ASUS ROG Flow Z13 (2025).md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Apple Mac mini (M4, 2024).md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Apple Mac mini (M4, 2024).md",
-      "target": "Omarchy"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
-      "target": "01 Loadout - Inventory"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
-      "target": "02 Loadout - Valuation"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Consoles & Controllers/Nintendo DS Lite (Modded).md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Consoles & Controllers/Nintendo DS Lite (Modded).md",
-      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Displays & Home Theater/CRT TV for Retro Gaming.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Displays & Home Theater/CRT TV for Retro Gaming.md",
-      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
-      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
-      "target": "TouchDesigner"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
-      "target": "Teenage Engineering OP-1"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
-      "target": "Korg Minilogue"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
-      "target": "Motu M2"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/8BitDo Wireless Keyboard.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Anker Thunderbolt 5 Dock.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/HHKB Pro 2.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Keychron Q1.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech Combo Touch for iPad Pro (M2).md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech G Pro Wireless.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech G Pro X Superlight 2 Dex.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech G915 TKL.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech MX Master 3.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech MX Travel 3.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Microsoft Wireless Keyboard.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/OWC Thunderbolt 4 Dock.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Rainy 75 Pro.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Razer Basilisk V3 Pro.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Razer Viper V3 Pro.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/iPad Magic Keyboard (M4).md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Photography/Manfrotto Carbon Fiber Travel Tripod.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Test Equipment/Analog Oscilloscope.md",
-      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Test Equipment/Analog Oscilloscope.md",
-      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
     {
       "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",
@@ -3904,6 +3872,58 @@
       "reason": "internal 05 Archive material"
     },
     {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/04 Resources/Audio/Music.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/04 Resources/Lifestyle/Shopping.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/04 Resources/Photography/DSLR.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/04 Resources/Technology/C++.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/04 Resources/Technology/Windows.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/04 Resources/Technology/iOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/04 Resources/Technology/macOS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/99 System/Templates/Template - Area.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/99 System/Templates/Template - Entity.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/99 System/Templates/Template - Journal Entry.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/99 System/Templates/Template - MOC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/99 System/Templates/Template - Project.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Active Vault Snapshot/99 System/Templates/Template - Resource.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
       "source": "05 Archive/Archive Index.md",
       "reason": "internal 05 Archive material"
     },
@@ -5745,10 +5765,6 @@
     },
     {
       "source": "99 System/Vault Growth Guide.md",
-      "reason": "internal 99 System material"
-    },
-    {
-      "source": "99 System/Vault Validation Report.md",
       "reason": "internal 99 System material"
     },
     {
