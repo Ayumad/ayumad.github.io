@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T17:46:25.319Z",
-  "sourceCount": 1215,
+  "generatedAt": "2026-08-05T18:01:15.512Z",
+  "sourceCount": 1217,
   "publishedCount": 212,
-  "skippedCount": 1002,
+  "skippedCount": 1004,
   "duplicateCount": 1,
   "brokenLinks": [
     {
@@ -203,7 +203,15 @@
     },
     {
       "source": "Home.md",
+      "target": "90 Operations/Hermes/Session Summaries/Session Log"
+    },
+    {
+      "source": "Home.md",
       "target": "99 System/Plugin Workflow Guide"
+    },
+    {
+      "source": "Home.md",
+      "target": "99 System/Session Capture Workflow"
     },
     {
       "source": "Home.md",
@@ -4020,6 +4028,10 @@
       "reason": "internal 90 Operations material"
     },
     {
+      "source": "90 Operations/Hermes/Session Summaries/2026-08-05.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
       "source": "90 Operations/Hermes/Session Summaries/Session Log.md",
       "reason": "internal 90 Operations material"
     },
@@ -4157,6 +4169,10 @@
     },
     {
       "source": "99 System/Schemas/Fileclass/README.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Session Capture Workflow.md",
       "reason": "internal 99 System material"
     },
     {
