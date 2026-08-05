@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T15:19:10.568Z",
+  "generatedAt": "2026-08-05T15:20:44.542Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -3278,6 +3278,7 @@
       ],
       "backlinks": [
         "systems/media-and-culture/currently-playing",
+        "library/media-and-culture/media-board",
         "systems/media-and-culture/movies-and-tv-tracker",
         "about/about/home"
       ],
@@ -4350,6 +4351,7 @@
         "library/learning/books"
       ],
       "backlinks": [
+        "library/media-and-culture/media-board",
         "library/media-and-culture/media",
         "systems/media-and-culture/movies-and-tv-tracker",
         "library/media-and-culture/video-games",
@@ -6801,7 +6803,7 @@
       "slug": "about/about/home",
       "title": "Home",
       "summary": "Stable vault-wide navigation hub and table of contents.",
-      "html": "<h1>Home</h1>\n<p>The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation.</p>\n<h2 id=\"quick-access\">Quick Access<a class=\"heading-anchor\" href=\"#quick-access\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Work</th>\n<th>Capture and review</th>\n<th>Loadout</th>\n<th>Boards</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Vault Dashboard</td>\n<td>Inbox</td>\n<td><a href=\"/notes/systems/technology/loadout-hub/\">Loadout Hub</a></td>\n<td>Media Board</td>\n</tr>\n<tr>\n<td>Project Portfolio</td>\n<td>Latest Review</td>\n<td><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></td>\n<td>Wishlist Board</td>\n</tr>\n<tr>\n<td>Grouped Task Dashboard</td>\n<td><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></td>\n<td><a href=\"/notes/systems/technology/loadout-valuation/\">Prices and Value</a></td>\n<td><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></td>\n</tr>\n<tr>\n<td><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></td>\n<td>Hermes Operations</td>\n<td><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales and Lifecycle</a></td>\n<td><a href=\"/notes/library/learning/books/\">Books and Reading</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"projects\">Projects<a class=\"heading-anchor\" href=\"#projects\">#</a></h2>\n<ul>\n<li>Project Portfolio — active and planned work</li>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li><a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></li>\n<li><a href=\"/notes/projects/projects/electronics-workbench/\">Electronics Workbench</a></li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h2 id=\"areas\">Areas<a class=\"heading-anchor\" href=\"#areas\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Technology</th>\n<th>Audio</th>\n<th>Education and career</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/interests/technology/technology/\">Technology</a> · <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></td>\n<td><a href=\"/notes/interests/audio/audio/\">Audio</a></td>\n<td><a href=\"/notes/interests/education/school/\">School</a> · <a href=\"/notes/interests/education/career-and-interview-prep/\">Career</a></td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Creative work</th>\n<th>Personal development</th>\n<th>Philosophy</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/interests/creative-work/creative-work/\">Creative Work</a></td>\n<td><a href=\"/notes/interests/personal-development/personal-development/\">Personal Development</a></td>\n<td><a href=\"/notes/interests/philosophy/personal-philosophy/\">Personal Philosophy</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"resources-and-library\">Resources and Library<a class=\"heading-anchor\" href=\"#resources-and-library\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Learning</th>\n<th>Media and culture</th>\n<th>Technology</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/library/learning/books/\">Books</a> · <a href=\"/notes/library/learning/math/\">Math</a></td>\n<td><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a> · <a href=\"/notes/library/media-and-culture/video-games/\">Video Games</a></td>\n<td><a href=\"/notes/systems/technology/computer-science/\">Computer Science</a> · <a href=\"/notes/library/technology/software-engineering/\">Software Engineering</a></td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Audio</th>\n<th>Lifestyle</th>\n<th>Philosophy and photography</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a> · <a href=\"/notes/library/audio/music/\">Music</a></td>\n<td><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a> · <a href=\"/notes/library/lifestyle/shopping/\">Shopping</a></td>\n<td><a href=\"/notes/library/philosophy/philosophy-dictionary/\">Philosophy Dictionary</a> · <a href=\"/notes/library/photography/cameras/\">Cameras</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"personal-systems\">Personal Systems<a class=\"heading-anchor\" href=\"#personal-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> — inventory, prices, sales, wishlist, and product research</li>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media</a> — media queue, catalogs, and trackers</li>\n<li><a href=\"/notes/systems/media-and-culture/currently-playing/\">Game Tracker</a></li>\n<li><a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Movies and TV Tracker</a></li>\n<li><a href=\"/notes/library/learning/books/\">Books</a></li>\n<li><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></li>\n</ul>\n<h2 id=\"system-and-history\">System and History<a class=\"heading-anchor\" href=\"#system-and-history\">#</a></h2>\n<ul>\n<li>Vault Health</li>\n<li>Migration Ledger</li>\n<li>Archive Index</li>\n<li>Vault Agent Governance</li>\n<li>Codex Vault Instructions</li>\n</ul>\n",
+      "html": "<h1>Home</h1>\n<p>The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation.</p>\n<h2 id=\"quick-access\">Quick Access<a class=\"heading-anchor\" href=\"#quick-access\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Work</th>\n<th>Capture and review</th>\n<th>Loadout</th>\n<th>Boards</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Vault Dashboard</td>\n<td>Inbox</td>\n<td><a href=\"/notes/systems/technology/loadout-hub/\">Loadout Hub</a></td>\n<td><a href=\"/notes/library/media-and-culture/media-board/\">Media Board</a></td>\n</tr>\n<tr>\n<td>Project Portfolio</td>\n<td>Latest Review</td>\n<td><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></td>\n<td><a href=\"/notes/library/lifestyle/wishlist-board/\">Wishlist Board</a></td>\n</tr>\n<tr>\n<td>Grouped Task Dashboard</td>\n<td><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></td>\n<td><a href=\"/notes/systems/technology/loadout-valuation/\">Prices and Value</a></td>\n<td><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></td>\n</tr>\n<tr>\n<td><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></td>\n<td>Hermes Operations</td>\n<td><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales and Lifecycle</a></td>\n<td><a href=\"/notes/library/learning/books/\">Books and Reading</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"projects\">Projects<a class=\"heading-anchor\" href=\"#projects\">#</a></h2>\n<ul>\n<li>Project Portfolio — active and planned work</li>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li><a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></li>\n<li><a href=\"/notes/projects/projects/electronics-workbench/\">Electronics Workbench</a></li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h2 id=\"areas\">Areas<a class=\"heading-anchor\" href=\"#areas\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Technology</th>\n<th>Audio</th>\n<th>Education and career</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/interests/technology/technology/\">Technology</a> · <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></td>\n<td><a href=\"/notes/interests/audio/audio/\">Audio</a></td>\n<td><a href=\"/notes/interests/education/school/\">School</a> · <a href=\"/notes/interests/education/career-and-interview-prep/\">Career</a></td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Creative work</th>\n<th>Personal development</th>\n<th>Philosophy</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/interests/creative-work/creative-work/\">Creative Work</a></td>\n<td><a href=\"/notes/interests/personal-development/personal-development/\">Personal Development</a></td>\n<td><a href=\"/notes/interests/philosophy/personal-philosophy/\">Personal Philosophy</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"resources-and-library\">Resources and Library<a class=\"heading-anchor\" href=\"#resources-and-library\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Learning</th>\n<th>Media and culture</th>\n<th>Technology</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/library/learning/books/\">Books</a> · <a href=\"/notes/library/learning/math/\">Math</a></td>\n<td><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a> · <a href=\"/notes/library/media-and-culture/video-games/\">Video Games</a></td>\n<td><a href=\"/notes/systems/technology/computer-science/\">Computer Science</a> · <a href=\"/notes/library/technology/software-engineering/\">Software Engineering</a></td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Audio</th>\n<th>Lifestyle</th>\n<th>Philosophy and photography</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a> · <a href=\"/notes/library/audio/music/\">Music</a></td>\n<td><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a> · <a href=\"/notes/library/lifestyle/shopping/\">Shopping</a></td>\n<td><a href=\"/notes/library/philosophy/philosophy-dictionary/\">Philosophy Dictionary</a> · <a href=\"/notes/library/photography/cameras/\">Cameras</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"personal-systems\">Personal Systems<a class=\"heading-anchor\" href=\"#personal-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> — inventory, prices, sales, wishlist, and product research</li>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media</a> — media queue, catalogs, and trackers</li>\n<li><a href=\"/notes/systems/media-and-culture/currently-playing/\">Game Tracker</a></li>\n<li><a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Movies and TV Tracker</a></li>\n<li><a href=\"/notes/library/learning/books/\">Books</a></li>\n<li><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></li>\n</ul>\n<h2 id=\"system-and-history\">System and History<a class=\"heading-anchor\" href=\"#system-and-history\">#</a></h2>\n<ul>\n<li>Vault Health</li>\n<li>Migration Ledger</li>\n<li>Archive Index</li>\n<li>Vault Agent Governance</li>\n<li>Codex Vault Instructions</li>\n</ul>\n",
       "text": "Home The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation. Quick Access Work Capture and review Loadout Boards Vault Dashboard Inbox Loadout Hub Media Board Project Portfolio Latest Review Inventory Wishlist Board Grouped Task Dashboard Product Information Gaps Prices and Value Media Hub Someday Projects Hermes Operations Sales and Lifecycle Books and Reading Projects Project Portfolio — active and planned work Homelab Obsidian RAG Assistant Personal Website Electronics Workbench Someday Projects Areas Technology Audio Education and career Technology · Loadout Audio School · Career Creative work Personal development Philosophy Creative Work Personal Development Personal Philosophy Resources and Library Learning Media and culture Technology Books · Math Media Hub · Video Games Computer Science · Software Engineering Audio Lifestyle Philosophy and photography Audio Concepts · Music Lifestyle Wishlist · Shopping Philosophy Dictionary · Cameras Personal Systems Loadout — inventory, prices, sales, wishlist, and product research Media — media queue, catalogs, and trackers Game Tracker Movies and TV Tracker Books Lifestyle Wishlist System and History Vault Health Migration Ledger Archive Index Vault Agent Governance Codex Vault Instructions",
       "section": "about",
       "topic": "About",
@@ -6823,7 +6825,9 @@
       "readingMinutes": 1,
       "links": [
         "systems/technology/loadout-hub",
+        "library/media-and-culture/media-board",
         "systems/technology/loadout-inventory",
+        "library/lifestyle/wishlist-board",
         "systems/technology/product-notes-todo",
         "systems/technology/loadout-valuation",
         "library/media-and-culture/media",
@@ -6871,6 +6875,8 @@
         "interests/creative-work/creative-work",
         "library/learning/books",
         "library/lifestyle/subscriptions",
+        "library/lifestyle/wishlist-board",
+        "library/media-and-culture/media-board",
         "systems/media-and-culture/movies-and-tv-tracker",
         "library/media-and-culture/myanimelist-ayumadbro"
       ],
@@ -8389,6 +8395,7 @@
       ],
       "backlinks": [
         "systems/technology/todo",
+        "library/lifestyle/wishlist-board",
         "about/about/home"
       ],
       "headings": [
@@ -8715,6 +8722,7 @@
         "interests/technology/technology",
         "library/audio/audio-concepts",
         "library/lifestyle/lifestyle-wishlist",
+        "library/lifestyle/wishlist-board",
         "about/about/home"
       ],
       "headings": [
@@ -8935,7 +8943,8 @@
         "projects/projects/electronics-workbench",
         "interests/personal-development/personal-development",
         "systems/technology/loadout-hub",
-        "systems/technology/product-notes-todo"
+        "systems/technology/product-notes-todo",
+        "library/lifestyle/wishlist-board"
       ],
       "headings": [
         {
@@ -10118,6 +10127,7 @@
         "interests/technology/technology",
         "library/learning/books",
         "systems/media-and-culture/currently-playing",
+        "library/media-and-culture/media-board",
         "systems/media-and-culture/movies-and-tv-tracker",
         "library/media-and-culture/myanimelist-ayumadbro",
         "library/media-and-culture/video-games",
@@ -10134,6 +10144,99 @@
           "depth": 2,
           "text": "Lookup Catalogs",
           "id": "lookup-catalogs"
+        }
+      ]
+    },
+    {
+      "id": "ad8d65aa5c95",
+      "slug": "library/media-and-culture/media-board",
+      "title": "Media Board",
+      "summary": "Canonical lifecycle board for current reading, games, ROM hacks, movies, and television.",
+      "html": "<h1>Media Board</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> · Hub: <a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></p>\n<p>The board owns only queue stage. Canonical tracker notes own descriptions, catalogs, reviews, dates, and history. Move a card when your intended next media choice changes; record durable impressions in the linked tracker.</p>\n<h2 id=\"-needs-review\">🟣 Needs Review<a class=\"heading-anchor\" href=\"#-needs-review\">#</a></h2>\n<ul>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">Pokémon Violet</a> — legacy “playing” status; confirm current progress. ^task-media-pokemon-violet</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">Ghostrunner</a> — legacy “playing” status; confirm current progress. ^task-media-ghostrunner</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">Firewatch</a> — legacy “playing” status; confirm current progress. ^task-media-firewatch</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">Control</a> — legacy “playing” status; confirm current progress. ^task-media-control</li>\n</ul>\n<h2 id=\"-now\">▶ Now<a class=\"heading-anchor\" href=\"#-now\">#</a></h2>\n<p><em>Only confirmed current media belongs here.</em></p>\n<h2 id=\"-next\">⏭ Next<a class=\"heading-anchor\" href=\"#-next\">#</a></h2>\n<ul>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">LIMBO</a> ^task-media-limbo</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">INSIDE</a> ^task-media-inside</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">Factorio</a> ^task-media-factorio</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">Deltarune</a> ^task-media-deltarune</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">BioShock</a> ^task-media-bioshock</li>\n<li> 🎮 <a href=\"/notes/systems/media-and-culture/currently-playing/\">Titanfall 2</a> ^task-media-titanfall-2</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">The Stranger</a> ^task-media-book-stranger</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">Flowers for Algernon</a> ^task-media-book-flowers</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">Song of Achilles</a> ^task-media-book-achilles</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">No Longer Human</a> ^task-media-book-no-longer-human</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">Meditations</a> ^task-media-book-meditations</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">Piranesi</a> ^task-media-book-piranesi</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">Project Hail Mary</a> ^task-media-book-project-hail-mary</li>\n<li> 📖 <a href=\"/notes/library/learning/books/\">Doom and Bloom</a> ^task-media-book-doom-and-bloom</li>\n<li> 🎬 <a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Chainsaw Man Reze</a> ^task-media-chainsaw-man-reze</li>\n<li> 🎬 <a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">A Whisker Away</a> ^task-media-a-whisker-away</li>\n<li> 🎬 <a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Eva Rebirths</a> ^task-media-eva-rebirths</li>\n<li> 🧩 <a href=\"/notes/library/media-and-culture/pokemon-rom-hacks/\">Pokémon Lazarus</a> ^task-media-rom-lazarus</li>\n<li> 🧩 <a href=\"/notes/library/media-and-culture/pokemon-rom-hacks/\">Pokémon Recordkeepers</a> ^task-media-rom-recordkeepers</li>\n<li> 🧩 <a href=\"/notes/library/media-and-culture/pokemon-rom-hacks/\">Pokémon Amethyst</a> ^task-media-rom-amethyst</li>\n</ul>\n<h2 id=\"-later\">🗂 Later<a class=\"heading-anchor\" href=\"#-later\">#</a></h2>\n<p><em>Move deliberate backlog candidates here from the detailed catalogs; do not copy entire catalogs onto this board.</em></p>\n<h2 id=\"-on-hold\">⏸ On Hold<a class=\"heading-anchor\" href=\"#-on-hold\">#</a></h2>\n<p><em>Use this lane only when returning to the item remains intentional.</em></p>\n<h2 id=\"-finished\">✅ Finished<a class=\"heading-anchor\" href=\"#-finished\">#</a></h2>\n<p><em>After recording a durable review or completion note, archive the card to keep the active board focused.</em></p>\n<h2 id=\"-dropped\">❌ Dropped<a class=\"heading-anchor\" href=\"#-dropped\">#</a></h2>\n<p><em>Use this lane for deliberate “not for me” decisions, then archive the card if no history is needed.</em></p>\n",
+      "text": "Media Board Home: Home · Hub: Media Hub The board owns only queue stage. Canonical tracker notes own descriptions, catalogs, reviews, dates, and history. Move a card when your intended next media choice changes; record durable impressions in the linked tracker. 🟣 Needs Review [ ] 🎮 Pokémon Violet — legacy “playing” status; confirm current progress. ^task media pokemon violet [ ] 🎮 Ghostrunner — legacy “playing” status; confirm current progress. ^task media ghostrunner [ ] 🎮 Firewatch — legacy “playing” status; confirm current progress. ^task media firewatch [ ] 🎮 Control — legacy “playing” status; confirm current progress. ^task media control ▶ Now Only confirmed current media belongs here. ⏭ Next [ ] 🎮 LIMBO ^task media limbo [ ] 🎮 INSIDE ^task media inside [ ] 🎮 Factorio ^task media factorio [ ] 🎮 Deltarune ^task media deltarune [ ] 🎮 BioShock ^task media bioshock [ ] 🎮 Titanfall 2 ^task media titanfall 2 [ ] 📖 The Stranger ^task media book stranger [ ] 📖 Flowers for Algernon ^task media book flowers [ ] 📖 Song of Achilles ^task media book achilles [ ] 📖 No Longer Human ^task media book no longer human [ ] 📖 Meditations ^task media book meditations [ ] 📖 Piranesi ^task media book piranesi [ ] 📖 Project Hail Mary ^task media book project hail mary [ ] 📖 Doom and Bloom ^task media book doom and bloom [ ] 🎬 Chainsaw Man Reze ^task media chainsaw man reze [ ] 🎬 A Whisker Away ^task media a whisker away [ ] 🎬 Eva Rebirths ^task media eva rebirths [ ] 🧩 Pokémon Lazarus ^task media rom lazarus [ ] 🧩 Pokémon Recordkeepers ^task media rom recordkeepers [ ] 🧩 Pokémon Amethyst ^task media rom amethyst 🗂 Later Move deliberate backlog candidates here from the detailed catalogs; do not copy entire catalogs onto this board. ⏸ On Hold Use this lane only when returning to the item remains intentional. ✅ Finished After recording a durable review or completion note, archive the card to keep the active board focused. ❌ Dropped Use this lane for deliberate “not for me” decisions, then archive the card if no history is needed.",
+      "section": "library",
+      "topic": "Media and Culture",
+      "status": "active",
+      "created": "2026-08-05",
+      "updated": "2026-08-05",
+      "tags": [
+        "media",
+        "culture",
+        "kanban",
+        "tracker"
+      ],
+      "aliases": [
+        "Media Kanban",
+        "Media Board"
+      ],
+      "sourcePath": "04 Resources/Media and Culture/Media Board.md",
+      "readingMinutes": 2,
+      "links": [
+        "about/about/home",
+        "library/media-and-culture/media",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "systems/media-and-culture/currently-playing",
+        "library/learning/books",
+        "library/learning/books",
+        "library/learning/books",
+        "library/learning/books",
+        "library/learning/books",
+        "library/learning/books",
+        "library/learning/books",
+        "library/learning/books",
+        "systems/media-and-culture/movies-and-tv-tracker",
+        "systems/media-and-culture/movies-and-tv-tracker",
+        "systems/media-and-culture/movies-and-tv-tracker",
+        "library/media-and-culture/pokemon-rom-hacks",
+        "library/media-and-culture/pokemon-rom-hacks",
+        "library/media-and-culture/pokemon-rom-hacks"
+      ],
+      "backlinks": [
+        "about/about/home"
+      ],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "🟣 Needs Review",
+          "id": "-needs-review"
+        },
+        {
+          "depth": 2,
+          "text": "▶ Now",
+          "id": "-now"
+        },
+        {
+          "depth": 2,
+          "text": "⏭ Next",
+          "id": "-next"
+        },
+        {
+          "depth": 2,
+          "text": "🗂 Later",
+          "id": "-later"
+        },
+        {
+          "depth": 2,
+          "text": "⏸ On Hold",
+          "id": "-on-hold"
+        },
+        {
+          "depth": 2,
+          "text": "✅ Finished",
+          "id": "-finished"
+        },
+        {
+          "depth": 2,
+          "text": "❌ Dropped",
+          "id": "-dropped"
         }
       ]
     },
@@ -11229,6 +11332,7 @@
       "backlinks": [
         "library/learning/books",
         "systems/media-and-culture/currently-playing",
+        "library/media-and-culture/media-board",
         "library/media-and-culture/media",
         "about/about/home"
       ],
@@ -13599,6 +13703,7 @@
       ],
       "backlinks": [
         "systems/media-and-culture/currently-playing",
+        "library/media-and-culture/media-board",
         "library/media-and-culture/media",
         "library/media-and-culture/pokemon",
         "library/media-and-culture/video-games",
@@ -17660,6 +17765,77 @@
       ]
     },
     {
+      "id": "815554fd23f8",
+      "slug": "library/lifestyle/wishlist-board",
+      "title": "Wishlist Board",
+      "summary": "Canonical acquisition-stage board for current technology, workbench, audio, gaming, and lifestyle candidates.",
+      "html": "<h1>Wishlist Board</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> · Loadout: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout Hub</a> · Details: <a href=\"/notes/systems/technology/loadout-wishlist/\">Loadout Wishlist</a> and <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></p>\n<p>The board owns acquisition stage. Detailed wishlist notes own prices, specifications, rationale, comparisons, sources, and provenance. When an item is purchased, confirm or create its canonical product note before moving the card to Purchased.</p>\n<h2 id=\"-considering\">⚪ Considering<a class=\"heading-anchor\" href=\"#-considering\">#</a></h2>\n<ul>\n<li> 🔬 <a href=\"/notes/systems/technology/loadout-wishlist/\">Analog Oscilloscope</a> ^task-wishlist-board-analog-oscilloscope</li>\n<li> 📺 <a href=\"/notes/systems/technology/loadout-wishlist/\">CRT TV for Retro Gaming</a> ^task-wishlist-board-crt-tv</li>\n<li> 📷 <a href=\"/notes/systems/technology/loadout-wishlist/\">Kodak PixPro FZ55</a> ^task-wishlist-board-kodak-fz55</li>\n<li> 🎮 <a href=\"/notes/systems/technology/loadout-wishlist/\">Nintendo DS Lite (Modded)</a> ^task-wishlist-board-ds-lite</li>\n<li> 🎧 <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Hifiman Arya Organic</a> ^task-wishlist-board-arya</li>\n<li> 🎵 <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Hisense Touch</a> ^task-wishlist-board-hisense-touch</li>\n<li> 🎮 <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Ayn Thor</a> ^task-wishlist-board-ayn-thor</li>\n<li> 🧰 <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Benchmade Knife</a> ^task-wishlist-board-benchmade</li>\n<li> 🧰 <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Leatherman Arc</a> ^task-wishlist-board-leatherman</li>\n</ul>\n<h2 id=\"-researching\">🔎 Researching<a class=\"heading-anchor\" href=\"#-researching\">#</a></h2>\n<p><em>Move a candidate here when comparison or missing facts are the next real action.</em></p>\n<h2 id=\"-ready-to-buy\">🟡 Ready to Buy<a class=\"heading-anchor\" href=\"#-ready-to-buy\">#</a></h2>\n<ul>\n<li> 🎹 <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Teenage Engineering OP-1</a> ^task-wishlist-board-op-1</li>\n<li> 🎹 <a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Korg Minilogue</a> ^task-wishlist-board-korg-minilogue</li>\n</ul>\n<h2 id=\"-purchased\">✅ Purchased<a class=\"heading-anchor\" href=\"#-purchased\">#</a></h2>\n<p><em>After purchase confirmation, update the canonical product note and move the card here before archiving it.</em></p>\n<h2 id=\"-passed\">❌ Passed<a class=\"heading-anchor\" href=\"#-passed\">#</a></h2>\n<p><em>Keep only deliberate “not pursuing” decisions; archive the card when no active review is needed.</em></p>\n",
+      "text": "Wishlist Board Home: Home · Loadout: Loadout Hub · Details: Loadout Wishlist and Lifestyle Wishlist The board owns acquisition stage. Detailed wishlist notes own prices, specifications, rationale, comparisons, sources, and provenance. When an item is purchased, confirm or create its canonical product note before moving the card to Purchased. ⚪ Considering [ ] 🔬 Analog Oscilloscope ^task wishlist board analog oscilloscope [ ] 📺 CRT TV for Retro Gaming ^task wishlist board crt tv [ ] 📷 Kodak PixPro FZ55 ^task wishlist board kodak fz55 [ ] 🎮 Nintendo DS Lite (Modded) ^task wishlist board ds lite [ ] 🎧 Hifiman Arya Organic ^task wishlist board arya [ ] 🎵 Hisense Touch ^task wishlist board hisense touch [ ] 🎮 Ayn Thor ^task wishlist board ayn thor [ ] 🧰 Benchmade Knife ^task wishlist board benchmade [ ] 🧰 Leatherman Arc ^task wishlist board leatherman 🔎 Researching Move a candidate here when comparison or missing facts are the next real action. 🟡 Ready to Buy [ ] 🎹 Teenage Engineering OP 1 ^task wishlist board op 1 [ ] 🎹 Korg Minilogue ^task wishlist board korg minilogue ✅ Purchased After purchase confirmation, update the canonical product note and move the card here before archiving it. ❌ Passed Keep only deliberate “not pursuing” decisions; archive the card when no active review is needed.",
+      "section": "library",
+      "topic": "Lifestyle",
+      "status": "active",
+      "created": "2026-08-05",
+      "updated": "2026-08-05",
+      "tags": [
+        "wishlist",
+        "purchases",
+        "kanban"
+      ],
+      "aliases": [
+        "Wishlist Kanban",
+        "Wishlist Board"
+      ],
+      "sourcePath": "04 Resources/Lifestyle/Wishlist Board.md",
+      "readingMinutes": 2,
+      "links": [
+        "about/about/home",
+        "systems/technology/loadout-hub",
+        "systems/technology/loadout-wishlist",
+        "library/lifestyle/lifestyle-wishlist",
+        "systems/technology/loadout-wishlist",
+        "systems/technology/loadout-wishlist",
+        "systems/technology/loadout-wishlist",
+        "systems/technology/loadout-wishlist",
+        "library/lifestyle/lifestyle-wishlist",
+        "library/lifestyle/lifestyle-wishlist",
+        "library/lifestyle/lifestyle-wishlist",
+        "library/lifestyle/lifestyle-wishlist",
+        "library/lifestyle/lifestyle-wishlist",
+        "library/lifestyle/lifestyle-wishlist",
+        "library/lifestyle/lifestyle-wishlist"
+      ],
+      "backlinks": [
+        "about/about/home"
+      ],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "⚪ Considering",
+          "id": "-considering"
+        },
+        {
+          "depth": 2,
+          "text": "🔎 Researching",
+          "id": "-researching"
+        },
+        {
+          "depth": 2,
+          "text": "🟡 Ready to Buy",
+          "id": "-ready-to-buy"
+        },
+        {
+          "depth": 2,
+          "text": "✅ Purchased",
+          "id": "-purchased"
+        },
+        {
+          "depth": 2,
+          "text": "❌ Passed",
+          "id": "-passed"
+        }
+      ]
+    },
+    {
       "id": "4414eda1b029",
       "slug": "systems/technology/xbox-kinect",
       "title": "Xbox Kinect",
@@ -18041,7 +18217,8 @@
         "3fd5e0971a87",
         "98d669e8301a",
         "f66db9bde560",
-        "cb9d3f7a439d"
+        "cb9d3f7a439d",
+        "815554fd23f8"
       ]
     },
     {
@@ -18051,6 +18228,7 @@
       "documentIds": [
         "a8b386945e04",
         "d9e1ab27cc59",
+        "ad8d65aa5c95",
         "101231d9875b",
         "98b9e9b668ce",
         "86039bf8ef97",
@@ -18273,9 +18451,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T15:19:10.568Z",
-    "sourceCount": 1202,
-    "publishedCount": 212,
+    "generatedAt": "2026-08-05T15:20:44.542Z",
+    "sourceCount": 1204,
+    "publishedCount": 214,
     "skippedCount": 989,
     "duplicateCount": 1,
     "brokenLinks": [
@@ -18421,19 +18599,11 @@
       },
       {
         "source": "Home.md",
-        "target": "04 Resources/Media and Culture/Media Board"
-      },
-      {
-        "source": "Home.md",
         "target": "02 Projects/Project Portfolio.base"
       },
       {
         "source": "Home.md",
         "target": "07 Reflections/Weekly/2026-08-05 Vault Refactor Baseline"
-      },
-      {
-        "source": "Home.md",
-        "target": "04 Resources/Lifestyle/Wishlist Board"
       },
       {
         "source": "Home.md",

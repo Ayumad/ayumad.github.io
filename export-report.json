@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T15:19:10.568Z",
-  "sourceCount": 1202,
-  "publishedCount": 212,
+  "generatedAt": "2026-08-05T15:20:44.542Z",
+  "sourceCount": 1204,
+  "publishedCount": 214,
   "skippedCount": 989,
   "duplicateCount": 1,
   "brokenLinks": [
@@ -147,19 +147,11 @@
     },
     {
       "source": "Home.md",
-      "target": "04 Resources/Media and Culture/Media Board"
-    },
-    {
-      "source": "Home.md",
       "target": "02 Projects/Project Portfolio.base"
     },
     {
       "source": "Home.md",
       "target": "07 Reflections/Weekly/2026-08-05 Vault Refactor Baseline"
-    },
-    {
-      "source": "Home.md",
-      "target": "04 Resources/Lifestyle/Wishlist Board"
     },
     {
       "source": "Home.md",
