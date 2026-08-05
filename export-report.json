@@ -1,14 +1,10 @@
 {
-  "generatedAt": "2026-08-05T06:47:43.089Z",
-  "sourceCount": 1148,
-  "publishedCount": 227,
-  "skippedCount": 919,
-  "duplicateCount": 2,
+  "generatedAt": "2026-08-05T13:20:04.776Z",
+  "sourceCount": 1366,
+  "publishedCount": 230,
+  "skippedCount": 1026,
+  "duplicateCount": 110,
   "brokenLinks": [
-    {
-      "source": "02 Projects/Active/Homelab/Legacy Loadout Plan.md",
-      "target": "0 - Table of Contents"
-    },
     {
       "source": "02 Projects/Active/Homelab/Legacy Loadout Plan.md",
       "target": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook"
@@ -118,6 +114,22 @@
       "target": "Philosophy MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
+      "target": "Product Inventory.base"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
+      "target": "99 System/Product Research Enrichment Report"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
       "target": "Technology MOC"
     },
@@ -127,43 +139,147 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
+      "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
+      "target": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
       "target": "Loadout - Agent Instructions"
     },
     {
-      "source": "03 Areas/Technology/Loadout/02 Loadout - Valuation.md",
-      "target": "Microsoft Wireless Keyboard (Designer Compact)"
+      "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
     {
-      "source": "03 Areas/Technology/Loadout/02 Loadout - Valuation.md",
-      "target": "Logitech MX Anywhere 3"
+      "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
     },
     {
-      "source": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions.md",
-      "target": "05 Archive/Legacy Vault 2026-06-22/Loadout/codex_notes.md"
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
     {
-      "source": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions.md",
-      "target": "03 Areas/Technology/Loadout/90 Loadout Operations/Agent Instructions"
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
     },
     {
-      "source": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions.md",
-      "target": "Personal Obsidian RAG Assistant Plan"
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
+      "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
       "target": "Gaming Inventory"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Displays & Home Theater.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Displays & Home Theater.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Displays & Home Theater.md",
+      "target": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Handheld Gaming PCs.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Handheld Gaming PCs.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Handheld Gaming PCs.md",
+      "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Laptops.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Laptops.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Laptops.md",
+      "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Mobile & Tablets.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Mobile & Tablets.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Mobile & Tablets.md",
+      "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Test Equipment.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Test Equipment.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - VR Headsets.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - VR Headsets.md",
+      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Cameras & Lenses/Kodak PixPro FZ55.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Apple Mac mini (M4, 2024).md",
       "target": "Omarchy"
     },
     {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Lenovo ThinkStation P520.md",
-      "target": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook"
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
+      "target": "01 Loadout - Inventory"
     },
     {
-      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/NVIDIA GeForce RTX 3060 12 GB.md",
-      "target": "Personal Obsidian RAG Assistant Plan"
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
+      "target": "02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Consoles & Controllers/Nintendo DS Lite (Modded).md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Displays & Home Theater/CRT TV for Retro Gaming.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
@@ -182,16 +298,296 @@
       "target": "Motu M2"
     },
     {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Test Equipment/Analog Oscilloscope.md",
+      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",
       "target": "99 System/Migration/Rearchitecture Ledger.csv"
     },
     {
-      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Legacy Continuity.md",
-      "target": "03 Areas/Technology/Loadout/90 Loadout Operations/Agent Instructions"
+      "source": "03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
+      "target": "99 System/Product Note Standard"
     },
     {
-      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Legacy Continuity.md",
+      "source": "03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
+      "target": "99 System/Templates/Template - Product"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
+      "target": "99 System/Codex Vault Instructions"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
+      "target": "AGENTS"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
+      "target": "99 System/Product Research Enrichment Report"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Inventory.md",
+      "target": "Product Inventory.base"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Planned Sales.md",
+      "target": "Product Sales.base"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Prices.md",
+      "target": "Product Valuation.base"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Product Notes TODO.md",
+      "target": "99 System/Product Note Standard"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Product Notes TODO.md",
+      "target": "99 System/Product Research Enrichment Report"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/8BitDo SN30 Pro.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/8BitDo Ultimate 2C.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/ASUS ROG Ally.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple AirPods Max (1st Generation).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple AirPods Pro 3.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple MacBook Air (M2).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPhone 13 mini.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPhone Air.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPhone SE (1st Generation).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPhone X.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Audeze LCD-X.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Beats Powerbeats Pro 2.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Beelink SER8.md",
+      "target": "Hermes Config & Setup"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/CHUWI MiniBook X.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Creekwood.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/FiiO K13 R2R.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Focal Azurys.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Focal Clear (Original).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fosi Audio GR70.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fosi Audio ZA3.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Framework Laptop 13.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fujifilm X100VI.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fujifilm X20.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Pixel 5.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/HIFIMAN Edition XS.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/KEF Q150.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad T431s.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Logitech G CLOUD Gaming Handheld.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Logitech Z625.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/MOONDROP x Crinacle DUSK.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Meze Audio 99 Classics (1st Gen).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox Wireless Controller (Series X-S).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 3060 12 GB.md",
       "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo New 3DS XL (Modded).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch (Modded).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch 2 Pro Controller.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch 2.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch Lite (Modded).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch OLED Model (Modded).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch Pro Controller.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Panasonic Lumix DMC-ZS50.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/SVS SB-1000 Pro.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sennheiser HD 4.50BTNC.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sennheiser HD 490 PRO.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sennheiser HD 660S2.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sennheiser MOMENTUM 4 Wireless.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sony WF-1000XM4.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/TRUTHEAR x Crinacle ZERO RED.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Valve Steam Deck OLED.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/WiiM Ultra.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Yamaha RX-V677.md",
+      "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/TODO.md",
+      "target": "AGENTS"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/TODO.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/codex_notes.md",
+      "target": "AGENTS"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/codex_notes.md",
+      "target": "Personal Obsidian RAG Assistant Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/codex_notes.md",
+      "target": "99 System/Product Note Standard"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/codex_notes.md",
+      "target": "99 System/Codex Vault Instructions"
     },
     {
       "source": "03 Areas/Technology/Technology.md",
@@ -280,10 +676,6 @@
     {
       "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
       "target": "00 Index"
-    },
-    {
-      "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
-      "target": "0 - Table of Contents"
     },
     {
       "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
@@ -3808,6 +4200,418 @@
       "reason": "internal 05 Archive material"
     },
     {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/512 GB NVMe SSD (P520 Boot Drive).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/8BitDo SN30 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/8BitDo Ultimate 2C.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/AMD Radeon RX 6600 8 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/ASUS ROG Ally.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/ASUS ROG Flow Z13 (2023).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/ASUS ROG Zephyrus G14.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Acer PM161Q Jbmiuux Portable Monitor.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple AirPods Max (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple AirPods Pro 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple MacBook Air (M2).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple MacBook Pro (M4 Pro).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple TV 4K (3rd Generation, 64 GB).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPad Pro 11-inch (M4, Cellular).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPad mini (6th Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPhone 13 mini.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPhone 17.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPhone Air.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPhone SE (1st Generation).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Apple iPhone X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Audeze LCD-X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Beats Powerbeats Pro 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Beelink SER8.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/BenQ ZOWIE XL2411P.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/CHUWI MiniBook X.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Creekwood.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/FiiO K13 R2R.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Focal Azurys.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Focal Clear (Original).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Fosi Audio GR70.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Fosi Audio ZA3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Framework Laptop 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Fujifilm X-T4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Fujifilm X100VI.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Fujifilm X20.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Google Nest Wifi (AC2200).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Google Pixel 4 XL.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Google Pixel 5.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/HIFIMAN Edition XS.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/KEF Q150.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Kiwi Ears x B_Media Chorus.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Kiwi Ears x B_Media Terras Cable.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Lenovo ThinkPad T431s.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Lenovo ThinkPad T480.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Lenovo ThinkPad X1 Carbon Gen 6.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Lenovo ThinkPad X1 Carbon Gen 9.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Lenovo ThinkPad X220 Tablet.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Lenovo ThinkPad Yoga 260.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Lenovo ThinkStation P520.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Logitech G ASTRO A50 (Gen 5).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Logitech G CLOUD Gaming Handheld.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Logitech Z625.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/MOONDROP x Crinacle DUSK.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Meta Quest 3.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Meze Audio 99 Classics (1st Gen).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Microsoft Xbox One.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Microsoft Xbox Wireless Controller (Series X-S).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/NVIDIA GeForce RTX 2060 6 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/NVIDIA GeForce RTX 3060 12 GB.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo New 3DS (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo New 3DS XL (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo Switch (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo Switch 2 Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo Switch 2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo Switch Lite (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo Switch OLED Model (Modded).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Nintendo Switch Pro Controller.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Panasonic Let's Note SV1.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Panasonic Lumix DMC-ZS50.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Raspberry Pi 4 Model B.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Razer Blade Stealth 13.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Razer Edge.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Retroid Pocket Nova.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/SVS SB-1000 Pro.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Samsung Odyssey G4 (25-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Samsung Odyssey G7 (32-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Samsung Odyssey OLED G8 (G80SD).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Sennheiser HD 4.50BTNC.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Sennheiser HD 490 PRO.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Sennheiser HD 660S2.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Sennheiser MOMENTUM 4 Wireless.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Sony BRAVIA X850G (75-inch).md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Sony WF-1000XM4.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/TRUTHEAR x Crinacle ZERO RED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Valve Steam Deck OLED.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/WiiM Ultra.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Product Notes Pre-Normalization 2026-08-05/Yamaha RX-V677.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
       "source": "05 Archive/README.md",
       "reason": "internal 05 Archive material"
     },
@@ -4104,6 +4908,18 @@
       "reason": "internal 99 System material"
     },
     {
+      "source": "99 System/Product Note Migration Report.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Product Note Standard.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Product Research Enrichment Report.md",
+      "reason": "internal 99 System material"
+    },
+    {
       "source": "99 System/Question Bank.md",
       "reason": "internal 99 System material"
     },
@@ -4161,6 +4977,10 @@
     },
     {
       "source": "99 System/Templates/Template - MOC.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Templates/Template - Product.md",
       "reason": "internal 99 System material"
     },
     {
