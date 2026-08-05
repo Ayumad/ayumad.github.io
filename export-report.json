@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-05T15:20:44.542Z",
-  "sourceCount": 1204,
-  "publishedCount": 214,
+  "generatedAt": "2026-08-05T15:22:12.246Z",
+  "sourceCount": 1202,
+  "publishedCount": 212,
   "skippedCount": 989,
   "duplicateCount": 1,
   "brokenLinks": [
@@ -124,10 +124,6 @@
     {
       "source": "04 Resources/Lifestyle/Computer Accessories.md",
       "target": "03 Areas/Technology/Loadout/Audio"
-    },
-    {
-      "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
-      "target": "90 Operations/Hermes/00 Index"
     },
     {
       "source": "04 Resources/Technology/Computer Science.md",
