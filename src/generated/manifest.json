@@ -18225,9 +18225,9 @@
   ],
   "diagnostics": {
     "generatedAt": "2026-08-05T14:36:14.509Z",
-    "sourceCount": 1613,
+    "sourceCount": 1367,
     "publishedCount": 212,
-    "skippedCount": 1400,
+    "skippedCount": 1154,
     "duplicateCount": 1,
     "brokenLinks": [
       {
@@ -18445,19 +18445,11 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/Audio and AI 30-Day Journey.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/Homelab.md",
         "reason": "internal 05 Archive material"
       },
       {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/NES Emulator.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/02 Projects/Obsidian RAG Assistant.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -18469,307 +18461,7 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Creative Work/Creative Work.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Education/School.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Philosophy/Personal Philosophy.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/0 - Table of Contents.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/8BitDo SN30 Pro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/8BitDo Ultimate 2C.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Ally.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Zephyrus G14.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Accessories.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple AirPods Pro 3.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone 13 mini.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone 17.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone Air.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone X.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audeze LCD-X.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audio Inventory.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audio Sources.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Audio.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Beelink SER8.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/BenQ ZOWIE XL2411P.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/CHUWI MiniBook X.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Cameras and Lenses.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Computers.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Creekwood.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/DACs and Amplifiers.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/FiiO K13 R2R.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Focal Azurys.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fosi Audio GR70.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fosi Audio ZA3.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Framework Laptop 13.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujifilm X-T4.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujifilm X100VI.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujifilm X20.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Gaming Inventory.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Gaming.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Google Pixel 4 XL.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Google Pixel 5.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/HHKB Pro 2.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/HIFIMAN Edition XS.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Handheld Gaming PCs.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Headphones.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/IEMs and Earbuds.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Inventory.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/KEF Q150.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Keychron Q1.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Laptops.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad T431s.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad T480.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Loadout MOC.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G915 TKL.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech MX Master 3.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech MX Travel 3.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech Z625.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Meta Quest 3.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Xbox One.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Mobile Devices.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch 2.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Planned Sales.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Prices.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Rainy 75 Pro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Basilisk V3 Pro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Edge.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Viper V3 Pro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Retroid Pocket Nova.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/SVS SB-1000 Pro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser HD 490 PRO.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser HD 660S2.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sony WF-1000XM4.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/TODO.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/VR Headsets.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Valve Steam Deck OLED.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/WiiM Ultra.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Wishlist.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Yamaha RX-V677.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/codex_notes.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -18777,15 +18469,7 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Audio Concepts.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Earbuds.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Audio/Headphone Concepts.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -18813,18 +18497,6 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Learning/Neural Networks.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Learning/Religions.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Computer Accessories.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Fashion.md",
         "reason": "internal 05 Archive material"
       },
@@ -18833,103 +18505,7 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Lifestyle Wishlist.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Products.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Self Care.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Shopping.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Sports.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Lifestyle/Subscriptions.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Currently Playing.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Media.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/MyAnimeList.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Pokemon ROM Hacks.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Pokemon.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Social Media.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/TV.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Video Games.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/Video.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Media and Culture/YouTube.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Felicific Calculus.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Idealism.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Materialism.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Mechanistic.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Ontology.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Philosophy Dictionary.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Process Ontology.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Philosophy/Substance Ontology.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Photography/Cameras.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -18937,19 +18513,7 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Photography/Digital Camera.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/C++.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Computer Science.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Electronics.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -18957,31 +18521,7 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Machine Learning.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Operating Systems.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Python.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Software Engineering.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Software.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Web Development.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/Windows.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -18990,410 +18530,6 @@
       },
       {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/04 Resources/Technology/macOS.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/AI Suggestions.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Audio.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Bio.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Books.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/C++.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Calculus.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Cameras.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Computers.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/DSLR.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Earbuds.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Electronics.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Fashion.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Headphones.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Homelab.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Idealism.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Interests.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Intro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Jewelry.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Laptops.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Linux.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Lists.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Audio.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Audio.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Books.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/C++.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Calculus.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Cameras.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/DSLR.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Earbuds.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Fashion.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Idealism.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Intro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Jewelry.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Laptops.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Math.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Music.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Ontology.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Products.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/School.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Shopping.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Software.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Sports.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/TV.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Video.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/iOS.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Materialism.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Math.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Mechanistic.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Media.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Music.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/NES emulator.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Ontology.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Philosophy.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Pokemon.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Products.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Projects.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Python.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Religions.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/School.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Self Care.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Shopping.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Social Media.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Software.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Sports.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/TV.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Video Games.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Video.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Wired.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Wireless.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Wishlist.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/iOS.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/AGENTS.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/ASUS ROG Ally.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Accessories.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPhone 17.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPhone Air.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Audeze LCD-X.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Audio Sources.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Audio.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Beelink SER8.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/CHUWI MiniBook X.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Computers.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/FiiO K13 R2R.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fosi Audio GR70.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fujifilm X-T4.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fujifilm X100VI.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fujifilm X20.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Gaming.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Google Pixel 4 XL.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Inventory.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Laptops.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Meta Quest 3.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Mobile Devices.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch 2.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Planned Sales.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Prices.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Razer Edge.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/SVS SB-1000 Pro.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/TODO.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Wishlist.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/codex_notes.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -19421,14 +18557,6 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Agents/Notion Governance.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Agents/Notion UX Guidelines.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Agents/Sync Rules.md",
         "reason": "internal 05 Archive material"
       },
@@ -19437,15 +18565,7 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Codex Vault Instructions.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Current Interests.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Journal Processing Workflow.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -19462,14 +18582,6 @@
       },
       {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Local AI MOC.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Obsidian Second Brain MOC.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/MOCs/Personal Development MOC.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -19493,23 +18605,11 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Maintenance Dashboard.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Metadata Schema.md",
         "reason": "internal 05 Archive material"
       },
       {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Migration Manifest.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Preferences and Taste.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Privacy and Dataset Policy.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -19533,63 +18633,11 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Retrieval Evaluation Set.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Technical Ecosystem.md",
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - AI Draft.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Area.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Daily Note.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Decision.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Entity.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Journal Entry.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - MOC.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Project.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Reflection.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Resource.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Templates/Template - Troubleshooting.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Vault Growth Guide.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/99 System/Vault Validation Report.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -19617,10 +18665,6 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Prep Knowledge Map.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Prep Log.md",
         "reason": "internal 05 Archive material"
       },
@@ -19630,10 +18674,6 @@
       },
       {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Interview Topic Taxonomy.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/NixOS — Panasonic Let's Note SV1.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -19661,10 +18701,6 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Linux From Scratch.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — NES Emulator.md",
         "reason": "internal 05 Archive material"
       },
@@ -19677,10 +18713,6 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Personal Website.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — RAG Assistant.md",
         "reason": "internal 05 Archive material"
       },
@@ -19690,10 +18722,6 @@
       },
       {
         "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — School.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/Hermes/Roadmap — Voice Assistant.md",
         "reason": "internal 05 Archive material"
       },
       {
@@ -23193,10 +22221,6 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/Loadout Merge Backup/Microsoft Xbox Elite Wireless Controller Series 2.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/Loadout Merge Backup/Microsoft Xbox One.md",
         "reason": "internal 05 Archive material"
       },
@@ -23205,19 +22229,11 @@
         "reason": "internal 05 Archive material"
       },
       {
-        "source": "05 Archive/Loadout Merge Backup/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
-        "reason": "internal 05 Archive material"
-      },
-      {
         "source": "05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 2060 6 GB.md",
         "reason": "internal 05 Archive material"
       },
       {
         "source": "05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 3060 12 GB.md",
-        "reason": "internal 05 Archive material"
-      },
-      {
-        "source": "05 Archive/Loadout Merge Backup/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
         "reason": "internal 05 Archive material"
       },
       {
