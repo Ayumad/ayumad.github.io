@@ -1,18 +1,10 @@
 {
   "generatedAt": "2026-08-05T13:20:04.776Z",
-  "sourceCount": 1366,
-  "publishedCount": 230,
-  "skippedCount": 1026,
-  "duplicateCount": 110,
+  "sourceCount": 1350,
+  "publishedCount": 221,
+  "skippedCount": 1024,
+  "duplicateCount": 105,
   "brokenLinks": [
-    {
-      "source": "02 Projects/Active/Homelab/Legacy Loadout Plan.md",
-      "target": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook"
-    },
-    {
-      "source": "02 Projects/Active/Homelab/Legacy Loadout Plan.md",
-      "target": "Personal Obsidian RAG Assistant Plan"
-    },
     {
       "source": "02 Projects/Audio and AI 30-Day Journey.md",
       "target": "05 Archive/Legacy Vault 2026-06-22/AI Suggestions"
@@ -20,6 +12,10 @@
     {
       "source": "02 Projects/Homelab.md",
       "target": "90 Operations/Hermes/Project Materials/Roadmap — Homelab"
+    },
+    {
+      "source": "02 Projects/Homelab.md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
     },
     {
       "source": "02 Projects/Homelab.md",
@@ -47,6 +43,10 @@
     },
     {
       "source": "02 Projects/Personal Website.md",
+      "target": "03 Areas/Technology/Loadout/Inventory"
+    },
+    {
+      "source": "02 Projects/Personal Website.md",
       "target": "90 Operations/Hermes/Project Tracker"
     },
     {
@@ -63,7 +63,15 @@
     },
     {
       "source": "03 Areas/Audio/Audio Area.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Audio/Audio Area.md",
       "target": "Audio MOC"
+    },
+    {
+      "source": "03 Areas/Audio/Loadout Audio History.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Creative Work/Creative Work.md",
@@ -110,60 +118,24 @@
       "target": "Ayush Profile"
     },
     {
+      "source": "03 Areas/Personal Development/Personal Development.md",
+      "target": "Wishlist"
+    },
+    {
       "source": "03 Areas/Philosophy/Personal Philosophy.md",
       "target": "Philosophy MOC"
     },
     {
-      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
-      "target": "Loadout MOC"
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Audio Sources.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
-      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
-      "target": "Product Inventory.base"
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Audio.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
-      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
-      "target": "99 System/Product Research Enrichment Report"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/0 - Table of Contents.md",
-      "target": "Personal Obsidian RAG Assistant Plan"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
-      "target": "Technology MOC"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
-      "target": "Technical Ecosystem"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
-      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
-      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
-      "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
-      "target": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/00 Loadout Hub.md",
-      "target": "Loadout - Agent Instructions"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
-      "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/04 Loadout - Wishlist.md",
-      "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
@@ -176,6 +148,18 @@
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Cameras & Lenses.md",
       "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Computers & Servers.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Computers & Servers.md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Consoles & Controllers.md",
@@ -190,6 +174,14 @@
       "target": "Gaming Inventory"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - DACs & Amplifiers.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Displays & Home Theater.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Displays & Home Theater.md",
       "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
@@ -202,6 +194,14 @@
       "target": "03 Areas/Technology/Loadout/04 Loadout - Inbox & Questions"
     },
     {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Gaming & VR.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Handheld Gaming PCs.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Handheld Gaming PCs.md",
       "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
@@ -212,6 +212,18 @@
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Handheld Gaming PCs.md",
       "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Headphones.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - IEMs & Earbuds.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Laptops.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Laptops.md",
@@ -227,6 +239,10 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Mobile & Tablets.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Mobile & Tablets.md",
       "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
     {
@@ -236,6 +252,18 @@
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Mobile & Tablets.md",
       "target": "03 Areas/Technology/Loadout/03 Loadout - Sales & Lifecycle"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Peripherals & Accessories.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Speakers & Receivers.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Test Equipment.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Test Equipment.md",
@@ -244,6 +272,10 @@
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - Test Equipment.md",
       "target": "03 Areas/Technology/Loadout/02 Loadout - Valuation"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - VR Headsets.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/10 Category Maps/Loadout - VR Headsets.md",
@@ -255,11 +287,27 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Cameras & Lenses/Kodak PixPro FZ55.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Cameras & Lenses/Kodak PixPro FZ55.md",
       "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/ASUS ROG Flow Z13 (2025).md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Apple Mac mini (M4, 2024).md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Apple Mac mini (M4, 2024).md",
       "target": "Omarchy"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Computers & Servers/Minisforum V3.md",
@@ -271,11 +319,23 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Consoles & Controllers/Nintendo DS Lite (Modded).md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Consoles & Controllers/Nintendo DS Lite (Modded).md",
       "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Displays & Home Theater/CRT TV for Retro Gaming.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Displays & Home Theater/CRT TV for Retro Gaming.md",
       "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals/Xbox Kinect.md",
@@ -298,8 +358,84 @@
       "target": "Motu M2"
     },
     {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/8BitDo Wireless Keyboard.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Anker Thunderbolt 5 Dock.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/HHKB Pro 2.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Keychron Q1.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech Combo Touch for iPad Pro (M2).md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech G Pro Wireless.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech G Pro X Superlight 2 Dex.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech G915 TKL.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech MX Master 3.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Logitech MX Travel 3.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Microsoft Wireless Keyboard.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/OWC Thunderbolt 4 Dock.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Rainy 75 Pro.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Razer Basilisk V3 Pro.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/Razer Viper V3 Pro.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Peripherals & Accessories/iPad Magic Keyboard (M4).md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Photography/Manfrotto Carbon Fiber Travel Tripod.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/20 Devices/Test Equipment/Analog Oscilloscope.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/20 Devices/Test Equipment/Analog Oscilloscope.md",
       "target": "03 Areas/Technology/Loadout/01 Loadout - Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",
+      "target": "Loadout Hub"
     },
     {
       "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Continuity.md",
@@ -326,16 +462,8 @@
       "target": "99 System/Product Research Enrichment Report"
     },
     {
-      "source": "03 Areas/Technology/Loadout/Inventory.md",
-      "target": "Product Inventory.base"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/Planned Sales.md",
-      "target": "Product Sales.base"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/Prices.md",
-      "target": "Product Valuation.base"
+      "source": "03 Areas/Technology/Loadout/Product Notes TODO.md",
+      "target": "0 - Table of Contents"
     },
     {
       "source": "03 Areas/Technology/Loadout/Product Notes TODO.md",
@@ -346,16 +474,88 @@
       "target": "99 System/Product Research Enrichment Report"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/5-Port Gigabit Ethernet Switch (Model Unknown).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/512 GB NVMe SSD (P520 Boot Drive).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/512 GB NVMe SSD (P520 Boot Drive).md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/512 GB NVMe SSD (P520 Boot Drive).md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/8BitDo SN30 Pro.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/8BitDo SN30 Pro.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/8BitDo Ultimate 2C.md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/8BitDo Ultimate 2C.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/AMD Radeon RX 6600 8 GB.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/AMD Radeon RX 6600 8 GB.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/AMD Radeon RX 6600 8 GB.md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/ASUS ROG Ally.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/ASUS ROG Ally.md",
+      "target": "Planned Sales"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/ASUS ROG Flow Z13 (2023).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/ASUS ROG Zephyrus G14.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Acer PM161Q Jbmiuux Portable Monitor.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Acer PM161Q Jbmiuux Portable Monitor.md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Acer PM161Q Jbmiuux Portable Monitor.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Apple AirPods Max (1st Generation).md",
@@ -370,12 +570,76 @@
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Apple MacBook Pro (M4 Pro).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple TV 4K (3rd Generation, 64 GB).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple TV 4K (3rd Generation, 64 GB).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple TV 4K (3rd Generation, 64 GB).md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad Pro 11-inch (M4, Cellular).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad Pro 11-inch (M4, Cellular).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad Pro 11-inch (M4, Cellular).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad mini (6th Generation).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad mini (6th Generation).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPad mini (6th Generation).md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Apple iPhone 13 mini.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPhone 17.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPhone 17.md",
+      "target": "Planned Sales"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Apple iPhone 17.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Apple iPhone Air.md",
@@ -399,7 +663,47 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Beelink SER8.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Beelink SER8.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Beelink SER8.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Beelink SER8.md",
       "target": "Hermes Config & Setup"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/BenQ ZOWIE XL2411P.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/BenQ ZOWIE XL2411P.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/BenQ ZOWIE XL2411P.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/BrosTrend 8-Port 2.5G Ethernet Switch.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/CHUWI MiniBook X.md",
@@ -408,6 +712,66 @@
     {
       "source": "03 Areas/Technology/Loadout/Products/Creekwood.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/FiiO K13 R2R.md",
@@ -434,16 +798,68 @@
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Fujifilm X-T4.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fujifilm X-T4.md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Fujifilm X100VI.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fujifilm X100VI.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Fujifilm X20.md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Fujifilm X20.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fujifilm X20.md",
+      "target": "Planned Sales"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Nest Wifi (AC2200).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Nest Wifi (AC2200).md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Nest Wifi (AC2200).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Nest Wifi (AC2200).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Pixel 4 XL.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Pixel 4 XL.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Google Pixel 4 XL.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Google Pixel 5.md",
@@ -458,12 +874,80 @@
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Kiwi Ears x B_Media Chorus.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Kiwi Ears x B_Media Chorus.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Kiwi Ears x B_Media Terras Cable.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Kiwi Ears x B_Media Terras Cable.md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad T431s.md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad T480.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad X1 Carbon Gen 6.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad X1 Carbon Gen 6.md",
+      "target": "Planned Sales"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad X1 Carbon Gen 9.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad X1 Carbon Gen 9.md",
+      "target": "Planned Sales"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad X220 Tablet.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkPad Yoga 260.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkStation P520.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkStation P520.md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkStation P520.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkStation P520.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Logitech G ASTRO A50 (Gen 5).md",
+      "target": "0 - Table of Contents"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Logitech G CLOUD Gaming Handheld.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Logitech G CLOUD Gaming Handheld.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Logitech Z625.md",
@@ -474,52 +958,240 @@
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Meta Quest 3.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Meta Quest 3.md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Meze Audio 99 Classics (1st Gen).md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Meze Audio 99 Classics (1st Gen).md",
+      "target": "Planned Sales"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox Elite Wireless Controller Series 2.md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox Elite Wireless Controller Series 2.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox One.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox One.md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox Wireless Controller (Series X-S).md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Microsoft Xbox Wireless Controller (Series X-S).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 2060 6 GB.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 2060 6 GB.md",
+      "target": "Planned Sales"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 2060 6 GB.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 2060 6 GB.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 3060 12 GB.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 3060 12 GB.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 3060 12 GB.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/NVIDIA GeForce RTX 3060 12 GB.md",
       "target": "Personal Obsidian RAG Assistant Plan"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo New 3DS (Modded).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo New 3DS (Modded).md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Nintendo New 3DS XL (Modded).md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo New 3DS XL (Modded).md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch (Modded).md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch (Modded).md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch 2 Pro Controller.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch 2 Pro Controller.md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch 2.md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch 2.md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch Lite (Modded).md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch Lite (Modded).md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch OLED Model (Modded).md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch OLED Model (Modded).md",
+      "target": "Prices"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch Pro Controller.md",
       "target": "Loadout MOC"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Products/Nintendo Switch Pro Controller.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Panasonic Let's Note SV1.md",
+      "target": "0 - Table of Contents"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Products/Panasonic Lumix DMC-ZS50.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Panasonic Lumix DMC-ZS50.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Raspberry Pi 4 Model B.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Raspberry Pi 4 Model B.md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Raspberry Pi 4 Model B.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Raspberry Pi 4 Model B.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Razer Blade Stealth 13.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Razer Edge.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Razer Edge.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Retroid Pocket Nova.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Retroid Pocket Nova.md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Retroid Pocket Nova.md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/SVS SB-1000 Pro.md",
@@ -528,6 +1200,50 @@
     {
       "source": "03 Areas/Technology/Loadout/Products/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey G4 (25-inch).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey G4 (25-inch).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey G4 (25-inch).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey G7 (32-inch).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey G7 (32-inch).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey G7 (32-inch).md",
+      "target": "Prices"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey OLED G8 (G80SD).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey OLED G8 (G80SD).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Samsung Odyssey OLED G8 (G80SD).md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Sennheiser HD 4.50BTNC.md",
@@ -544,6 +1260,18 @@
     {
       "source": "03 Areas/Technology/Loadout/Products/Sennheiser MOMENTUM 4 Wireless.md",
       "target": "Loadout MOC"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sony BRAVIA X850G (75-inch).md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sony BRAVIA X850G (75-inch).md",
+      "target": "Inventory"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Sony BRAVIA X850G (75-inch).md",
+      "target": "Prices"
     },
     {
       "source": "03 Areas/Technology/Loadout/Products/Sony WF-1000XM4.md",
@@ -567,27 +1295,31 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/TODO.md",
+      "target": "0 - Table of Contents"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/TODO.md",
+      "target": "codex_notes"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/TODO.md",
       "target": "AGENTS"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/TODO.md",
+      "target": "Lenovo ThinkStation P520 Homelab Plan"
     },
     {
       "source": "03 Areas/Technology/Loadout/TODO.md",
       "target": "Personal Obsidian RAG Assistant Plan"
     },
     {
-      "source": "03 Areas/Technology/Loadout/codex_notes.md",
-      "target": "AGENTS"
+      "source": "03 Areas/Technology/Loadout/TODO.md",
+      "target": "Prices"
     },
     {
-      "source": "03 Areas/Technology/Loadout/codex_notes.md",
-      "target": "Personal Obsidian RAG Assistant Plan"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/codex_notes.md",
-      "target": "99 System/Product Note Standard"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/codex_notes.md",
-      "target": "99 System/Codex Vault Instructions"
+      "source": "03 Areas/Technology/Loadout/TODO.md",
+      "target": "Inventory"
     },
     {
       "source": "03 Areas/Technology/Technology.md",
@@ -608,6 +1340,10 @@
     {
       "source": "03 Areas/Technology/Technology.md",
       "target": "Technical Ecosystem"
+    },
+    {
+      "source": "04 Resources/Audio/Audio Concepts.md",
+      "target": "03 Areas/Technology/Loadout/00 Loadout Hub"
     },
     {
       "source": "04 Resources/Audio/Earbuds.md",
@@ -676,6 +1412,14 @@
     {
       "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
       "target": "00 Index"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
+      "target": "Wishlist Kanban"
+    },
+    {
+      "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
+      "target": "0 - Table of Contents"
     },
     {
       "source": "04 Resources/Lifestyle/Lifestyle Wishlist.md",
@@ -807,6 +1551,10 @@
     },
     {
       "source": "Home.md",
+      "target": "Loadout Hub"
+    },
+    {
+      "source": "Home.md",
       "target": "Technology MOC"
     },
     {
@@ -844,6 +1592,10 @@
     {
       "source": "Home.md",
       "target": "Obsidian Second Brain MOC"
+    },
+    {
+      "source": "Home.md",
+      "target": "03 Areas/Technology/Loadout/Wishlist Kanban"
     },
     {
       "source": "Home.md",
@@ -922,14 +1674,6 @@
     {
       "source": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook.md",
       "reason": "credential-like content"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Agent Instructions.md",
-      "reason": "navigation or agent instruction"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/90 Loadout Operations/Legacy Agent Instructions.md",
-      "reason": "navigation or agent instruction"
     },
     {
       "source": "04 Resources/Technology/C++.md",
