@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T14:51:37.150Z",
-  "sourceCount": 1201,
+  "generatedAt": "2026-08-05T15:19:10.568Z",
+  "sourceCount": 1202,
   "publishedCount": 212,
-  "skippedCount": 988,
+  "skippedCount": 989,
   "duplicateCount": 1,
   "brokenLinks": [
     {
@@ -139,11 +139,7 @@
     },
     {
       "source": "Home.md",
-      "target": "02 Projects/Project Portfolio.base#Active and Planned Projects"
-    },
-    {
-      "source": "Home.md",
-      "target": "99 System/Dashboards/Task & Project Dashboard"
+      "target": "99 System/Dashboards/Vault Dashboard"
     },
     {
       "source": "Home.md",
@@ -151,11 +147,11 @@
     },
     {
       "source": "Home.md",
-      "target": "04 Resources/Media and Culture/Media Library.base#Curated Media"
+      "target": "04 Resources/Media and Culture/Media Board"
     },
     {
       "source": "Home.md",
-      "target": "90 Operations/Hermes/00 Index"
+      "target": "02 Projects/Project Portfolio.base"
     },
     {
       "source": "Home.md",
@@ -163,19 +159,15 @@
     },
     {
       "source": "Home.md",
-      "target": "AGENTS"
+      "target": "04 Resources/Lifestyle/Wishlist Board"
     },
     {
       "source": "Home.md",
-      "target": "99 System/Codex Vault Instructions"
+      "target": "99 System/Dashboards/Task & Project Dashboard"
     },
     {
       "source": "Home.md",
-      "target": "99 System/Metadata Schema"
-    },
-    {
-      "source": "Home.md",
-      "target": "99 System/RAG Indexing Rules"
+      "target": "90 Operations/Hermes/00 Index"
     },
     {
       "source": "Home.md",
@@ -184,6 +176,18 @@
     {
       "source": "Home.md",
       "target": "99 System/Migration/Vault-Wide Refactor Ledger"
+    },
+    {
+      "source": "Home.md",
+      "target": "05 Archive/Archive Index"
+    },
+    {
+      "source": "Home.md",
+      "target": "AGENTS"
+    },
+    {
+      "source": "Home.md",
+      "target": "99 System/Codex Vault Instructions"
     }
   ],
   "skipped": [
@@ -4005,6 +4009,10 @@
     },
     {
       "source": "99 System/Dashboards/Task & Project Dashboard.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Dashboards/Vault Dashboard.md",
       "reason": "internal 99 System material"
     },
     {
