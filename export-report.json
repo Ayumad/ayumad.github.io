@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T16:20:52.388Z",
-  "sourceCount": 1210,
+  "generatedAt": "2026-08-05T16:21:52.635Z",
+  "sourceCount": 1214,
   "publishedCount": 212,
-  "skippedCount": 997,
+  "skippedCount": 1001,
   "duplicateCount": 1,
   "brokenLinks": [
     {
@@ -4077,6 +4077,22 @@
     },
     {
       "source": "99 System/Retrieval Evaluation Set.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Schemas/Fileclass/Areas.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Schemas/Fileclass/Products.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Schemas/Fileclass/Projects.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Schemas/Fileclass/README.md",
       "reason": "internal 99 System material"
     },
     {
