@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:22:43.775Z",
+  "generatedAt": "2026-08-05T16:27:16.088Z",
   "sourceCount": 1215,
   "publishedCount": 212,
   "skippedCount": 1002,
@@ -156,6 +156,18 @@
     {
       "source": "Home.md",
       "target": "90 Operations/Hermes/00 Index"
+    },
+    {
+      "source": "Home.md",
+      "target": "99 System/Plugin Workflow Guide"
+    },
+    {
+      "source": "Home.md",
+      "target": "99 System/Templates/Templater/README"
+    },
+    {
+      "source": "Home.md",
+      "target": "99 System/Schemas/Fileclass/README"
     },
     {
       "source": "Home.md",
