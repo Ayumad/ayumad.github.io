@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T02:40:52.345Z",
-  "sourceCount": 1147,
+  "generatedAt": "2026-08-05T05:02:52.123Z",
+  "sourceCount": 1148,
   "publishedCount": 227,
-  "skippedCount": 918,
+  "skippedCount": 919,
   "duplicateCount": 2,
   "brokenLinks": [
     {
@@ -3965,6 +3965,10 @@
     },
     {
       "source": "90 Operations/Hermes/Session Summaries/2026-08-03.md",
+      "reason": "internal 90 Operations material"
+    },
+    {
+      "source": "90 Operations/Hermes/Session Summaries/2026-08-04.md",
       "reason": "internal 90 Operations material"
     },
     {
