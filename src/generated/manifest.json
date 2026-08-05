@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T15:29:21.864Z",
+  "generatedAt": "2026-08-05T15:33:05.855Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -6803,8 +6803,8 @@
       "slug": "about/about/home",
       "title": "Home",
       "summary": "Stable vault-wide navigation hub and table of contents.",
-      "html": "<h1>Home</h1>\n<p>The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation.</p>\n<h2 id=\"quick-access\">Quick Access<a class=\"heading-anchor\" href=\"#quick-access\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Work</th>\n<th>Capture and review</th>\n<th>Loadout</th>\n<th>Boards</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Vault Dashboard</td>\n<td>Inbox</td>\n<td><a href=\"/notes/systems/technology/loadout-hub/\">Loadout Hub</a></td>\n<td><a href=\"/notes/library/media-and-culture/media-board/\">Media Board</a></td>\n</tr>\n<tr>\n<td>Project Portfolio</td>\n<td>Latest Review</td>\n<td><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></td>\n<td><a href=\"/notes/library/lifestyle/wishlist-board/\">Wishlist Board</a></td>\n</tr>\n<tr>\n<td>Grouped Task Dashboard</td>\n<td><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></td>\n<td><a href=\"/notes/systems/technology/loadout-valuation/\">Prices and Value</a></td>\n<td><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></td>\n</tr>\n<tr>\n<td><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></td>\n<td>Hermes Operations</td>\n<td><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales and Lifecycle</a></td>\n<td><a href=\"/notes/library/learning/books/\">Books and Reading</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"projects\">Projects<a class=\"heading-anchor\" href=\"#projects\">#</a></h2>\n<ul>\n<li>Project Portfolio — active and planned work</li>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li><a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></li>\n<li><a href=\"/notes/projects/projects/electronics-workbench/\">Electronics Workbench</a></li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h2 id=\"areas\">Areas<a class=\"heading-anchor\" href=\"#areas\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Technology</th>\n<th>Audio</th>\n<th>Education and career</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/interests/technology/technology/\">Technology</a> · <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></td>\n<td><a href=\"/notes/interests/audio/audio/\">Audio</a></td>\n<td><a href=\"/notes/interests/education/school/\">School</a> · <a href=\"/notes/interests/education/career-and-interview-prep/\">Career</a></td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Creative work</th>\n<th>Personal development</th>\n<th>Philosophy</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/interests/creative-work/creative-work/\">Creative Work</a></td>\n<td><a href=\"/notes/interests/personal-development/personal-development/\">Personal Development</a></td>\n<td><a href=\"/notes/interests/philosophy/personal-philosophy/\">Personal Philosophy</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"resources-and-library\">Resources and Library<a class=\"heading-anchor\" href=\"#resources-and-library\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Learning</th>\n<th>Media and culture</th>\n<th>Technology</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/library/learning/books/\">Books</a> · <a href=\"/notes/library/learning/math/\">Math</a></td>\n<td><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a> · <a href=\"/notes/library/media-and-culture/video-games/\">Video Games</a></td>\n<td><a href=\"/notes/systems/technology/computer-science/\">Computer Science</a> · <a href=\"/notes/library/technology/software-engineering/\">Software Engineering</a></td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Audio</th>\n<th>Lifestyle</th>\n<th>Philosophy and photography</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a> · <a href=\"/notes/library/audio/music/\">Music</a></td>\n<td><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a> · <a href=\"/notes/library/lifestyle/shopping/\">Shopping</a></td>\n<td><a href=\"/notes/library/philosophy/philosophy-dictionary/\">Philosophy Dictionary</a> · <a href=\"/notes/library/photography/cameras/\">Cameras</a></td>\n</tr>\n</tbody></table>\n<h2 id=\"personal-systems\">Personal Systems<a class=\"heading-anchor\" href=\"#personal-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> — inventory, prices, sales, wishlist, and product research</li>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media</a> — media queue, catalogs, and trackers</li>\n<li><a href=\"/notes/systems/media-and-culture/currently-playing/\">Game Tracker</a></li>\n<li><a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Movies and TV Tracker</a></li>\n<li><a href=\"/notes/library/learning/books/\">Books</a></li>\n<li><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></li>\n</ul>\n<h2 id=\"system-and-history\">System and History<a class=\"heading-anchor\" href=\"#system-and-history\">#</a></h2>\n<ul>\n<li>Vault Health</li>\n<li>Migration Ledger</li>\n<li>Archive Index</li>\n<li>Vault Agent Governance</li>\n<li>Codex Vault Instructions</li>\n</ul>\n",
-      "text": "Home The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation. Quick Access Work Capture and review Loadout Boards Vault Dashboard Inbox Loadout Hub Media Board Project Portfolio Latest Review Inventory Wishlist Board Grouped Task Dashboard Product Information Gaps Prices and Value Media Hub Someday Projects Hermes Operations Sales and Lifecycle Books and Reading Projects Project Portfolio — active and planned work Homelab Obsidian RAG Assistant Personal Website Electronics Workbench Someday Projects Areas Technology Audio Education and career Technology · Loadout Audio School · Career Creative work Personal development Philosophy Creative Work Personal Development Personal Philosophy Resources and Library Learning Media and culture Technology Books · Math Media Hub · Video Games Computer Science · Software Engineering Audio Lifestyle Philosophy and photography Audio Concepts · Music Lifestyle Wishlist · Shopping Philosophy Dictionary · Cameras Personal Systems Loadout — inventory, prices, sales, wishlist, and product research Media — media queue, catalogs, and trackers Game Tracker Movies and TV Tracker Books Lifestyle Wishlist System and History Vault Health Migration Ledger Archive Index Vault Agent Governance Codex Vault Instructions",
+      "html": "<h1>Home</h1>\n<p>The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation.</p>\n<h2 id=\"quick-access\">Quick Access<a class=\"heading-anchor\" href=\"#quick-access\">#</a></h2>\n<h3 id=\"work\">Work<a class=\"heading-anchor\" href=\"#work\">#</a></h3>\n<ul>\n<li>Vault Dashboard</li>\n<li>Project Portfolio</li>\n<li>Grouped Task Dashboard</li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h3 id=\"capture-and-review\">Capture and Review<a class=\"heading-anchor\" href=\"#capture-and-review\">#</a></h3>\n<ul>\n<li>Inbox</li>\n<li>Latest Review</li>\n<li><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></li>\n<li>Hermes Operations</li>\n</ul>\n<h3 id=\"loadout\">Loadout<a class=\"heading-anchor\" href=\"#loadout\">#</a></h3>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout Hub</a></li>\n<li><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></li>\n<li><a href=\"/notes/systems/technology/loadout-valuation/\">Prices and Value</a></li>\n<li><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales and Lifecycle</a></li>\n<li><a href=\"/notes/systems/technology/loadout-wishlist/\">Loadout Wishlist</a></li>\n</ul>\n<h3 id=\"boards-and-library\">Boards and Library<a class=\"heading-anchor\" href=\"#boards-and-library\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/media-and-culture/media-board/\">Media Board</a></li>\n<li><a href=\"/notes/library/lifestyle/wishlist-board/\">Wishlist Board</a></li>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></li>\n<li><a href=\"/notes/library/learning/books/\">Books and Reading</a></li>\n</ul>\n<h2 id=\"projects\">Projects<a class=\"heading-anchor\" href=\"#projects\">#</a></h2>\n<ul>\n<li>Project Portfolio — active and planned work</li>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li><a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></li>\n<li><a href=\"/notes/projects/projects/electronics-workbench/\">Electronics Workbench</a></li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h2 id=\"areas\">Areas<a class=\"heading-anchor\" href=\"#areas\">#</a></h2>\n<h3 id=\"technology\">Technology<a class=\"heading-anchor\" href=\"#technology\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/technology/technology/\">Technology Area</a></li>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></li>\n</ul>\n<h3 id=\"audio\">Audio<a class=\"heading-anchor\" href=\"#audio\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/audio/audio/\">Audio Area</a></li>\n</ul>\n<h3 id=\"education-and-career\">Education and Career<a class=\"heading-anchor\" href=\"#education-and-career\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/education/school/\">School</a></li>\n<li><a href=\"/notes/interests/education/career-and-interview-prep/\">Career and Interview Prep</a></li>\n</ul>\n<h3 id=\"creative-work\">Creative Work<a class=\"heading-anchor\" href=\"#creative-work\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/creative-work/creative-work/\">Creative Work</a></li>\n</ul>\n<h3 id=\"personal-development\">Personal Development<a class=\"heading-anchor\" href=\"#personal-development\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/personal-development/personal-development/\">Personal Development</a></li>\n</ul>\n<h3 id=\"philosophy\">Philosophy<a class=\"heading-anchor\" href=\"#philosophy\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/philosophy/personal-philosophy/\">Personal Philosophy</a></li>\n</ul>\n<h2 id=\"resources-and-library\">Resources and Library<a class=\"heading-anchor\" href=\"#resources-and-library\">#</a></h2>\n<h3 id=\"learning\">Learning<a class=\"heading-anchor\" href=\"#learning\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/learning/books/\">Books</a></li>\n<li><a href=\"/notes/library/learning/math/\">Math</a></li>\n</ul>\n<h3 id=\"media-and-culture\">Media and Culture<a class=\"heading-anchor\" href=\"#media-and-culture\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></li>\n<li><a href=\"/notes/library/media-and-culture/video-games/\">Video Games</a></li>\n<li><a href=\"/notes/library/media-and-culture/tv/\">TV</a></li>\n<li><a href=\"/notes/library/media-and-culture/pokemon/\">Pokemon</a></li>\n</ul>\n<h3 id=\"technology-1\">Technology<a class=\"heading-anchor\" href=\"#technology-1\">#</a></h3>\n<ul>\n<li><a href=\"/notes/systems/technology/computer-science/\">Computer Science</a></li>\n<li><a href=\"/notes/library/technology/software-engineering/\">Software Engineering</a></li>\n</ul>\n<h3 id=\"audio-1\">Audio<a class=\"heading-anchor\" href=\"#audio-1\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a></li>\n<li><a href=\"/notes/library/audio/music/\">Music</a></li>\n</ul>\n<h3 id=\"lifestyle\">Lifestyle<a class=\"heading-anchor\" href=\"#lifestyle\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></li>\n<li><a href=\"/notes/library/lifestyle/shopping/\">Shopping</a></li>\n</ul>\n<h3 id=\"philosophy-and-photography\">Philosophy and Photography<a class=\"heading-anchor\" href=\"#philosophy-and-photography\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/philosophy/philosophy-dictionary/\">Philosophy Dictionary</a></li>\n<li><a href=\"/notes/library/photography/cameras/\">Cameras</a></li>\n</ul>\n<h2 id=\"personal-systems\">Personal Systems<a class=\"heading-anchor\" href=\"#personal-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/media-and-culture/currently-playing/\">Game Tracker</a></li>\n<li><a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Movies and TV Tracker</a></li>\n<li><a href=\"/notes/library/learning/books/\">Books</a></li>\n<li><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></li>\n</ul>\n<h2 id=\"system-and-history\">System and History<a class=\"heading-anchor\" href=\"#system-and-history\">#</a></h2>\n<ul>\n<li>Vault Health</li>\n<li>Migration Ledger</li>\n<li>Archive Index</li>\n<li>Vault Agent Governance</li>\n<li>Codex Vault Instructions</li>\n</ul>\n",
+      "text": "Home The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation. Quick Access Work Vault Dashboard Project Portfolio Grouped Task Dashboard Someday Projects Capture and Review Inbox Latest Review Product Information Gaps Hermes Operations Loadout Loadout Hub Inventory Prices and Value Sales and Lifecycle Loadout Wishlist Boards and Library Media Board Wishlist Board Media Hub Books and Reading Projects Project Portfolio — active and planned work Homelab Obsidian RAG Assistant Personal Website Electronics Workbench Someday Projects Areas Technology Technology Area Loadout Audio Audio Area Education and Career School Career and Interview Prep Creative Work Creative Work Personal Development Personal Development Philosophy Personal Philosophy Resources and Library Learning Books Math Media and Culture Media Hub Video Games TV Pokemon Technology Computer Science Software Engineering Audio Audio Concepts Music Lifestyle Lifestyle Wishlist Shopping Philosophy and Photography Philosophy Dictionary Cameras Personal Systems Game Tracker Movies and TV Tracker Books Lifestyle Wishlist System and History Vault Health Migration Ledger Archive Index Vault Agent Governance Codex Vault Instructions",
       "section": "about",
       "topic": "About",
       "status": "active",
@@ -6824,15 +6824,16 @@
       "sourcePath": "Home.md",
       "readingMinutes": 1,
       "links": [
-        "systems/technology/loadout-hub",
-        "library/media-and-culture/media-board",
-        "systems/technology/loadout-inventory",
-        "library/lifestyle/wishlist-board",
-        "systems/technology/product-notes-todo",
-        "systems/technology/loadout-valuation",
-        "library/media-and-culture/media",
         "projects/projects/someday-projects",
+        "systems/technology/product-notes-todo",
+        "systems/technology/loadout-hub",
+        "systems/technology/loadout-inventory",
+        "systems/technology/loadout-valuation",
         "systems/technology/loadout-sales-and-lifecycle",
+        "systems/technology/loadout-wishlist",
+        "library/media-and-culture/media-board",
+        "library/lifestyle/wishlist-board",
+        "library/media-and-culture/media",
         "library/learning/books",
         "projects/projects/homelab",
         "projects/projects/obsidian-rag-assistant",
@@ -6851,6 +6852,8 @@
         "library/learning/math",
         "library/media-and-culture/media",
         "library/media-and-culture/video-games",
+        "library/media-and-culture/tv",
+        "library/media-and-culture/pokemon",
         "systems/technology/computer-science",
         "library/technology/software-engineering",
         "library/audio/audio-concepts",
@@ -6859,8 +6862,6 @@
         "library/lifestyle/shopping",
         "library/philosophy/philosophy-dictionary",
         "library/photography/cameras",
-        "systems/technology/loadout-hub",
-        "library/media-and-culture/media",
         "systems/media-and-culture/currently-playing",
         "systems/media-and-culture/movies-and-tv-tracker",
         "library/learning/books",
@@ -6890,6 +6891,26 @@
           "id": "quick-access"
         },
         {
+          "depth": 3,
+          "text": "Work",
+          "id": "work"
+        },
+        {
+          "depth": 3,
+          "text": "Capture and Review",
+          "id": "capture-and-review"
+        },
+        {
+          "depth": 3,
+          "text": "Loadout",
+          "id": "loadout"
+        },
+        {
+          "depth": 3,
+          "text": "Boards and Library",
+          "id": "boards-and-library"
+        },
+        {
           "depth": 2,
           "text": "Projects",
           "id": "projects"
@@ -6900,9 +6921,69 @@
           "id": "areas"
         },
         {
+          "depth": 3,
+          "text": "Technology",
+          "id": "technology"
+        },
+        {
+          "depth": 3,
+          "text": "Audio",
+          "id": "audio"
+        },
+        {
+          "depth": 3,
+          "text": "Education and Career",
+          "id": "education-and-career"
+        },
+        {
+          "depth": 3,
+          "text": "Creative Work",
+          "id": "creative-work"
+        },
+        {
+          "depth": 3,
+          "text": "Personal Development",
+          "id": "personal-development"
+        },
+        {
+          "depth": 3,
+          "text": "Philosophy",
+          "id": "philosophy"
+        },
+        {
           "depth": 2,
           "text": "Resources and Library",
           "id": "resources-and-library"
+        },
+        {
+          "depth": 3,
+          "text": "Learning",
+          "id": "learning"
+        },
+        {
+          "depth": 3,
+          "text": "Media and Culture",
+          "id": "media-and-culture"
+        },
+        {
+          "depth": 3,
+          "text": "Technology",
+          "id": "technology-1"
+        },
+        {
+          "depth": 3,
+          "text": "Audio",
+          "id": "audio-1"
+        },
+        {
+          "depth": 3,
+          "text": "Lifestyle",
+          "id": "lifestyle"
+        },
+        {
+          "depth": 3,
+          "text": "Philosophy and Photography",
+          "id": "philosophy-and-photography"
         },
         {
           "depth": 2,
@@ -8958,7 +9039,8 @@
         "interests/personal-development/personal-development",
         "systems/technology/loadout-hub",
         "systems/technology/product-notes-todo",
-        "library/lifestyle/wishlist-board"
+        "library/lifestyle/wishlist-board",
+        "about/about/home"
       ],
       "headings": [
         {
@@ -13677,7 +13759,8 @@
       "backlinks": [
         "library/media-and-culture/media",
         "library/media-and-culture/pokemon-rom-hacks",
-        "library/media-and-culture/video-games"
+        "library/media-and-culture/video-games",
+        "about/about/home"
       ],
       "headings": [
         {
@@ -17150,7 +17233,8 @@
       "links": [],
       "backlinks": [
         "library/media-and-culture/media",
-        "systems/media-and-culture/movies-and-tv-tracker"
+        "systems/media-and-culture/movies-and-tv-tracker",
+        "about/about/home"
       ],
       "headings": [
         {
@@ -18403,7 +18487,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T15:29:21.864Z",
+    "generatedAt": "2026-08-05T15:33:05.855Z",
     "sourceCount": 1202,
     "publishedCount": 212,
     "skippedCount": 989,
@@ -18543,19 +18627,19 @@
       },
       {
         "source": "Home.md",
-        "target": "00 Inbox/Inbox"
-      },
-      {
-        "source": "Home.md",
         "target": "02 Projects/Project Portfolio.base"
       },
       {
         "source": "Home.md",
-        "target": "07 Reflections/Weekly/2026-08-05 Vault Refactor Baseline"
+        "target": "99 System/Dashboards/Task & Project Dashboard"
       },
       {
         "source": "Home.md",
-        "target": "99 System/Dashboards/Task & Project Dashboard"
+        "target": "00 Inbox/Inbox"
+      },
+      {
+        "source": "Home.md",
+        "target": "07 Reflections/Weekly/2026-08-05 Vault Refactor Baseline"
       },
       {
         "source": "Home.md",

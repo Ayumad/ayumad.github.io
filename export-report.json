@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T15:29:21.864Z",
+  "generatedAt": "2026-08-05T15:33:05.855Z",
   "sourceCount": 1202,
   "publishedCount": 212,
   "skippedCount": 989,
@@ -139,19 +139,19 @@
     },
     {
       "source": "Home.md",
-      "target": "00 Inbox/Inbox"
-    },
-    {
-      "source": "Home.md",
       "target": "02 Projects/Project Portfolio.base"
     },
     {
       "source": "Home.md",
-      "target": "07 Reflections/Weekly/2026-08-05 Vault Refactor Baseline"
+      "target": "99 System/Dashboards/Task & Project Dashboard"
     },
     {
       "source": "Home.md",
-      "target": "99 System/Dashboards/Task & Project Dashboard"
+      "target": "00 Inbox/Inbox"
+    },
+    {
+      "source": "Home.md",
+      "target": "07 Reflections/Weekly/2026-08-05 Vault Refactor Baseline"
     },
     {
       "source": "Home.md",
