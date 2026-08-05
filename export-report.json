@@ -1,8 +1,8 @@
 {
   "generatedAt": "2026-08-05T14:36:14.509Z",
-  "sourceCount": 1850,
+  "sourceCount": 1613,
   "publishedCount": 212,
-  "skippedCount": 1637,
+  "skippedCount": 1400,
   "duplicateCount": 1,
   "brokenLinks": [
     {
@@ -252,23 +252,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Personal Development/Personal Development.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Philosophy/Personal Philosophy.md",
       "reason": "internal 05 Archive material"
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/0 - Table of Contents.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/5-Port Gigabit Ethernet Switch (Model Unknown).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/512 GB NVMe SSD (P520 Boot Drive).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -280,27 +268,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/8BitDo Wireless Keyboard.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/AGENTS Loadout Codex.md",
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/AMD Radeon RX 6600 8 GB.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Ally.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Flow Z13 (2023).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/ASUS ROG Flow Z13 (2025).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -312,51 +284,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Acer PM161Q Jbmiuux Portable Monitor.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Anker Thunderbolt 5 Dock.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple AirPods Max (1st Generation).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple AirPods Pro 3.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple Mac mini (M4, 2024).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple MacBook Air (M2).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple MacBook Pro (M4 Pro).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple TV 4K (3rd Generation, 64 GB).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPad Pro 11-inch (M4, Cellular).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPad mini (6th Generation).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -369,10 +297,6 @@
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone Air.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Apple iPhone SE (1st Generation).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -396,19 +320,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Beats Powerbeats Pro 2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Beelink SER8.md",
       "reason": "internal 05 Archive material"
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/BenQ ZOWIE XL2411P.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/BrosTrend 8-Port 2.5G Ethernet Switch.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -424,10 +340,6 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Consoles and Controllers.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Creekwood.md",
       "reason": "internal 05 Archive material"
     },
@@ -436,39 +348,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Displays and Home Theater.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/FiiO K13 R2R.md",
       "reason": "internal 05 Archive material"
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Focal Azurys.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Focal Clear (Original).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -496,19 +380,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Gaming Inventory.md",
       "reason": "internal 05 Archive material"
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Gaming.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Google Nest Wifi (AC2200).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -552,14 +428,6 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Kiwi Ears x B_Media Chorus.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Kiwi Ears x B_Media Terras Cable.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Laptops.md",
       "reason": "internal 05 Archive material"
     },
@@ -572,51 +440,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad X1 Carbon Gen 6.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad X1 Carbon Gen 9.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad X220 Tablet.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkPad Yoga 260.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkStation P520 Homelab Plan.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Lenovo ThinkStation P520.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Loadout MOC.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech Combo Touch for iPad Pro (M2).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G ASTRO A50 (Gen 5).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G CLOUD Gaming Handheld.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G Pro Wireless.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Logitech G Pro X Superlight 2 Dex.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -636,27 +460,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/MOONDROP x Crinacle DUSK.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Manfrotto Carbon Fiber Travel Tripod.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Meta Quest 3.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Meze Audio 99 Classics (1st Gen).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Wireless Keyboard.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Xbox Elite Wireless Controller Series 2.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -664,75 +468,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Microsoft Xbox Wireless Controller (Series X-S).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Mobile Devices.md",
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/NVIDIA GeForce RTX 2060 6 GB.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/NVIDIA GeForce RTX 3060 12 GB.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo New 3DS (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo New 3DS XL (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch 2 Pro Controller.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch 2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch Lite (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch OLED Model (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Nintendo Switch Pro Controller.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/OWC Thunderbolt 4 Dock.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Panasonic Let's Note SV1.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Panasonic Lumix DMC-ZS50.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Personal Obsidian RAG Assistant Plan.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -748,15 +488,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Raspberry Pi 4 Model B.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Basilisk V3 Pro.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Razer Blade Stealth 13.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -772,35 +504,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/SVS SB-1000 Pro.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung Odyssey G4 (25-inch).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung Odyssey G7 (32-inch).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Samsung Odyssey OLED G8 (G80SD).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser HD 4.50BTNC.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -812,27 +516,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sennheiser MOMENTUM 4 Wireless.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sony BRAVIA X850G (75-inch).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Sony WF-1000XM4.md",
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/Speakers and Receivers.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/TODO.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/TRUTHEAR x Crinacle ZERO RED.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -857,10 +545,6 @@
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/codex_notes.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/03 Areas/Technology/Loadout/iPad Magic Keyboard (M4).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1084,10 +768,6 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/0-Templates/Template_List.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/AI Suggestions.md",
       "reason": "internal 05 Archive material"
     },
@@ -1116,27 +796,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Codex_Obsidian_Vault_Instructions.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Computer Accessories.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Computer Science.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Computers.md",
       "reason": "internal 05 Archive material"
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/DSLR.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Digital Camera.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1149,10 +813,6 @@
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Fashion.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Felicific Calculus.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1192,263 +852,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/8BitDo SN30 Pro.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/8BitDo Ultimate 2C.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/ASUS ROG Ally.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Accessories.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple AirPods Max (1st Generation).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple AirPods Pro 3.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple MacBook Air (M2).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple USB-C to 3.5 mm Headphone Jack Adapter.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone 13 mini.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone Air.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone SE (1st Generation).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Apple iPhone X.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Audeze LCD-X.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Audio.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Beats Powerbeats Pro 2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/CHUWI MiniBook X.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Cameras and Lenses.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Creekwood.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/DACs and Amplifiers.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Displays and Home Theater.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/FiiO K13 R2R.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Focal Azurys.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Focal Clear (Original).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fosi Audio GR70.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fosi Audio ZA3.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Framework Laptop 13.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fujifilm X100VI.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fujifilm X20.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Fujinon XF18-55mmF2.8-4 R LM OIS.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Google Pixel 5.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/HIFIMAN Edition XS.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Handheld Gaming PCs.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Headphones.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/IEMs and Earbuds.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/KEF Q150.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Lenovo ThinkPad T431s.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Logitech G CLOUD Gaming Handheld.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Logitech Z625.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/MOONDROP x Crinacle DUSK.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Meze Audio 99 Classics (1st Gen).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Microsoft Xbox Elite Wireless Controller Series 2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Microsoft Xbox Wireless Controller (Series X-S).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo New 3DS XL (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch 2 Pro Controller.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch 2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch Lite (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch OLED Model (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Nintendo Switch Pro Controller.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Panasonic Lumix DMC-ZS50.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/SVS SB-1000 Pro.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 4.50BTNC.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 490 PRO.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser HD 660S2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sennheiser MOMENTUM 4 Wireless.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Sony WF-1000XM4.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Speakers and Receivers.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/TRUTHEAR x Crinacle ZERO RED.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/VR Headsets.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Valve Steam Deck OLED.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Welcome.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/WiiM Ultra.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Loadout/Yamaha RX-V677.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Machine Learning.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1472,15 +876,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Computer Accessories.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/DSLR.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Digital Camera.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1492,15 +888,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Headphones.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Idealism.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Interests.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1516,10 +904,6 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Machine Learning.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Math.md",
       "reason": "internal 05 Archive material"
     },
@@ -1528,19 +912,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/NES emulator.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Neural Networks.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Ontology.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Operating Systems.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1548,23 +920,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Religions.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/School.md",
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Self Care.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Shopping.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Software Engineering.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1581,10 +941,6 @@
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Video.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Main/Web Development.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1616,31 +972,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Neural Networks.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Ontology.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Operating Systems.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Personal Schedule.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Personal Website.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Personal_Obsidian_RAG_Assistant_Plan.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Philosophy Dictionary.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1649,10 +981,6 @@
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Pokemon.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Process Ontology.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1688,10 +1016,6 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Software Engineering.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Software.md",
       "reason": "internal 05 Archive material"
     },
@@ -1700,19 +1024,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Substance Ontology.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/TV.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Table of Contents.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Ultimate_AI_Second_Brain_Goal.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1721,10 +1033,6 @@
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Video.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Legacy Vault 2026-06-22/Web Development.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1744,27 +1052,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/0 - Table of Contents.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/5-Port Gigabit Ethernet Switch (Model Unknown).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/512 GB NVMe SSD (P520 Boot Drive).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/8BitDo Ultimate 2C.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/AGENTS.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/AMD Radeon RX 6600 8 GB.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1772,43 +1060,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/ASUS ROG Flow Z13 (2023).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/ASUS ROG Zephyrus G14.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Accessories.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Acer PM161Q Jbmiuux Portable Monitor.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple AirPods Max (1st Generation).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple MacBook Pro (M4 Pro).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple TV 4K (3rd Generation, 64 GB).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPad Pro 11-inch (M4, Cellular).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPad Pro 12.9-inch (M2, Wi-Fi).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Apple iPad mini (6th Generation).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1836,14 +1088,6 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/BenQ ZOWIE XL2411P.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/BrosTrend 8-Port 2.5G Ethernet Switch.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/CHUWI MiniBook X.md",
       "reason": "internal 05 Archive material"
     },
@@ -1852,43 +1096,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Consoles and Controllers.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-4790K, GeForce GTX 780 Ti).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-6700K, GeForce GTX 1070 Ti).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-6700K, Radeon RX 5500 XT).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i7-9700K, GPU Unconfirmed).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Desktop PC (Core i9-12900K, GeForce RTX 4080).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Displays and Home Theater.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/FiiO K13 R2R.md",
       "reason": "internal 05 Archive material"
     },
     {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Fosi Audio GR70.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Framework Laptop 13.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1908,15 +1120,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Google Nest Wifi (AC2200).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Google Pixel 4 XL.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/HIFIMAN Edition XS.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1924,59 +1128,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Kiwi Ears x B_Media Chorus.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Kiwi Ears x B_Media Terras Cable.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Laptops.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad T431s.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad T480.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad X1 Carbon Gen 6.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad X1 Carbon Gen 9.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad X220 Tablet.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkPad Yoga 260.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkStation P520 Homelab Plan.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Lenovo ThinkStation P520.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Logitech G ASTRO A50 (Gen 5).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Logitech G CLOUD Gaming Handheld.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/MOONDROP x Crinacle DUSK.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -1984,63 +1136,11 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Microsoft Xbox Elite Wireless Controller Series 2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Microsoft Xbox One.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Mobile Devices.md",
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Monoprice SlimRun Cat6A 7 ft Patch Cables (10-Pack).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 2060 6 GB.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/NVIDIA GeForce RTX 3060 12 GB.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo DSi XL (Super Mario Bros. 25th Anniversary, Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo New 3DS (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo New 3DS XL (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch 2.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch Lite (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Nintendo Switch OLED Model (Modded).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Panasonic Let's Note SV1.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Personal Obsidian RAG Assistant Plan.md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -2052,27 +1152,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Raspberry Pi 4 Model B.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Razer Blade Stealth 13.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Razer Edge.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Retroid Pocket Nova.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/SFF PC (Ryzen 5 3600, Radeon RX 9060 XT).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/SFF PC (Ryzen 5 5600, Radeon RX 9070 XT).md",
       "reason": "internal 05 Archive material"
     },
     {
@@ -2080,35 +1160,7 @@
       "reason": "internal 05 Archive material"
     },
     {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung 1080p 120 Hz Monitor (Model Unknown).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung Odyssey G4 (25-inch).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung Odyssey G7 (32-inch).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Samsung Odyssey OLED G8 (G80SD).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Sennheiser HD 4.50BTNC.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Sony BRAVIA X850G (75-inch).md",
-      "reason": "internal 05 Archive material"
-    },
-    {
       "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/TODO.md",
-      "reason": "internal 05 Archive material"
-    },
-    {
-      "source": "05 Archive/2026-07-29 Pre-Rarchitecture Snapshot/05 Archive/Loadout Merge Backup/Valve Steam Deck OLED.md",
       "reason": "internal 05 Archive material"
     },
     {
