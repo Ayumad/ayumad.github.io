@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:36:14.509Z",
+  "generatedAt": "2026-08-05T14:51:37.150Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18224,10 +18224,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T14:36:14.509Z",
-    "sourceCount": 1200,
+    "generatedAt": "2026-08-05T14:51:37.150Z",
+    "sourceCount": 1201,
     "publishedCount": 212,
-    "skippedCount": 987,
+    "skippedCount": 988,
     "duplicateCount": 1,
     "brokenLinks": [
       {
@@ -21010,6 +21010,10 @@
       },
       {
         "source": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/99 System/Vault Validation Report.md",
+        "reason": "internal 05 Archive material"
+      },
+      {
+        "source": "05 Archive/Archive Cleanup Record.md",
         "reason": "internal 05 Archive material"
       },
       {
