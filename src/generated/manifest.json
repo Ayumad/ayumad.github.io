@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:03:02.220Z",
+  "generatedAt": "2026-08-05T17:03:23.009Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -8619,7 +8619,9 @@
       "links": [
         "systems/technology/loadout-hub"
       ],
-      "backlinks": [],
+      "backlinks": [
+        "systems/technology/loadout-hub"
+      ],
       "headings": [
         {
           "depth": 2,
@@ -8686,8 +8688,8 @@
       "slug": "systems/technology/loadout-hub",
       "title": "Loadout Hub",
       "summary": "Primary navigation hub for the canonical product corpus and derived views",
-      "html": "<h1>Loadout Hub</h1>\n<p>Product notes in <code>Products</code> own identity, ownership, configuration, lifecycle, personal context, valuation, and sources. Bases and landing pages are derived browse layers.</p>\n<h2 id=\"core-records\">Core Records<a class=\"heading-anchor\" href=\"#core-records\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></li>\n<li><a href=\"/notes/systems/technology/loadout-valuation/\">Valuation</a></li>\n<li><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales &amp; Lifecycle</a></li>\n<li><a href=\"/notes/systems/technology/loadout-wishlist/\">Wishlist</a></li>\n<li><a href=\"/notes/library/lifestyle/wishlist-board/\">Wishlist Board</a></li>\n<li><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></li>\n</ul>\n<h2 id=\"browse-by-category\">Browse by Category<a class=\"heading-anchor\" href=\"#browse-by-category\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/computers/\">Computers</a></li>\n<li><a href=\"/notes/systems/technology/mobile-devices/\">Mobile Devices</a></li>\n<li><a href=\"/notes/systems/technology/gaming/\">Gaming</a></li>\n<li><a href=\"/notes/systems/technology/cameras-and-lenses/\">Cameras and Lenses</a></li>\n<li><a href=\"/notes/systems/technology/displays-and-home-theater/\">Displays and Home Theater</a></li>\n<li>Audio</li>\n<li><a href=\"/notes/systems/technology/accessories/\">Accessories</a></li>\n</ul>\n<h2 id=\"standards\">Standards<a class=\"heading-anchor\" href=\"#standards\">#</a></h2>\n<ul>\n<li>Loadout Agent Instructions</li>\n<li>Product Note Standard</li>\n<li>Metadata Schema</li>\n<li>Product Catalog Base</li>\n</ul>\n",
-      "text": "Loadout Hub Product notes in Products own identity, ownership, configuration, lifecycle, personal context, valuation, and sources. Bases and landing pages are derived browse layers. Core Records Inventory Valuation Sales & Lifecycle Wishlist Wishlist Board Product Information Gaps Browse by Category Computers Mobile Devices Gaming Cameras and Lenses Displays and Home Theater Audio Accessories Standards Loadout Agent Instructions Product Note Standard Metadata Schema Product Catalog Base",
+      "html": "<h1>Loadout Hub</h1>\n<p>Product notes in <code>Products</code> own identity, ownership, configuration, lifecycle, personal context, valuation, and sources. Bases and landing pages are derived browse layers.</p>\n<h2 id=\"core-records\">Core Records<a class=\"heading-anchor\" href=\"#core-records\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></li>\n<li><a href=\"/notes/systems/technology/loadout-valuation/\">Valuation</a></li>\n<li><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales &amp; Lifecycle</a></li>\n<li><a href=\"/notes/systems/technology/loadout-wishlist/\">Wishlist</a></li>\n<li><a href=\"/notes/library/lifestyle/wishlist-board/\">Wishlist Board</a></li>\n<li><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></li>\n</ul>\n<h2 id=\"browse-by-category\">Browse by Category<a class=\"heading-anchor\" href=\"#browse-by-category\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/computers/\">Computers</a></li>\n<li><a href=\"/notes/systems/technology/mobile-devices/\">Mobile Devices</a></li>\n<li><a href=\"/notes/systems/technology/gaming/\">Gaming</a></li>\n<li><a href=\"/notes/systems/technology/cameras-and-lenses/\">Cameras and Lenses</a></li>\n<li><a href=\"/notes/systems/technology/displays-and-home-theater/\">Displays and Home Theater</a></li>\n<li>Audio</li>\n<li><a href=\"/notes/systems/technology/accessories/\">Accessories</a></li>\n</ul>\n<h2 id=\"standards\">Standards<a class=\"heading-anchor\" href=\"#standards\">#</a></h2>\n<ul>\n<li>Loadout Agent Instructions</li>\n<li>Product Note Standard</li>\n<li>Metadata Schema</li>\n<li>Product Catalog Base</li>\n<li><a href=\"/notes/systems/technology/loadout-continuity/\">Loadout Continuity</a></li>\n</ul>\n",
+      "text": "Loadout Hub Product notes in Products own identity, ownership, configuration, lifecycle, personal context, valuation, and sources. Bases and landing pages are derived browse layers. Core Records Inventory Valuation Sales & Lifecycle Wishlist Wishlist Board Product Information Gaps Browse by Category Computers Mobile Devices Gaming Cameras and Lenses Displays and Home Theater Audio Accessories Standards Loadout Agent Instructions Product Note Standard Metadata Schema Product Catalog Base Loadout Continuity",
       "section": "systems",
       "topic": "Technology",
       "status": "active",
@@ -8712,7 +8714,8 @@
         "systems/technology/gaming",
         "systems/technology/cameras-and-lenses",
         "systems/technology/displays-and-home-theater",
-        "systems/technology/accessories"
+        "systems/technology/accessories",
+        "systems/technology/loadout-continuity"
       ],
       "backlinks": [
         "interests/audio/audio",
@@ -18604,7 +18607,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T17:03:02.220Z",
+    "generatedAt": "2026-08-05T17:03:23.009Z",
     "sourceCount": 1215,
     "publishedCount": 212,
     "skippedCount": 1002,
