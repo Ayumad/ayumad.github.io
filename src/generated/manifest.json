@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:20:12.329Z",
+  "generatedAt": "2026-08-06T00:16:28.045Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18598,10 +18598,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-05T23:20:12.329Z",
-    "sourceCount": 1218,
+    "generatedAt": "2026-08-06T00:16:28.045Z",
+    "sourceCount": 1239,
     "publishedCount": 212,
-    "skippedCount": 1005,
+    "skippedCount": 1026,
     "duplicateCount": 1,
     "brokenLinks": [
       {
@@ -22595,7 +22595,87 @@
         "reason": "internal 90 Operations material"
       },
       {
+        "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Knowledge Map.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
         "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Log.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Interview Preparation/Interview Prep Skill.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Interview Preparation/Interview Topic Taxonomy.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Kanban Board.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/One-Time TODOs.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Legacy Project Index.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/NixOS — Panasonic Let's Note SV1.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Creative Work.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Hermes.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Homelab.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Linux From Scratch.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — NES Emulator.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Neocities.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — NixOS.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Personal Website.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — RAG Assistant.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Riced Linux.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — School.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Materials/Roadmap — Voice Assistant.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Project Tracker.md",
         "reason": "internal 90 Operations material"
       },
       {
@@ -22632,6 +22712,10 @@
       },
       {
         "source": "90 Operations/Hermes/Session Summaries/Session Log.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/TODO Master.md",
         "reason": "internal 90 Operations material"
       },
       {
