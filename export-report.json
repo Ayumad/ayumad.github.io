@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:31:05.935Z",
+  "generatedAt": "2026-08-07T08:31:54.763Z",
   "sourceCount": 1242,
   "publishedCount": 214,
   "skippedCount": 1028,
@@ -111,7 +111,7 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
-      "target": "AGENTS"
+      "target": "03 Areas/Technology/Loadout/AGENTS"
     },
     {
       "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
@@ -151,7 +151,7 @@
     },
     {
       "source": "03 Areas/Technology/Loadout/TODO.md",
-      "target": "AGENTS"
+      "target": "03 Areas/Technology/Loadout/AGENTS"
     },
     {
       "source": "03 Areas/Technology/Technology.md",
