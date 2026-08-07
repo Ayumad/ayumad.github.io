@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-07T13:27:36.633Z",
-  "sourceCount": 1282,
-  "publishedCount": 214,
+  "generatedAt": "2026-08-07T13:31:53.081Z",
+  "sourceCount": 1283,
+  "publishedCount": 215,
   "skippedCount": 1068,
   "duplicateCount": 0,
   "brokenLinks": [
@@ -60,6 +60,30 @@
     {
       "source": "02 Projects/Someday Projects.md",
       "target": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/NixOS — Panasonic Let's Note SV1"
+    },
+    {
+      "source": "02 Projects/Vault.md",
+      "target": "99 System/Reports/Vault Audit Report 2026-08-07"
+    },
+    {
+      "source": "02 Projects/Vault.md",
+      "target": "AGENTS"
+    },
+    {
+      "source": "02 Projects/Vault.md",
+      "target": "90 Operations/Hermes/AGENTS"
+    },
+    {
+      "source": "02 Projects/Vault.md",
+      "target": "90 Operations/Hermes/Hermes Operations Queue"
+    },
+    {
+      "source": "02 Projects/Vault.md",
+      "target": "90 Operations/Hermes/Session Summaries/Session Log"
+    },
+    {
+      "source": "02 Projects/Vault.md",
+      "target": "05 Archive/Archive Cleanup Record"
     },
     {
       "source": "03 Areas/Audio/Audio Area.md",

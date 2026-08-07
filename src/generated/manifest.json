@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:27:36.633Z",
+  "generatedAt": "2026-08-07T13:31:53.081Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -6881,8 +6881,8 @@
       "slug": "about/about/home",
       "title": "Home",
       "summary": "Stable vault-wide navigation hub and table of contents.",
-      "html": "<h1>Home</h1>\n<p>The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation.</p>\n<h2 id=\"quick-access\">Quick Access<a class=\"heading-anchor\" href=\"#quick-access\">#</a></h2>\n<h3 id=\"work\">Work<a class=\"heading-anchor\" href=\"#work\">#</a></h3>\n<ul>\n<li>Vault Dashboard</li>\n<li>Project Portfolio</li>\n<li>Grouped Task Dashboard</li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h3 id=\"capture-and-review\">Capture and Review<a class=\"heading-anchor\" href=\"#capture-and-review\">#</a></h3>\n<ul>\n<li>Inbox</li>\n<li>Latest Review</li>\n<li><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></li>\n<li>Hermes Operations</li>\n<li>Session Journal</li>\n</ul>\n<h3 id=\"loadout\">Loadout<a class=\"heading-anchor\" href=\"#loadout\">#</a></h3>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout Hub</a></li>\n<li><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></li>\n<li><a href=\"/notes/systems/technology/loadout-valuation/\">Prices and Value</a></li>\n<li><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales and Lifecycle</a></li>\n<li><a href=\"/notes/systems/technology/loadout-wishlist/\">Loadout Wishlist</a></li>\n</ul>\n<h3 id=\"boards-and-library\">Boards and Library<a class=\"heading-anchor\" href=\"#boards-and-library\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/media-and-culture/media-board/\">Media Board</a></li>\n<li><a href=\"/notes/library/lifestyle/wishlist-board/\">Wishlist Board</a></li>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></li>\n<li><a href=\"/notes/library/learning/books/\">Books and Reading</a></li>\n</ul>\n<h3 id=\"vault-workflow\">Vault Workflow<a class=\"heading-anchor\" href=\"#vault-workflow\">#</a></h3>\n<ul>\n<li>Plugin Workflow Guide — capture, templates, metadata, and search</li>\n<li>Session Capture Workflow — dated notes, Notes sections, and the automatic daily backstop</li>\n<li>Templater Templates — deliberate canonical-note creation</li>\n<li>Fileclass Schemas — typed frontmatter pilot</li>\n<li>Vault Growth Guide — how capture, processing, reflection, and retrieval fit together</li>\n<li>Question Workflow — guided reflection and routing rules</li>\n</ul>\n<h2 id=\"projects\">Projects<a class=\"heading-anchor\" href=\"#projects\">#</a></h2>\n<ul>\n<li>Project Portfolio — active and planned work</li>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li><a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></li>\n<li><a href=\"/notes/projects/projects/electronics-workbench/\">Electronics Workbench</a></li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h2 id=\"areas\">Areas<a class=\"heading-anchor\" href=\"#areas\">#</a></h2>\n<h3 id=\"technology\">Technology<a class=\"heading-anchor\" href=\"#technology\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/technology/technology/\">Technology Area</a></li>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></li>\n</ul>\n<h3 id=\"audio\">Audio<a class=\"heading-anchor\" href=\"#audio\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/audio/audio-area/\">Audio Area</a></li>\n</ul>\n<h3 id=\"education-and-career\">Education and Career<a class=\"heading-anchor\" href=\"#education-and-career\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/education/school/\">School</a></li>\n<li><a href=\"/notes/interests/education/career-and-interview-prep/\">Career and Interview Prep</a></li>\n</ul>\n<h3 id=\"creative-work\">Creative Work<a class=\"heading-anchor\" href=\"#creative-work\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/creative-work/creative-work/\">Creative Work</a></li>\n</ul>\n<h3 id=\"personal-development\">Personal Development<a class=\"heading-anchor\" href=\"#personal-development\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/personal-development/personal-development/\">Personal Development</a></li>\n</ul>\n<h3 id=\"philosophy\">Philosophy<a class=\"heading-anchor\" href=\"#philosophy\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/philosophy/personal-philosophy/\">Personal Philosophy</a></li>\n</ul>\n<h2 id=\"resources-and-library\">Resources and Library<a class=\"heading-anchor\" href=\"#resources-and-library\">#</a></h2>\n<h3 id=\"learning\">Learning<a class=\"heading-anchor\" href=\"#learning\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/learning/books/\">Books</a></li>\n<li><a href=\"/notes/library/learning/math/\">Math</a></li>\n<li><a href=\"/notes/library/learning/religions/\">Religions</a></li>\n</ul>\n<h3 id=\"media-and-culture\">Media and Culture<a class=\"heading-anchor\" href=\"#media-and-culture\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></li>\n<li><a href=\"/notes/library/media-and-culture/video-games/\">Video Games</a></li>\n<li><a href=\"/notes/library/media-and-culture/tv/\">TV</a></li>\n<li><a href=\"/notes/library/media-and-culture/pokemon/\">Pokemon</a></li>\n<li><a href=\"/notes/library/media-and-culture/social-media/\">Social Media</a></li>\n</ul>\n<h3 id=\"technology-1\">Technology<a class=\"heading-anchor\" href=\"#technology-1\">#</a></h3>\n<ul>\n<li><a href=\"/notes/systems/technology/computer-science/\">Computer Science</a></li>\n<li><a href=\"/notes/library/technology/software-engineering/\">Software Engineering</a></li>\n</ul>\n<h3 id=\"audio-1\">Audio<a class=\"heading-anchor\" href=\"#audio-1\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a></li>\n<li><a href=\"/notes/library/audio/music/\">Music</a></li>\n</ul>\n<h3 id=\"lifestyle\">Lifestyle<a class=\"heading-anchor\" href=\"#lifestyle\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></li>\n<li><a href=\"/notes/library/lifestyle/shopping/\">Shopping</a></li>\n<li><a href=\"/notes/systems/lifestyle/computer-accessories/\">Computer Accessories</a></li>\n</ul>\n<h3 id=\"philosophy-and-photography\">Philosophy and Photography<a class=\"heading-anchor\" href=\"#philosophy-and-photography\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/philosophy/philosophy-dictionary/\">Philosophy Dictionary</a></li>\n<li><a href=\"/notes/library/photography/cameras/\">Cameras</a></li>\n</ul>\n<h2 id=\"personal-systems\">Personal Systems<a class=\"heading-anchor\" href=\"#personal-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/media-and-culture/currently-playing/\">Game Tracker</a></li>\n<li><a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Movies and TV Tracker</a></li>\n</ul>\n<h2 id=\"system-and-history\">System and History<a class=\"heading-anchor\" href=\"#system-and-history\">#</a></h2>\n<ul>\n<li>Vault Health</li>\n<li>Migration Ledger</li>\n<li>Archive Index</li>\n<li>Vault Agent Governance</li>\n<li>Codex Vault Instructions</li>\n</ul>\n",
-      "text": "Home The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation. Quick Access Work Vault Dashboard Project Portfolio Grouped Task Dashboard Someday Projects Capture and Review Inbox Latest Review Product Information Gaps Hermes Operations Session Journal Loadout Loadout Hub Inventory Prices and Value Sales and Lifecycle Loadout Wishlist Boards and Library Media Board Wishlist Board Media Hub Books and Reading Vault Workflow Plugin Workflow Guide — capture, templates, metadata, and search Session Capture Workflow — dated notes, Notes sections, and the automatic daily backstop Templater Templates — deliberate canonical note creation Fileclass Schemas — typed frontmatter pilot Vault Growth Guide — how capture, processing, reflection, and retrieval fit together Question Workflow — guided reflection and routing rules Projects Project Portfolio — active and planned work Homelab Obsidian RAG Assistant Personal Website Electronics Workbench Someday Projects Areas Technology Technology Area Loadout Audio Audio Area Education and Career School Career and Interview Prep Creative Work Creative Work Personal Development Personal Development Philosophy Personal Philosophy Resources and Library Learning Books Math Religions Media and Culture Media Hub Video Games TV Pokemon Social Media Technology Computer Science Software Engineering Audio Audio Concepts Music Lifestyle Lifestyle Wishlist Shopping Computer Accessories Philosophy and Photography Philosophy Dictionary Cameras Personal Systems Game Tracker Movies and TV Tracker System and History Vault Health Migration Ledger Archive Index Vault Agent Governance Codex Vault Instructions",
+      "html": "<h1>Home</h1>\n<p>The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation.</p>\n<h2 id=\"quick-access\">Quick Access<a class=\"heading-anchor\" href=\"#quick-access\">#</a></h2>\n<h3 id=\"work\">Work<a class=\"heading-anchor\" href=\"#work\">#</a></h3>\n<ul>\n<li>Vault Dashboard</li>\n<li>Project Portfolio</li>\n<li>Grouped Task Dashboard</li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h3 id=\"capture-and-review\">Capture and Review<a class=\"heading-anchor\" href=\"#capture-and-review\">#</a></h3>\n<ul>\n<li>Inbox</li>\n<li>Latest Review</li>\n<li><a href=\"/notes/systems/technology/product-notes-todo/\">Product Information Gaps</a></li>\n<li>Hermes Operations</li>\n<li>Session Journal</li>\n</ul>\n<h3 id=\"loadout\">Loadout<a class=\"heading-anchor\" href=\"#loadout\">#</a></h3>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout Hub</a></li>\n<li><a href=\"/notes/systems/technology/loadout-inventory/\">Inventory</a></li>\n<li><a href=\"/notes/systems/technology/loadout-valuation/\">Prices and Value</a></li>\n<li><a href=\"/notes/systems/technology/loadout-sales-and-lifecycle/\">Sales and Lifecycle</a></li>\n<li><a href=\"/notes/systems/technology/loadout-wishlist/\">Loadout Wishlist</a></li>\n</ul>\n<h3 id=\"boards-and-library\">Boards and Library<a class=\"heading-anchor\" href=\"#boards-and-library\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/media-and-culture/media-board/\">Media Board</a></li>\n<li><a href=\"/notes/library/lifestyle/wishlist-board/\">Wishlist Board</a></li>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></li>\n<li><a href=\"/notes/library/learning/books/\">Books and Reading</a></li>\n</ul>\n<h3 id=\"vault-workflow\">Vault Workflow<a class=\"heading-anchor\" href=\"#vault-workflow\">#</a></h3>\n<ul>\n<li>Plugin Workflow Guide — capture, templates, metadata, and search</li>\n<li>Session Capture Workflow — dated notes, Notes sections, and the automatic daily backstop</li>\n<li>Templater Templates — deliberate canonical-note creation</li>\n<li>Fileclass Schemas — typed frontmatter pilot</li>\n<li>Vault Growth Guide — how capture, processing, reflection, and retrieval fit together</li>\n<li>Question Workflow — guided reflection and routing rules</li>\n</ul>\n<h2 id=\"projects\">Projects<a class=\"heading-anchor\" href=\"#projects\">#</a></h2>\n<ul>\n<li>Project Portfolio — active and planned work</li>\n<li><a href=\"/notes/projects/projects/vault-refactor-and-self-management/\">Vault</a> — refactor &amp; self-management (active)</li>\n<li><a href=\"/notes/projects/projects/homelab/\">Homelab</a></li>\n<li><a href=\"/notes/projects/projects/obsidian-rag-assistant/\">Obsidian RAG Assistant</a></li>\n<li><a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></li>\n<li><a href=\"/notes/projects/projects/electronics-workbench/\">Electronics Workbench</a></li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n<h2 id=\"areas\">Areas<a class=\"heading-anchor\" href=\"#areas\">#</a></h2>\n<h3 id=\"technology\">Technology<a class=\"heading-anchor\" href=\"#technology\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/technology/technology/\">Technology Area</a></li>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></li>\n</ul>\n<h3 id=\"audio\">Audio<a class=\"heading-anchor\" href=\"#audio\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/audio/audio-area/\">Audio Area</a></li>\n</ul>\n<h3 id=\"education-and-career\">Education and Career<a class=\"heading-anchor\" href=\"#education-and-career\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/education/school/\">School</a></li>\n<li><a href=\"/notes/interests/education/career-and-interview-prep/\">Career and Interview Prep</a></li>\n</ul>\n<h3 id=\"creative-work\">Creative Work<a class=\"heading-anchor\" href=\"#creative-work\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/creative-work/creative-work/\">Creative Work</a></li>\n</ul>\n<h3 id=\"personal-development\">Personal Development<a class=\"heading-anchor\" href=\"#personal-development\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/personal-development/personal-development/\">Personal Development</a></li>\n</ul>\n<h3 id=\"philosophy\">Philosophy<a class=\"heading-anchor\" href=\"#philosophy\">#</a></h3>\n<ul>\n<li><a href=\"/notes/interests/philosophy/personal-philosophy/\">Personal Philosophy</a></li>\n</ul>\n<h2 id=\"resources-and-library\">Resources and Library<a class=\"heading-anchor\" href=\"#resources-and-library\">#</a></h2>\n<h3 id=\"learning\">Learning<a class=\"heading-anchor\" href=\"#learning\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/learning/books/\">Books</a></li>\n<li><a href=\"/notes/library/learning/math/\">Math</a></li>\n<li><a href=\"/notes/library/learning/religions/\">Religions</a></li>\n</ul>\n<h3 id=\"media-and-culture\">Media and Culture<a class=\"heading-anchor\" href=\"#media-and-culture\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/media-and-culture/media/\">Media Hub</a></li>\n<li><a href=\"/notes/library/media-and-culture/video-games/\">Video Games</a></li>\n<li><a href=\"/notes/library/media-and-culture/tv/\">TV</a></li>\n<li><a href=\"/notes/library/media-and-culture/pokemon/\">Pokemon</a></li>\n<li><a href=\"/notes/library/media-and-culture/social-media/\">Social Media</a></li>\n</ul>\n<h3 id=\"technology-1\">Technology<a class=\"heading-anchor\" href=\"#technology-1\">#</a></h3>\n<ul>\n<li><a href=\"/notes/systems/technology/computer-science/\">Computer Science</a></li>\n<li><a href=\"/notes/library/technology/software-engineering/\">Software Engineering</a></li>\n</ul>\n<h3 id=\"audio-1\">Audio<a class=\"heading-anchor\" href=\"#audio-1\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a></li>\n<li><a href=\"/notes/library/audio/music/\">Music</a></li>\n</ul>\n<h3 id=\"lifestyle\">Lifestyle<a class=\"heading-anchor\" href=\"#lifestyle\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/lifestyle/lifestyle-wishlist/\">Lifestyle Wishlist</a></li>\n<li><a href=\"/notes/library/lifestyle/shopping/\">Shopping</a></li>\n<li><a href=\"/notes/systems/lifestyle/computer-accessories/\">Computer Accessories</a></li>\n</ul>\n<h3 id=\"philosophy-and-photography\">Philosophy and Photography<a class=\"heading-anchor\" href=\"#philosophy-and-photography\">#</a></h3>\n<ul>\n<li><a href=\"/notes/library/philosophy/philosophy-dictionary/\">Philosophy Dictionary</a></li>\n<li><a href=\"/notes/library/photography/cameras/\">Cameras</a></li>\n</ul>\n<h2 id=\"personal-systems\">Personal Systems<a class=\"heading-anchor\" href=\"#personal-systems\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/media-and-culture/currently-playing/\">Game Tracker</a></li>\n<li><a href=\"/notes/systems/media-and-culture/movies-and-tv-tracker/\">Movies and TV Tracker</a></li>\n</ul>\n<h2 id=\"system-and-history\">System and History<a class=\"heading-anchor\" href=\"#system-and-history\">#</a></h2>\n<ul>\n<li>Vault Health</li>\n<li>Migration Ledger</li>\n<li>Archive Index</li>\n<li>Vault Agent Governance</li>\n<li>Codex Vault Instructions</li>\n</ul>\n",
+      "text": "Home The stable starting point for the vault. Use Vault Dashboard for changing work and queues; this page is for navigation. Quick Access Work Vault Dashboard Project Portfolio Grouped Task Dashboard Someday Projects Capture and Review Inbox Latest Review Product Information Gaps Hermes Operations Session Journal Loadout Loadout Hub Inventory Prices and Value Sales and Lifecycle Loadout Wishlist Boards and Library Media Board Wishlist Board Media Hub Books and Reading Vault Workflow Plugin Workflow Guide — capture, templates, metadata, and search Session Capture Workflow — dated notes, Notes sections, and the automatic daily backstop Templater Templates — deliberate canonical note creation Fileclass Schemas — typed frontmatter pilot Vault Growth Guide — how capture, processing, reflection, and retrieval fit together Question Workflow — guided reflection and routing rules Projects Project Portfolio — active and planned work Vault — refactor & self management (active) Homelab Obsidian RAG Assistant Personal Website Electronics Workbench Someday Projects Areas Technology Technology Area Loadout Audio Audio Area Education and Career School Career and Interview Prep Creative Work Creative Work Personal Development Personal Development Philosophy Personal Philosophy Resources and Library Learning Books Math Religions Media and Culture Media Hub Video Games TV Pokemon Social Media Technology Computer Science Software Engineering Audio Audio Concepts Music Lifestyle Lifestyle Wishlist Shopping Computer Accessories Philosophy and Photography Philosophy Dictionary Cameras Personal Systems Game Tracker Movies and TV Tracker System and History Vault Health Migration Ledger Archive Index Vault Agent Governance Codex Vault Instructions",
       "section": "about",
       "topic": "About",
       "status": "active",
@@ -6913,6 +6913,7 @@
         "library/lifestyle/wishlist-board",
         "library/media-and-culture/media",
         "library/learning/books",
+        "projects/projects/vault-refactor-and-self-management",
         "projects/projects/homelab",
         "projects/projects/obsidian-rag-assistant",
         "projects/projects/personal-website",
@@ -17586,6 +17587,69 @@
       ]
     },
     {
+      "id": "9ca620f2ecba",
+      "slug": "projects/projects/vault-refactor-and-self-management",
+      "title": "Vault (Refactor & Self-Management)",
+      "summary": "Refactor the vault into a skills-first, self-managing, archive-free knowledge base — audit done, execution in progress.",
+      "html": "<h1>Vault (Refactor &amp; Self-Management)</h1>\n<p>Treating the vault itself as a first-class project: a finite, directed effort to make it skills-first, functionally correct, self-sustaining, and structurally replicatable from its agent files.</p>\n<h2 id=\"goal\">Goal<a class=\"heading-anchor\" href=\"#goal\">#</a></h2>\n<p>A vault that:</p>\n<ul>\n<li><strong>Works in Obsidian today</strong> — plugin stack installed, <code>.base</code> embeds + kanban + Templater rendering</li>\n<li><strong>Never needs archives</strong> — git history + verified zips are the safety net; the note tree holds only live knowledge</li>\n<li><strong>Runs itself</strong> — skills, cron jobs, and agent files all agree with the current structure; no stale paths</li>\n<li><strong>Is replicatable</strong> — structure fully specified by the agent md files (root + Hermes + Loadout AGENTS.md)</li>\n<li><strong>Matches the vision</strong> — one-off explorations live only in Someday Projects; Notion fully disconnected</li>\n</ul>\n<h2 id=\"current-state-2026-08-07\">Current State (2026-08-07)<a class=\"heading-anchor\" href=\"#current-state-2026-08-07\">#</a></h2>\n<ul>\n<li><strong>Audit complete</strong> → Vault Audit Report 2026-08-07 (1,281 notes, 72% archives, plugin stack missing, 12 stale skills, 2 cron contradictions)</li>\n<li><strong>Phase 0 done</strong> — plugin stack restored to live vault (fileclass, obsidian-kanban, omnisearch, quickadd, templater-obsidian) + <code>community-plugins.json</code></li>\n<li><strong>Phase 1 done</strong> — live vault connected to git remote <code>Ayumad/ayumad.vault</code> (private); all 4 recovery zips recovered + verified (<code>unzip -t</code> clean); 2 commits pushed (<code>b7c926b</code>, <code>c8f1962</code>); repo at 1,588 files</li>\n<li>Git history now the archive; <code>05 Archive/</code> holds only index + superseded records + the recovery zips</li>\n</ul>\n<h2 id=\"phase-checklist\">Phase Checklist<a class=\"heading-anchor\" href=\"#phase-checklist\">#</a></h2>\n<ul>\n<li> <strong>Phase 0 — Restore functionality</strong>: plugins installed; cron fixes pending (Ayumad.me Monitor, Hermes Sentinel, Session Journal delivery) ^task-vault-phase-0-plugins</li>\n<li> <strong>Phase 1 — Git + zip recovery</strong>: wired to <code>Ayumad/ayumad.vault</code>, zips verified ^task-vault-phase-1-git</li>\n<li> <strong>Phase 2 — Make archives deletable</strong>: verify manifest coverage, close gaps (MOCs, Active Projects, Loadout hubs), retire one-off projects, then delete the 3 snapshot trees ^task-vault-phase-2-archives</li>\n<li> <strong>Phase 3 — Patch stale skills</strong>: fix 12 skill files referencing pre-refactor paths; add stale-token check to self-management loop ^task-vault-phase-3-skills</li>\n<li> <strong>Phase 4 — Clean edges</strong>: remove empty dirs, fix <code>journal_calendar.py</code> (kills 44 validator false-positives), retire <code>Product Note Migration Report.md</code>, Notion teardown (2 cron jobs + sync script) ^task-vault-phase-4-cleanup</li>\n<li> <strong>Phase 5 — Validate</strong>: re-run validator → target 0 unresolved, 0 errors; confirm replicatability from agent files ^task-vault-phase-5-validate</li>\n</ul>\n<h2 id=\"next-steps\">Next Steps<a class=\"heading-anchor\" href=\"#next-steps\">#</a></h2>\n<ul>\n<li> Fix Ayumad.me Monitor + Hermes Sentinel cron errors (investigate logs) ^task-vault-cron-errors</li>\n<li> Fix Session Journal delivery target (<code>webui</code> → <code>origin</code>/<code>telegram</code>) ^task-vault-cron-delivery</li>\n<li> Run Phase 2 coverage verification (165 legacy files → manifest destinations) ^task-vault-phase2-verify</li>\n<li> Create missing MOCs (<code>99 System/MOCs/</code>) + <code>Active Projects.md</code> + Loadout hubs from legacy content ^task-vault-gaps</li>\n</ul>\n<h2 id=\"open-questions\">Open Questions<a class=\"heading-anchor\" href=\"#open-questions\">#</a></h2>\n<ul>\n<li>Does the Quartz publishing shell (ayumad.github.io/ayumad.vault) stay in the main repo or move to its own branch? (Doesn't affect backup function either way.)</li>\n</ul>\n<h2 id=\"related\">Related<a class=\"heading-anchor\" href=\"#related\">#</a></h2>\n<ul>\n<li>Vault Audit Report</li>\n<li>Root Agent Governance (Replication Spec section)</li>\n<li>Hermes Agent Instructions</li>\n<li>Hermes Operations Queue</li>\n<li>Session Log</li>\n<li>Archive Cleanup Record</li>\n</ul>\n",
+      "text": "Vault (Refactor & Self Management) Treating the vault itself as a first class project: a finite, directed effort to make it skills first, functionally correct, self sustaining, and structurally replicatable from its agent files. Goal A vault that: Works in Obsidian today — plugin stack installed, .base embeds + kanban + Templater rendering Never needs archives — git history + verified zips are the safety net; the note tree holds only live knowledge Runs itself — skills, cron jobs, and agent files all agree with the current structure; no stale paths Is replicatable — structure fully specified by the agent md files (root + Hermes + Loadout AGENTS.md) Matches the vision — one off explorations live only in Someday Projects; Notion fully disconnected Current State (2026 08 07) Audit complete → Vault Audit Report 2026 08 07 (1,281 notes, 72% archives, plugin stack missing, 12 stale skills, 2 cron contradictions) Phase 0 done — plugin stack restored to live vault (fileclass, obsidian kanban, omnisearch, quickadd, templater obsidian) + community plugins.json Phase 1 done — live vault connected to git remote Ayumad/ayumad.vault (private); all 4 recovery zips recovered + verified ( unzip t clean); 2 commits pushed ( b7c926b , c8f1962 ); repo at 1,588 files Git history now the archive; 05 Archive/ holds only index + superseded records + the recovery zips Phase Checklist [x] Phase 0 — Restore functionality : plugins installed; cron fixes pending (Ayumad.me Monitor, Hermes Sentinel, Session Journal delivery) ^task vault phase 0 plugins [x] Phase 1 — Git + zip recovery : wired to Ayumad/ayumad.vault , zips verified ^task vault phase 1 git [ ] Phase 2 — Make archives deletable : verify manifest coverage, close gaps (MOCs, Active Projects, Loadout hubs), retire one off projects, then delete the 3 snapshot trees ^task vault phase 2 archives [ ] Phase 3 — Patch stale skills : fix 12 skill files referencing pre refactor paths; add stale token check to self management loop ^task vault phase 3 skills [ ] Phase 4 — Clean edges : remove empty dirs, fix journal calendar.py (kills 44 validator false positives), retire Product Note Migration Report.md , Notion teardown (2 cron jobs + sync script) ^task vault phase 4 cleanup [ ] Phase 5 — Validate : re run validator → target 0 unresolved, 0 errors; confirm replicatability from agent files ^task vault phase 5 validate Next Steps [ ] Fix Ayumad.me Monitor + Hermes Sentinel cron errors (investigate logs) ^task vault cron errors [ ] Fix Session Journal delivery target ( webui → origin / telegram ) ^task vault cron delivery [ ] Run Phase 2 coverage verification (165 legacy files → manifest destinations) ^task vault phase2 verify [ ] Create missing MOCs ( 99 System/MOCs/ ) + Active Projects.md + Loadout hubs from legacy content ^task vault gaps Open Questions Does the Quartz publishing shell (ayumad.github.io/ayumad.vault) stay in the main repo or move to its own branch? (Doesn't affect backup function either way.) Related Vault Audit Report Root Agent Governance (Replication Spec section) Hermes Agent Instructions Hermes Operations Queue Session Log Archive Cleanup Record",
+      "section": "projects",
+      "topic": "Projects",
+      "status": "active",
+      "created": "2026-08-07",
+      "updated": "2026-08-07",
+      "tags": [
+        "project",
+        "vault",
+        "obsidian",
+        "refactor",
+        "self-management"
+      ],
+      "aliases": [
+        "Vault Refactor",
+        "Vault Project",
+        "Vault Self-Management"
+      ],
+      "sourcePath": "02 Projects/Vault.md",
+      "readingMinutes": 3,
+      "links": [],
+      "backlinks": [
+        "about/about/home"
+      ],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "Goal",
+          "id": "goal"
+        },
+        {
+          "depth": 2,
+          "text": "Current State (2026 08 07)",
+          "id": "current-state-2026-08-07"
+        },
+        {
+          "depth": 2,
+          "text": "Phase Checklist",
+          "id": "phase-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Next Steps",
+          "id": "next-steps"
+        },
+        {
+          "depth": 2,
+          "text": "Open Questions",
+          "id": "open-questions"
+        },
+        {
+          "depth": 2,
+          "text": "Related",
+          "id": "related"
+        }
+      ]
+    },
+    {
       "id": "71aff2baba40",
       "slug": "library/media-and-culture/video",
       "title": "Video",
@@ -18575,6 +18639,7 @@
         "294e331cee03",
         "cbccede1b9d2",
         "3eb19cc515cf",
+        "9ca620f2ecba",
         "477c26bd737e"
       ]
     },
@@ -18740,9 +18805,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T13:27:36.633Z",
-    "sourceCount": 1282,
-    "publishedCount": 214,
+    "generatedAt": "2026-08-07T13:31:53.081Z",
+    "sourceCount": 1283,
+    "publishedCount": 215,
     "skippedCount": 1068,
     "duplicateCount": 0,
     "brokenLinks": [
@@ -18801,6 +18866,30 @@
       {
         "source": "02 Projects/Someday Projects.md",
         "target": "05 Archive/2026-08-05 Vault-Wide Refactor Snapshot/Superseded Active Notes/90 Operations/Hermes/Project Materials/NixOS — Panasonic Let's Note SV1"
+      },
+      {
+        "source": "02 Projects/Vault.md",
+        "target": "99 System/Reports/Vault Audit Report 2026-08-07"
+      },
+      {
+        "source": "02 Projects/Vault.md",
+        "target": "AGENTS"
+      },
+      {
+        "source": "02 Projects/Vault.md",
+        "target": "90 Operations/Hermes/AGENTS"
+      },
+      {
+        "source": "02 Projects/Vault.md",
+        "target": "90 Operations/Hermes/Hermes Operations Queue"
+      },
+      {
+        "source": "02 Projects/Vault.md",
+        "target": "90 Operations/Hermes/Session Summaries/Session Log"
+      },
+      {
+        "source": "02 Projects/Vault.md",
+        "target": "05 Archive/Archive Cleanup Record"
       },
       {
         "source": "03 Areas/Audio/Audio Area.md",
