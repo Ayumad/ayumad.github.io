@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T13:54:49.133Z",
+  "generatedAt": "2026-08-07T13:55:19.592Z",
   "sourceCount": 1288,
-  "publishedCount": 215,
-  "skippedCount": 1073,
+  "publishedCount": 213,
+  "skippedCount": 1075,
   "duplicateCount": 0,
   "brokenLinks": [
     {
@@ -88,6 +88,10 @@
     {
       "source": "03 Areas/Audio/Audio Area.md",
       "target": "99 System/Preferences and Taste"
+    },
+    {
+      "source": "03 Areas/Audio/Audio Area.md",
+      "target": "02 Projects/Audio and AI 30-Day Journey"
     },
     {
       "source": "03 Areas/Creative Work/Creative Work.md",
@@ -3941,6 +3945,14 @@
     },
     {
       "source": "05 Archive/README.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Retired Projects/Audio and AI 30-Day Journey.md",
+      "reason": "internal 05 Archive material"
+    },
+    {
+      "source": "05 Archive/Retired Projects/NES Emulator.md",
       "reason": "internal 05 Archive material"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:54:49.133Z",
+  "generatedAt": "2026-08-07T13:55:19.592Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -2853,60 +2853,11 @@
       "headings": []
     },
     {
-      "id": "1d885674a313",
-      "slug": "projects/projects/audio-and-ai-30-day-journey",
-      "title": "Audio and AI 30-Day Journey",
-      "summary": "Thirty-day practice plan combining EQ, critical listening, speaker evaluation, and local AI experimentation.",
-      "html": "<h1>Audio and AI 30-Day Journey</h1>\n<h2 id=\"goal\">Goal<a class=\"heading-anchor\" href=\"#goal\">#</a></h2>\n<p>Develop critical listening and EQ skills while building practical familiarity with local model and GPU workflows.</p>\n<h2 id=\"current-state\">Current State<a class=\"heading-anchor\" href=\"#current-state\">#</a></h2>\n<p>The legacy checklist is preserved but contains hardware and model references that require review before restarting. No completion evidence was found, so the project is paused rather than marked complete.</p>\n<h2 id=\"next-steps\">Next Steps<a class=\"heading-anchor\" href=\"#next-steps\">#</a></h2>\n<ul>\n<li> Review and update the 30-day sequence. ^task-audio-and-ai-30-day-journey-26</li>\n<li> Confirm currently available audio and GPU hardware. ^task-audio-and-ai-30-day-journey-27</li>\n<li> Restart with dated daily-note evidence if the challenge remains useful. ^task-audio-and-ai-30-day-journey-28</li>\n</ul>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li>Original 30-day checklist</li>\n</ul>\n",
-      "text": "Audio and AI 30 Day Journey Goal Develop critical listening and EQ skills while building practical familiarity with local model and GPU workflows. Current State The legacy checklist is preserved but contains hardware and model references that require review before restarting. No completion evidence was found, so the project is paused rather than marked complete. Next Steps [ ] Review and update the 30 day sequence. ^task audio and ai 30 day journey 26 [ ] Confirm currently available audio and GPU hardware. ^task audio and ai 30 day journey 27 [ ] Restart with dated daily note evidence if the challenge remains useful. ^task audio and ai 30 day journey 28 Sources Original 30 day checklist",
-      "section": "projects",
-      "topic": "Projects",
-      "status": "paused",
-      "created": "2026-06-22",
-      "updated": "2026-08-05",
-      "tags": [
-        "project",
-        "audio",
-        "local-ai"
-      ],
-      "aliases": [
-        "30-Day Audiophile and AI Journey"
-      ],
-      "sourcePath": "02 Projects/Audio and AI 30-Day Journey.md",
-      "readingMinutes": 1,
-      "links": [],
-      "backlinks": [
-        "interests/audio/audio-area"
-      ],
-      "headings": [
-        {
-          "depth": 2,
-          "text": "Goal",
-          "id": "goal"
-        },
-        {
-          "depth": 2,
-          "text": "Current State",
-          "id": "current-state"
-        },
-        {
-          "depth": 2,
-          "text": "Next Steps",
-          "id": "next-steps"
-        },
-        {
-          "depth": 2,
-          "text": "Sources",
-          "id": "sources"
-        }
-      ]
-    },
-    {
       "id": "ba09f8173ead",
       "slug": "interests/audio/audio-area",
       "title": "Audio Area",
       "summary": "Ongoing audio practice connecting listening preferences, equipment, room systems, music, and technical experimentation.",
-      "html": "<h1>Audio Area</h1>\n<h2 id=\"current-state\">Current State<a class=\"heading-anchor\" href=\"#current-state\">#</a></h2>\n<p>Audio connects critical and emotional listening with headphones, IEMs, speakers, subwoofers, DACs, amplifiers, EQ, room behavior, cymatics, and music technology.</p>\n<h2 id=\"preferences\">Preferences<a class=\"heading-anchor\" href=\"#preferences\">#</a></h2>\n<p>The current profile evidence points toward warmer tuning with deep sub-bass, evaluated alongside soundstage, detail, presentation, comfort, and complete-chain synergy. See Preferences and Taste.</p>\n<h2 id=\"inventory\">Inventory<a class=\"heading-anchor\" href=\"#inventory\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></li>\n<li>Headphones</li>\n<li>IEMs and Earbuds</li>\n<li>DACs and Amplifiers</li>\n<li>Speakers and Receivers</li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/interests/audio/audio-area/\">Audio Area</a></li>\n<li><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a></li>\n<li><a href=\"/notes/library/audio/music/\">Music</a></li>\n<li><a href=\"/notes/systems/audio/loadout-audio-history/\">Loadout Audio History</a></li>\n<li><a href=\"/notes/projects/projects/audio-and-ai-30-day-journey/\">Audio and AI 30-Day Journey</a></li>\n</ul>\n",
+      "html": "<h1>Audio Area</h1>\n<h2 id=\"current-state\">Current State<a class=\"heading-anchor\" href=\"#current-state\">#</a></h2>\n<p>Audio connects critical and emotional listening with headphones, IEMs, speakers, subwoofers, DACs, amplifiers, EQ, room behavior, cymatics, and music technology.</p>\n<h2 id=\"preferences\">Preferences<a class=\"heading-anchor\" href=\"#preferences\">#</a></h2>\n<p>The current profile evidence points toward warmer tuning with deep sub-bass, evaluated alongside soundstage, detail, presentation, comfort, and complete-chain synergy. See Preferences and Taste.</p>\n<h2 id=\"inventory\">Inventory<a class=\"heading-anchor\" href=\"#inventory\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></li>\n<li>Headphones</li>\n<li>IEMs and Earbuds</li>\n<li>DACs and Amplifiers</li>\n<li>Speakers and Receivers</li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/interests/audio/audio-area/\">Audio Area</a></li>\n<li><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a></li>\n<li><a href=\"/notes/library/audio/music/\">Music</a></li>\n<li><a href=\"/notes/systems/audio/loadout-audio-history/\">Loadout Audio History</a></li>\n<li>Audio and AI 30-Day Journey</li>\n</ul>\n",
       "text": "Audio Area Current State Audio connects critical and emotional listening with headphones, IEMs, speakers, subwoofers, DACs, amplifiers, EQ, room behavior, cymatics, and music technology. Preferences The current profile evidence points toward warmer tuning with deep sub bass, evaluated alongside soundstage, detail, presentation, comfort, and complete chain synergy. See Preferences and Taste. Inventory Loadout Headphones IEMs and Earbuds DACs and Amplifiers Speakers and Receivers Related Notes Audio Area Audio Concepts Music Loadout Audio History Audio and AI 30 Day Journey",
       "section": "interests",
       "topic": "Audio",
@@ -2927,8 +2878,7 @@
         "interests/audio/audio-area",
         "library/audio/audio-concepts",
         "library/audio/music",
-        "systems/audio/loadout-audio-history",
-        "projects/projects/audio-and-ai-30-day-journey"
+        "systems/audio/loadout-audio-history"
       ],
       "backlinks": [
         "projects/projects/personal-website",
@@ -6949,7 +6899,6 @@
       ],
       "backlinks": [
         "projects/projects/homelab",
-        "projects/projects/nes-emulator",
         "projects/projects/obsidian-rag-assistant",
         "projects/projects/personal-website",
         "projects/projects/voice-assistant",
@@ -11719,129 +11668,6 @@
       ]
     },
     {
-      "id": "eeea257757ce",
-      "slug": "projects/projects/nes-emulator",
-      "title": "NES Emulator",
-      "summary": "Legacy project seed for creating or studying an NES emulator; requirements and current state remain undefined.",
-      "html": "<h1>NES Emulator</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> | Roadmap: <a href=\"/notes/projects/projects/nes-emulator/#roadmap-nes-emulator\">Roadmap — NES Emulator</a></p>\n<h2 id=\"status--needs-decision\">Status: ⚫ Needs Decision<a class=\"heading-anchor\" href=\"#status--needs-decision\">#</a></h2>\n<p>This project was mentioned in the legacy vault but has no implementation details.</p>\n<h2 id=\"open-questions\">Open Questions<a class=\"heading-anchor\" href=\"#open-questions\">#</a></h2>\n<ul>\n<li> Is this still an active goal? ^task-nes-emulator-23</li>\n<li> Implementation (build one) or study (learn how they work)? ^task-nes-emulator-24</li>\n<li> Which language? (Rust, C, Python, JavaScript?) ^task-nes-emulator-25</li>\n<li> Target platform? (Web, desktop, embedded?) ^task-nes-emulator-26</li>\n</ul>\n<h2 id=\"if-active--suggested-direction\">If Active — Suggested Direction<a class=\"heading-anchor\" href=\"#if-active--suggested-direction\">#</a></h2>\n<ul>\n<li><strong>Language:</strong> Rust (great for emulation, growing ecosystem)</li>\n<li><strong>Goal:</strong> CPU (6502) → PPU → APU → mappers</li>\n<li><strong>Timeline:</strong> 40–80 hours part-time (2–4 months)</li>\n<li><strong>Portfolio piece</strong> for <a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/nes-emulator/#roadmap-nes-emulator\">Roadmap — NES Emulator</a></li>\n<li><a href=\"/notes/projects/projects/personal-website/\">Personal Website</a> — could showcase this project</li>\n</ul>\n<h2 id=\"migrated-detailed-roadmap--roadmap--nes-emulator\">Migrated Detailed Roadmap — Roadmap — NES Emulator<a class=\"heading-anchor\" href=\"#migrated-detailed-roadmap--roadmap--nes-emulator\">#</a></h2>\n<blockquote>\n<p>Migrated from <code>02 Projects/NES Emulator.md</code> during the 2026-08-05 vault refactor.\nTasks in this section are now owned by this canonical note; the source is archived for provenance.</p>\n</blockquote>\n<h3 id=\"roadmap--nes-emulator\">Roadmap — NES Emulator<a class=\"heading-anchor\" href=\"#roadmap--nes-emulator\">#</a></h3>\n<p>Home: <a href=\"/notes/about/about/home/\">Project Index</a> | Vault: <a href=\"/notes/projects/projects/nes-emulator/\">NES Emulator</a></p>\n<p><strong>Total estimated effort:</strong> 40–80 hours (if building) | 10–20 hours (if studying)</p>\n<h2 id=\"status--needs-decision-1\">Status: ⚫ Needs Decision<a class=\"heading-anchor\" href=\"#status--needs-decision-1\">#</a></h2>\n<p>No implementation details in legacy vault. Need answers before roadmap can be finalized.</p>\n<h2 id=\"open-questions-1\">Open Questions<a class=\"heading-anchor\" href=\"#open-questions-1\">#</a></h2>\n<ul>\n<li> Is this still an active goal? ^task-roadmap-nes-emulator-27</li>\n<li> Implementation (build one) or study (learn how they work)? ^task-roadmap-nes-emulator-28</li>\n<li> Which language? (Rust, C, Python, JavaScript?) ^task-roadmap-nes-emulator-29</li>\n<li> Target platform? (Web, desktop, embedded?) ^task-roadmap-nes-emulator-30</li>\n</ul>\n<hr />\n<h2 id=\"if-building--suggested-roadmap\">If Building — Suggested Roadmap<a class=\"heading-anchor\" href=\"#if-building--suggested-roadmap\">#</a></h2>\n<p><strong>Language:</strong> Rust (great for emulation, growing ecosystem, portfolio-worthy)\n<strong>Target:</strong> Desktop app or WebAssembly in browser</p>\n<h3 id=\"phase-1-learn-the-nes\">Phase 1: Learn the NES<a class=\"heading-anchor\" href=\"#phase-1-learn-the-nes\">#</a></h3>\n<p><strong>Effort:</strong> ~10–15 hours</p>\n<ul>\n<li> Study NES architecture (6502 CPU, PPU, APU, mappers) — <strong>5–8h</strong> ^task-roadmap-nes-emulator-41</li>\n<li> Read <a href=\"https://www.nesdev.org/wiki/Nesdev_Wiki\">NES Dev Wiki</a> — <strong>3–5h</strong> ^task-roadmap-nes-emulator-42</li>\n<li> Study existing emulator source code — <strong>2–3h</strong> ^task-roadmap-nes-emulator-43</li>\n</ul>\n<h3 id=\"phase-2-cpu-6502\">Phase 2: CPU (6502)<a class=\"heading-anchor\" href=\"#phase-2-cpu-6502\">#</a></h3>\n<p><strong>Effort:</strong> ~10–15 hours</p>\n<ul>\n<li> Implement 6502 instruction set — <strong>6–10h</strong> ^task-roadmap-nes-emulator-47</li>\n<li> Implement addressing modes — <strong>3–5h</strong> ^task-roadmap-nes-emulator-48</li>\n<li> Test with test ROMs — <strong>1–2h</strong> ^task-roadmap-nes-emulator-49</li>\n</ul>\n<h3 id=\"phase-3-ppu-graphics\">Phase 3: PPU (Graphics)<a class=\"heading-anchor\" href=\"#phase-3-ppu-graphics\">#</a></h3>\n<p><strong>Effort:</strong> ~15–25 hours</p>\n<ul>\n<li> Implement PPU rendering pipeline — <strong>8–12h</strong> ^task-roadmap-nes-emulator-53</li>\n<li> Sprite rendering — <strong>4–6h</strong> ^task-roadmap-nes-emulator-54</li>\n<li> Scrolling and nametable handling — <strong>3–5h</strong> ^task-roadmap-nes-emulator-55</li>\n<li> Test with real game ROMs — <strong>2h</strong> ^task-roadmap-nes-emulator-56</li>\n</ul>\n<h3 id=\"phase-4-apu-audio\">Phase 4: APU (Audio)<a class=\"heading-anchor\" href=\"#phase-4-apu-audio\">#</a></h3>\n<p><strong>Effort:</strong> ~5–10 hours</p>\n<ul>\n<li> Implement 5 audio channels — <strong>3–5h</strong> ^task-roadmap-nes-emulator-60</li>\n<li> Mixing and output — <strong>2–3h</strong> ^task-roadmap-nes-emulator-61</li>\n</ul>\n<h3 id=\"phase-5-mappers--polish\">Phase 5: Mappers + Polish<a class=\"heading-anchor\" href=\"#phase-5-mappers--polish\">#</a></h3>\n<p><strong>Effort:</strong> ~10–15 hours</p>\n<ul>\n<li> Implement common mappers (NROM, MMC1, MMC3) — <strong>6–10h</strong> ^task-roadmap-nes-emulator-65</li>\n<li> Controller input — <strong>1–2h</strong> ^task-roadmap-nes-emulator-66</li>\n<li> Save states — <strong>2–3h</strong> ^task-roadmap-nes-emulator-67</li>\n</ul>\n<h3 id=\"phase-6-showcase\">Phase 6: Showcase<a class=\"heading-anchor\" href=\"#phase-6-showcase\">#</a></h3>\n<p><strong>Effort:</strong> ~5 hours</p>\n<ul>\n<li> Write dev log for <a href=\"/notes/projects/projects/personal-website/\">Personal Website</a> — <strong>3h</strong> ^task-roadmap-nes-emulator-71</li>\n<li> Record gameplay footage — <strong>1h</strong> ^task-roadmap-nes-emulator-72</li>\n<li> Publish to website — <strong>1h</strong> ^task-roadmap-nes-emulator-73</li>\n</ul>\n<hr />\n<h2 id=\"if-studying-not-building\">If Studying (Not Building)<a class=\"heading-anchor\" href=\"#if-studying-not-building\">#</a></h2>\n<p><strong>Effort:</strong> ~10–20 hours</p>\n<ul>\n<li> Read NES Dev Wiki thoroughly — <strong>5–8h</strong> ^task-roadmap-nes-emulator-79</li>\n<li> Study 2–3 existing emulator codebases — <strong>5–8h</strong> ^task-roadmap-nes-emulator-80</li>\n<li> Write up learnings in Obsidian — <strong>2–4h</strong> ^task-roadmap-nes-emulator-81</li>\n<li> Create a \"How NES Emulation Works\" note for vault — <strong>2h</strong> ^task-roadmap-nes-emulator-82</li>\n</ul>\n<hr />\n<h2 id=\"key-decisions-made\">Key Decisions Made<a class=\"heading-anchor\" href=\"#key-decisions-made\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Decision</th>\n<th>Date</th>\n<th>Rationale</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Needs clarification</td>\n<td>2026-06-22</td>\n<td>No details in legacy vault</td>\n</tr>\n<tr>\n<td>Rust recommended</td>\n<td>2026-06-22</td>\n<td>Best for emulation, portfolio value</td>\n</tr>\n</tbody></table>\n",
-      "text": "NES Emulator Home: Home Roadmap: Roadmap — NES Emulator Status: ⚫ Needs Decision This project was mentioned in the legacy vault but has no implementation details. Open Questions [ ] Is this still an active goal? ^task nes emulator 23 [ ] Implementation (build one) or study (learn how they work)? ^task nes emulator 24 [ ] Which language? (Rust, C, Python, JavaScript?) ^task nes emulator 25 [ ] Target platform? (Web, desktop, embedded?) ^task nes emulator 26 If Active — Suggested Direction Language: Rust (great for emulation, growing ecosystem) Goal: CPU (6502) → PPU → APU → mappers Timeline: 40–80 hours part time (2–4 months) Portfolio piece for Personal Website Related Notes Roadmap — NES Emulator Personal Website — could showcase this project Migrated Detailed Roadmap — Roadmap — NES Emulator Migrated from 02 Projects/NES Emulator.md during the 2026 08 05 vault refactor. Tasks in this section are now owned by this canonical note; the source is archived for provenance. Roadmap — NES Emulator Home: Project Index Vault: NES Emulator Total estimated effort: 40–80 hours (if building) 10–20 hours (if studying) Status: ⚫ Needs Decision No implementation details in legacy vault. Need answers before roadmap can be finalized. Open Questions [ ] Is this still an active goal? ^task roadmap nes emulator 27 [ ] Implementation (build one) or study (learn how they work)? ^task roadmap nes emulator 28 [ ] Which language? (Rust, C, Python, JavaScript?) ^task roadmap nes emulator 29 [ ] Target platform? (Web, desktop, embedded?) ^task roadmap nes emulator 30 If Studying (Not Building) Effort: 10–20 hours [ ] Read NES Dev Wiki thoroughly — 5–8h ^task roadmap nes emulator 79 [ ] Study 2–3 existing emulator codebases — 5–8h ^task roadmap nes emulator 80 [ ] Write up learnings in Obsidian — 2–4h ^task roadmap nes emulator 81 [ ] Create a \"How NES Emulation Works\" note for vault — 2h ^task roadmap nes emulator 82 Key Decisions Made Decision Date Rationale Needs clarification 2026 06 22 No details in legacy vault Rust recommended 2026 06 22 Best for emulation, portfolio value",
-      "section": "projects",
-      "topic": "Projects",
-      "status": "paused",
-      "created": "2026-06-22",
-      "updated": "2026-08-05",
-      "tags": [
-        "project",
-        "emulation",
-        "programming"
-      ],
-      "aliases": [
-        "NES emulator"
-      ],
-      "sourcePath": "02 Projects/NES Emulator.md",
-      "readingMinutes": 2,
-      "links": [
-        "about/about/home",
-        "projects/projects/nes-emulator",
-        "projects/projects/personal-website",
-        "projects/projects/nes-emulator",
-        "projects/projects/personal-website",
-        "about/about/home",
-        "projects/projects/nes-emulator",
-        "projects/projects/personal-website"
-      ],
-      "backlinks": [
-        "projects/projects/nes-emulator"
-      ],
-      "headings": [
-        {
-          "depth": 2,
-          "text": "Status: ⚫ Needs Decision",
-          "id": "status--needs-decision"
-        },
-        {
-          "depth": 2,
-          "text": "Open Questions",
-          "id": "open-questions"
-        },
-        {
-          "depth": 2,
-          "text": "If Active — Suggested Direction",
-          "id": "if-active--suggested-direction"
-        },
-        {
-          "depth": 2,
-          "text": "Related Notes",
-          "id": "related-notes"
-        },
-        {
-          "depth": 2,
-          "text": "Migrated Detailed Roadmap — Roadmap — NES Emulator",
-          "id": "migrated-detailed-roadmap--roadmap--nes-emulator"
-        },
-        {
-          "depth": 3,
-          "text": "Roadmap — NES Emulator",
-          "id": "roadmap--nes-emulator"
-        },
-        {
-          "depth": 2,
-          "text": "Status: ⚫ Needs Decision",
-          "id": "status--needs-decision-1"
-        },
-        {
-          "depth": 2,
-          "text": "Open Questions",
-          "id": "open-questions-1"
-        },
-        {
-          "depth": 2,
-          "text": "If Building — Suggested Roadmap",
-          "id": "if-building--suggested-roadmap"
-        },
-        {
-          "depth": 3,
-          "text": "Phase 1: Learn the NES",
-          "id": "phase-1-learn-the-nes"
-        },
-        {
-          "depth": 3,
-          "text": "Phase 2: CPU (6502)",
-          "id": "phase-2-cpu-6502"
-        },
-        {
-          "depth": 3,
-          "text": "Phase 3: PPU (Graphics)",
-          "id": "phase-3-ppu-graphics"
-        },
-        {
-          "depth": 3,
-          "text": "Phase 4: APU (Audio)",
-          "id": "phase-4-apu-audio"
-        },
-        {
-          "depth": 3,
-          "text": "Phase 5: Mappers + Polish",
-          "id": "phase-5-mappers--polish"
-        },
-        {
-          "depth": 3,
-          "text": "Phase 6: Showcase",
-          "id": "phase-6-showcase"
-        },
-        {
-          "depth": 2,
-          "text": "If Studying (Not Building)",
-          "id": "if-studying-not-building"
-        },
-        {
-          "depth": 2,
-          "text": "Key Decisions Made",
-          "id": "key-decisions-made"
-        }
-      ]
-    },
-    {
       "id": "b9d83fa238a3",
       "slug": "library/learning/neural-networks",
       "title": "Neural Networks",
@@ -13672,7 +13498,6 @@
         "projects/projects/obsidian-rag-assistant"
       ],
       "backlinks": [
-        "projects/projects/nes-emulator",
         "projects/projects/personal-website",
         "interests/creative-work/creative-work",
         "about/about/home"
@@ -16687,8 +16512,8 @@
       "slug": "projects/projects/someday-projects",
       "title": "Someday Projects",
       "summary": "Deferred project ideas preserved as a lightweight activation queue.",
-      "html": "<h1>Someday Projects</h1>\n<p>These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one.</p>\n<h2 id=\"backlog\">Backlog<a class=\"heading-anchor\" href=\"#backlog\">#</a></h2>\n<ul>\n<li>NixOS on the Panasonic Let's Note SV1</li>\n<li>Linux From Scratch</li>\n<li>Riced Linux / desktop customization</li>\n<li>Neocities website</li>\n<li>Swift/iOS Hermes interface</li>\n<li>NES emulator</li>\n</ul>\n<h2 id=\"activation-rule\">Activation Rule<a class=\"heading-anchor\" href=\"#activation-rule\">#</a></h2>\n<p>When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then.</p>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/project-portfolio/\">Project Portfolio</a></li>\n<li>Hermes Operations Queue</li>\n</ul>\n<h2 id=\"deferred-roadmap-sources\">Deferred Roadmap Sources<a class=\"heading-anchor\" href=\"#deferred-roadmap-sources\">#</a></h2>\n<p>These detailed plans are deferred until explicitly activated. The full source remains retrievable in the dated archive.</p>\n<ul>\n<li>Roadmap — NixOS</li>\n<li>Roadmap — Linux From Scratch</li>\n<li>Roadmap — Riced Linux</li>\n<li>Roadmap — Neocities</li>\n<li>NixOS — Panasonic Let's Note SV1</li>\n</ul>\n",
-      "text": "Someday Projects These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one. Backlog NixOS on the Panasonic Let's Note SV1 Linux From Scratch Riced Linux / desktop customization Neocities website Swift/iOS Hermes interface NES emulator Activation Rule When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then. Sources Project Portfolio Hermes Operations Queue Deferred Roadmap Sources These detailed plans are deferred until explicitly activated. The full source remains retrievable in the dated archive. Roadmap — NixOS Roadmap — Linux From Scratch Roadmap — Riced Linux Roadmap — Neocities NixOS — Panasonic Let's Note SV1",
+      "html": "<h1>Someday Projects</h1>\n<p>These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one.</p>\n<h2 id=\"backlog\">Backlog<a class=\"heading-anchor\" href=\"#backlog\">#</a></h2>\n<ul>\n<li>NixOS on the Panasonic Let's Note SV1</li>\n<li>Linux From Scratch</li>\n<li>Riced Linux / desktop customization</li>\n<li>Neocities website</li>\n<li>Swift/iOS Hermes interface</li>\n<li>NES emulator — full roadmap preserved in <code>05 Archive/Retired Projects/NES Emulator.md</code> (git history holds it)</li>\n<li>Audio + AI 30-Day Journey — 30-day critical-listening + local-AI challenge; paused, no completion evidence. Roadmap preserved in <code>05 Archive/Retired Projects/Audio and AI 30-Day Journey.md</code></li>\n</ul>\n<h2 id=\"activation-rule\">Activation Rule<a class=\"heading-anchor\" href=\"#activation-rule\">#</a></h2>\n<p>When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then.</p>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/project-portfolio/\">Project Portfolio</a></li>\n<li>Hermes Operations Queue</li>\n</ul>\n<h2 id=\"deferred-roadmap-sources\">Deferred Roadmap Sources<a class=\"heading-anchor\" href=\"#deferred-roadmap-sources\">#</a></h2>\n<p>These detailed plans are deferred until explicitly activated. The full source remains retrievable in the dated archive.</p>\n<ul>\n<li>Roadmap — NixOS</li>\n<li>Roadmap — Linux From Scratch</li>\n<li>Roadmap — Riced Linux</li>\n<li>Roadmap — Neocities</li>\n<li>NixOS — Panasonic Let's Note SV1</li>\n</ul>\n",
+      "text": "Someday Projects These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one. Backlog NixOS on the Panasonic Let's Note SV1 Linux From Scratch Riced Linux / desktop customization Neocities website Swift/iOS Hermes interface NES emulator — full roadmap preserved in 05 Archive/Retired Projects/NES Emulator.md (git history holds it) Audio + AI 30 Day Journey — 30 day critical listening + local AI challenge; paused, no completion evidence. Roadmap preserved in 05 Archive/Retired Projects/Audio and AI 30 Day Journey.md Activation Rule When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then. Sources Project Portfolio Hermes Operations Queue Deferred Roadmap Sources These detailed plans are deferred until explicitly activated. The full source remains retrievable in the dated archive. Roadmap — NixOS Roadmap — Linux From Scratch Roadmap — Riced Linux Roadmap — Neocities NixOS — Panasonic Let's Note SV1",
       "section": "projects",
       "topic": "Projects",
       "status": "active",
@@ -18631,10 +18456,8 @@
       "slug": "projects",
       "description": "Things being built, explored, paused, and completed.",
       "documentIds": [
-        "1d885674a313",
         "a21f160dc5e3",
         "5d712e7baca9",
-        "eeea257757ce",
         "01bf8a20fe22",
         "294e331cee03",
         "cbccede1b9d2",
@@ -18805,10 +18628,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T13:54:49.133Z",
+    "generatedAt": "2026-08-07T13:55:19.592Z",
     "sourceCount": 1288,
-    "publishedCount": 215,
-    "skippedCount": 1073,
+    "publishedCount": 213,
+    "skippedCount": 1075,
     "duplicateCount": 0,
     "brokenLinks": [
       {
@@ -18894,6 +18717,10 @@
       {
         "source": "03 Areas/Audio/Audio Area.md",
         "target": "99 System/Preferences and Taste"
+      },
+      {
+        "source": "03 Areas/Audio/Audio Area.md",
+        "target": "02 Projects/Audio and AI 30-Day Journey"
       },
       {
         "source": "03 Areas/Creative Work/Creative Work.md",
@@ -22747,6 +22574,14 @@
       },
       {
         "source": "05 Archive/README.md",
+        "reason": "internal 05 Archive material"
+      },
+      {
+        "source": "05 Archive/Retired Projects/Audio and AI 30-Day Journey.md",
+        "reason": "internal 05 Archive material"
+      },
+      {
+        "source": "05 Archive/Retired Projects/NES Emulator.md",
         "reason": "internal 05 Archive material"
       },
       {
