@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:55:24.354Z",
+  "generatedAt": "2026-08-07T13:55:46.587Z",
   "sourceCount": 1288,
   "publishedCount": 213,
   "skippedCount": 1075,
@@ -91,7 +91,7 @@
     },
     {
       "source": "03 Areas/Audio/Audio Area.md",
-      "target": "02 Projects/Audio and AI 30-Day Journey"
+      "target": "05 Archive/Retired Projects/Audio and AI 30-Day Journey"
     },
     {
       "source": "03 Areas/Creative Work/Creative Work.md",

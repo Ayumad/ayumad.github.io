@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:55:24.354Z",
+  "generatedAt": "2026-08-07T13:55:46.587Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -2857,8 +2857,8 @@
       "slug": "interests/audio/audio-area",
       "title": "Audio Area",
       "summary": "Ongoing audio practice connecting listening preferences, equipment, room systems, music, and technical experimentation.",
-      "html": "<h1>Audio Area</h1>\n<h2 id=\"current-state\">Current State<a class=\"heading-anchor\" href=\"#current-state\">#</a></h2>\n<p>Audio connects critical and emotional listening with headphones, IEMs, speakers, subwoofers, DACs, amplifiers, EQ, room behavior, cymatics, and music technology.</p>\n<h2 id=\"preferences\">Preferences<a class=\"heading-anchor\" href=\"#preferences\">#</a></h2>\n<p>The current profile evidence points toward warmer tuning with deep sub-bass, evaluated alongside soundstage, detail, presentation, comfort, and complete-chain synergy. See Preferences and Taste.</p>\n<h2 id=\"inventory\">Inventory<a class=\"heading-anchor\" href=\"#inventory\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></li>\n<li>Headphones</li>\n<li>IEMs and Earbuds</li>\n<li>DACs and Amplifiers</li>\n<li>Speakers and Receivers</li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/interests/audio/audio-area/\">Audio Area</a></li>\n<li><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a></li>\n<li><a href=\"/notes/library/audio/music/\">Music</a></li>\n<li><a href=\"/notes/systems/audio/loadout-audio-history/\">Loadout Audio History</a></li>\n<li>Audio and AI 30-Day Journey</li>\n</ul>\n",
-      "text": "Audio Area Current State Audio connects critical and emotional listening with headphones, IEMs, speakers, subwoofers, DACs, amplifiers, EQ, room behavior, cymatics, and music technology. Preferences The current profile evidence points toward warmer tuning with deep sub bass, evaluated alongside soundstage, detail, presentation, comfort, and complete chain synergy. See Preferences and Taste. Inventory Loadout Headphones IEMs and Earbuds DACs and Amplifiers Speakers and Receivers Related Notes Audio Area Audio Concepts Music Loadout Audio History Audio and AI 30 Day Journey",
+      "html": "<h1>Audio Area</h1>\n<h2 id=\"current-state\">Current State<a class=\"heading-anchor\" href=\"#current-state\">#</a></h2>\n<p>Audio connects critical and emotional listening with headphones, IEMs, speakers, subwoofers, DACs, amplifiers, EQ, room behavior, cymatics, and music technology.</p>\n<h2 id=\"preferences\">Preferences<a class=\"heading-anchor\" href=\"#preferences\">#</a></h2>\n<p>The current profile evidence points toward warmer tuning with deep sub-bass, evaluated alongside soundstage, detail, presentation, comfort, and complete-chain synergy. See Preferences and Taste.</p>\n<h2 id=\"inventory\">Inventory<a class=\"heading-anchor\" href=\"#inventory\">#</a></h2>\n<ul>\n<li><a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a></li>\n<li>Headphones</li>\n<li>IEMs and Earbuds</li>\n<li>DACs and Amplifiers</li>\n<li>Speakers and Receivers</li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/interests/audio/audio-area/\">Audio Area</a></li>\n<li><a href=\"/notes/library/audio/audio-concepts/\">Audio Concepts</a></li>\n<li><a href=\"/notes/library/audio/music/\">Music</a></li>\n<li><a href=\"/notes/systems/audio/loadout-audio-history/\">Loadout Audio History</a></li>\n<li>Audio and AI 30-Day Journey — retired to Someday (see <a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a>)</li>\n</ul>\n",
+      "text": "Audio Area Current State Audio connects critical and emotional listening with headphones, IEMs, speakers, subwoofers, DACs, amplifiers, EQ, room behavior, cymatics, and music technology. Preferences The current profile evidence points toward warmer tuning with deep sub bass, evaluated alongside soundstage, detail, presentation, comfort, and complete chain synergy. See Preferences and Taste. Inventory Loadout Headphones IEMs and Earbuds DACs and Amplifiers Speakers and Receivers Related Notes Audio Area Audio Concepts Music Loadout Audio History Audio and AI 30 Day Journey — retired to Someday (see Someday Projects)",
       "section": "interests",
       "topic": "Audio",
       "status": "active",
@@ -2878,7 +2878,8 @@
         "interests/audio/audio-area",
         "library/audio/audio-concepts",
         "library/audio/music",
-        "systems/audio/loadout-audio-history"
+        "systems/audio/loadout-audio-history",
+        "projects/projects/someday-projects"
       ],
       "backlinks": [
         "projects/projects/personal-website",
@@ -16535,6 +16536,7 @@
       ],
       "backlinks": [
         "projects/projects/project-portfolio",
+        "interests/audio/audio-area",
         "about/about/home"
       ],
       "headings": [
@@ -18628,7 +18630,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T13:55:24.354Z",
+    "generatedAt": "2026-08-07T13:55:46.587Z",
     "sourceCount": 1288,
     "publishedCount": 213,
     "skippedCount": 1075,
@@ -18720,7 +18722,7 @@
       },
       {
         "source": "03 Areas/Audio/Audio Area.md",
-        "target": "02 Projects/Audio and AI 30-Day Journey"
+        "target": "05 Archive/Retired Projects/Audio and AI 30-Day Journey"
       },
       {
         "source": "03 Areas/Creative Work/Creative Work.md",
