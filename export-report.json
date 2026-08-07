@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:32:51.308Z",
+  "generatedAt": "2026-08-07T08:33:14.312Z",
   "sourceCount": 1242,
   "publishedCount": 214,
   "skippedCount": 1028,
@@ -35,7 +35,7 @@
     },
     {
       "source": "02 Projects/Project Portfolio.md",
-      "target": "99 System/Active Projects"
+      "target": "90 Operations/Hermes/Project Tracker"
     },
     {
       "source": "02 Projects/Someday Projects.md",

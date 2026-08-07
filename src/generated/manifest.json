@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:32:51.308Z",
+  "generatedAt": "2026-08-07T08:33:14.312Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -14604,8 +14604,8 @@
       "slug": "projects/projects/project-portfolio",
       "title": "Project Portfolio",
       "summary": "Derived view of active and planned projects backed by Project Portfolio Base; project notes remain canonical",
-      "html": "<h1>Project Portfolio</h1>\n<p>This is a derived browse layer. Project notes in <code>02 Projects/</code> remain canonical; update the project note, not this view.</p>\n<p>Project Portfolio.base</p>\n<h2 id=\"related\">Related<a class=\"heading-anchor\" href=\"#related\">#</a></h2>\n<ul>\n<li>Active Projects</li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n",
-      "text": "Project Portfolio This is a derived browse layer. Project notes in 02 Projects/ remain canonical; update the project note, not this view. Project Portfolio.base Related Active Projects Someday Projects",
+      "html": "<h1>Project Portfolio</h1>\n<p>This is a derived browse layer. Project notes in <code>02 Projects/</code> remain canonical; update the project note, not this view.</p>\n<p>Project Portfolio.base</p>\n<h2 id=\"related\">Related<a class=\"heading-anchor\" href=\"#related\">#</a></h2>\n<ul>\n<li>Project Tracker</li>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n</ul>\n",
+      "text": "Project Portfolio This is a derived browse layer. Project notes in 02 Projects/ remain canonical; update the project note, not this view. Project Portfolio.base Related Project Tracker Someday Projects",
       "section": "projects",
       "topic": "Projects",
       "status": "active",
@@ -18678,7 +18678,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T08:32:51.308Z",
+    "generatedAt": "2026-08-07T08:33:14.312Z",
     "sourceCount": 1242,
     "publishedCount": 214,
     "skippedCount": 1028,
@@ -18714,7 +18714,7 @@
       },
       {
         "source": "02 Projects/Project Portfolio.md",
-        "target": "99 System/Active Projects"
+        "target": "90 Operations/Hermes/Project Tracker"
       },
       {
         "source": "02 Projects/Someday Projects.md",
