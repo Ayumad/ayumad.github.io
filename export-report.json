@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-07T08:30:57.205Z",
-  "sourceCount": 1241,
-  "publishedCount": 213,
+  "generatedAt": "2026-08-07T08:31:05.935Z",
+  "sourceCount": 1242,
+  "publishedCount": 214,
   "skippedCount": 1028,
   "duplicateCount": 0,
   "brokenLinks": [
@@ -22,10 +22,6 @@
       "target": "99 System/Journal Processing Workflow"
     },
     {
-      "source": "02 Projects/Personal Website.md",
-      "target": "02 Projects/Project Portfolio"
-    },
-    {
       "source": "02 Projects/Planned/Voice Assistant.md",
       "target": "90 Operations/Hermes/Hermes Operations Queue"
     },
@@ -34,8 +30,12 @@
       "target": "90 Operations/Hermes/00 Index"
     },
     {
-      "source": "02 Projects/Someday Projects.md",
-      "target": "02 Projects/Project Portfolio"
+      "source": "02 Projects/Project Portfolio.md",
+      "target": "02 Projects/Project Portfolio.base#Active and Planned Projects"
+    },
+    {
+      "source": "02 Projects/Project Portfolio.md",
+      "target": "99 System/Active Projects"
     },
     {
       "source": "02 Projects/Someday Projects.md",
