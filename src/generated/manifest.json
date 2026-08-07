@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T05:00:45.735Z",
+  "generatedAt": "2026-08-07T08:10:28.011Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18598,10 +18598,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T05:00:45.735Z",
-    "sourceCount": 1240,
+    "generatedAt": "2026-08-07T08:10:28.011Z",
+    "sourceCount": 1241,
     "publishedCount": 212,
-    "skippedCount": 1027,
+    "skippedCount": 1028,
     "duplicateCount": 1,
     "brokenLinks": [
       {
@@ -22840,6 +22840,10 @@
       },
       {
         "source": "99 System/Reports/Vault Health.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Reports/Vault Validation Report.md",
         "reason": "internal 99 System material"
       },
       {
