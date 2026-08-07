@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:01:13.307Z",
+  "generatedAt": "2026-08-07T13:16:16.519Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18740,10 +18740,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T13:01:13.307Z",
-    "sourceCount": 1281,
+    "generatedAt": "2026-08-07T13:16:16.519Z",
+    "sourceCount": 1282,
     "publishedCount": 214,
-    "skippedCount": 1067,
+    "skippedCount": 1068,
     "duplicateCount": 0,
     "brokenLinks": [
       {
@@ -23118,6 +23118,10 @@
       },
       {
         "source": "99 System/Reports/2026-08-05 Vault-Wide Refactor Report.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Reports/Vault Audit Report 2026-08-07.md",
         "reason": "internal 99 System material"
       },
       {
