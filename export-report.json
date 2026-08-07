@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T08:18:59.448Z",
+  "generatedAt": "2026-08-07T08:30:57.205Z",
   "sourceCount": 1241,
-  "publishedCount": 212,
+  "publishedCount": 213,
   "skippedCount": 1028,
-  "duplicateCount": 1,
+  "duplicateCount": 0,
   "brokenLinks": [
     {
       "source": "02 Projects/Electronics Workbench.md",
@@ -90,6 +90,10 @@
       "target": "03 Areas/Technology/Loadout/Product Catalog.base#Accessories"
     },
     {
+      "source": "03 Areas/Technology/Loadout/Audio.md",
+      "target": "03 Areas/Technology/Loadout/Product Catalog.base#Audio"
+    },
+    {
       "source": "03 Areas/Technology/Loadout/Cameras and Lenses.md",
       "target": "03 Areas/Technology/Loadout/Product Catalog.base#Cameras and Lenses"
     },
@@ -104,10 +108,6 @@
     {
       "source": "03 Areas/Technology/Loadout/Gaming.md",
       "target": "03 Areas/Technology/Loadout/Product Catalog.base#Gaming"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
-      "target": "03 Areas/Technology/Loadout/Audio"
     },
     {
       "source": "03 Areas/Technology/Loadout/Loadout Hub.md",
@@ -150,14 +150,6 @@
       "target": "99 System/Product Research Enrichment Report"
     },
     {
-      "source": "03 Areas/Technology/Loadout/Products/Kiwi Ears x B_Media Chorus.md",
-      "target": "03 Areas/Technology/Loadout/Audio"
-    },
-    {
-      "source": "03 Areas/Technology/Loadout/Products/Logitech G ASTRO A50 (Gen 5).md",
-      "target": "03 Areas/Technology/Loadout/Audio"
-    },
-    {
       "source": "03 Areas/Technology/Loadout/TODO.md",
       "target": "AGENTS"
     },
@@ -166,16 +158,8 @@
       "target": "99 System/Technical Ecosystem"
     },
     {
-      "source": "04 Resources/Lifestyle/Computer Accessories.md",
-      "target": "03 Areas/Technology/Loadout/Audio"
-    },
-    {
       "source": "04 Resources/Technology/Computer Science.md",
       "target": "04 Resources/Technology/C++"
-    },
-    {
-      "source": "04 Resources/Technology/Electronics.md",
-      "target": "03 Areas/Technology/Loadout/Audio"
     },
     {
       "source": "Home.md",
