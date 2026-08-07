@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:50:07.349Z",
+  "generatedAt": "2026-08-07T13:54:49.133Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18805,10 +18805,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T13:50:07.349Z",
-    "sourceCount": 1283,
+    "generatedAt": "2026-08-07T13:54:49.133Z",
+    "sourceCount": 1288,
     "publishedCount": 215,
-    "skippedCount": 1068,
+    "skippedCount": 1073,
     "duplicateCount": 0,
     "brokenLinks": [
       {
@@ -23106,6 +23106,10 @@
         "reason": "internal 99 System material"
       },
       {
+        "source": "99 System/Active Projects.md",
+        "reason": "internal 99 System material"
+      },
+      {
         "source": "99 System/Agents/Notion Governance.md",
         "reason": "internal 99 System material"
       },
@@ -23147,6 +23151,22 @@
       },
       {
         "source": "99 System/Journal Processing Workflow.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/MOCs/Homelab MOC.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/MOCs/Obsidian Second Brain MOC.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/MOCs/Philosophy MOC.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/MOCs/Projects MOC.md",
         "reason": "internal 99 System material"
       },
       {
