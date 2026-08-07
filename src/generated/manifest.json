@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T11:54:12.167Z",
+  "generatedAt": "2026-08-07T11:58:37.223Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -18731,10 +18731,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T11:54:12.167Z",
-    "sourceCount": 1243,
+    "generatedAt": "2026-08-07T11:58:37.223Z",
+    "sourceCount": 1244,
     "publishedCount": 214,
-    "skippedCount": 1029,
+    "skippedCount": 1030,
     "duplicateCount": 0,
     "brokenLinks": [
       {
@@ -22829,6 +22829,10 @@
       },
       {
         "source": "90 Operations/Hermes/Session Summaries/2026-08-06.md",
+        "reason": "internal 90 Operations material"
+      },
+      {
+        "source": "90 Operations/Hermes/Session Summaries/2026-08-07.md",
         "reason": "internal 90 Operations material"
       },
       {
