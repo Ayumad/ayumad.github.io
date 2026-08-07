@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T12:48:20.448Z",
+  "generatedAt": "2026-08-07T12:48:46.706Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -8545,7 +8545,7 @@
       "topic": "Lifestyle",
       "status": "reference",
       "created": "2026-06-22",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "tags": [
         "lifestyle",
         "want",
@@ -18740,7 +18740,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-08-07T12:48:20.448Z",
+    "generatedAt": "2026-08-07T12:48:46.706Z",
     "sourceCount": 1281,
     "publishedCount": 214,
     "skippedCount": 1067,
