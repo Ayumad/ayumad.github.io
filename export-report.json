@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T11:41:43.165Z",
-  "sourceCount": 1242,
+  "generatedAt": "2026-08-07T11:54:12.167Z",
+  "sourceCount": 1243,
   "publishedCount": 214,
-  "skippedCount": 1028,
+  "skippedCount": 1029,
   "duplicateCount": 0,
   "brokenLinks": [
     {
@@ -4345,6 +4345,10 @@
     },
     {
       "source": "AGENTS.md",
+      "reason": "navigation or agent instruction"
+    },
+    {
+      "source": "Hermes/TODO Master.md",
       "reason": "navigation or agent instruction"
     }
   ]
