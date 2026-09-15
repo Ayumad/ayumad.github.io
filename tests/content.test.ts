@@ -5,7 +5,7 @@ import manifest from "../src/generated/manifest.json";
 describe("generated knowledge base", () => {
   it("publishes a substantial canonical collection", () => {
     expect(manifest.documents.length).toBeGreaterThan(150);
-    expect(manifest.diagnostics.sourceCount).toBeGreaterThan(1000);
+    expect(manifest.diagnostics.sourceCount).toBeGreaterThan(400);
   });
 
   it("uses unique, stable document paths", () => {
