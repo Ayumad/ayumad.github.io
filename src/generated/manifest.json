@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T16:32:50.593Z",
+  "generatedAt": "2026-09-15T16:33:04.069Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -12337,7 +12337,7 @@
       "topic": "Technology",
       "status": "reference",
       "created": "2026-05-27",
-      "updated": "2026-08-05",
+      "updated": "2026-09-15",
       "tags": [
         "technology",
         "loadout",
@@ -28161,7 +28161,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-09-15T16:32:50.593Z",
+    "generatedAt": "2026-09-15T16:33:04.069Z",
     "sourceCount": 542,
     "publishedCount": 313,
     "skippedCount": 229,
