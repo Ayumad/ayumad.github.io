@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T01:45:50.652Z",
+  "generatedAt": "2026-09-16T03:17:21.460Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -23217,7 +23217,7 @@
       "topic": "Education",
       "status": "active",
       "created": "2026-06-22",
-      "updated": "2026-08-26",
+      "updated": "2026-09-15",
       "tags": [
         "area",
         "school",
@@ -28171,7 +28171,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-09-16T01:45:50.652Z",
+    "generatedAt": "2026-09-16T03:17:21.460Z",
     "sourceCount": 543,
     "publishedCount": 313,
     "skippedCount": 230,
