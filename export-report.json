@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T07:45:38.807Z",
-  "sourceCount": 544,
-  "publishedCount": 313,
+  "generatedAt": "2026-09-17T07:49:29.781Z",
+  "sourceCount": 545,
+  "publishedCount": 314,
   "skippedCount": 231,
   "duplicateCount": 0,
   "brokenLinks": [
@@ -12,6 +12,14 @@
     {
       "source": "02 Projects/ACM Fall 2026 Workshops.md",
       "target": "90 Operations/Hermes/Session Summaries/2026-08-27"
+    },
+    {
+      "source": "02 Projects/Active/Homelab/School VM Runbook.md",
+      "target": "02 Projects/Active/Homelab/P520 GPU Passthrough Runbook"
+    },
+    {
+      "source": "02 Projects/Active/Homelab/School VM Runbook.md",
+      "target": "99 System/Decisions/2026-09-16 School VM on P520"
     },
     {
       "source": "02 Projects/Agentic Project Ideas.md",
