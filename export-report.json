@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T07:49:54.312Z",
+  "generatedAt": "2026-09-17T07:50:26.483Z",
   "sourceCount": 546,
   "publishedCount": 314,
   "skippedCount": 232,
@@ -236,6 +236,10 @@
     {
       "source": "03 Areas/Technology/Loadout/Products/Framework Laptop 13.md",
       "target": "99 System/Technical Ecosystem"
+    },
+    {
+      "source": "03 Areas/Technology/Loadout/Products/Lenovo ThinkStation P520.md",
+      "target": "99 System/Decisions/2026-09-16 School VM on P520"
     },
     {
       "source": "03 Areas/Technology/Loadout/TODO.md",
