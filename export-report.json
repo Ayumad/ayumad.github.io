@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T08:39:03.057Z",
-  "sourceCount": 547,
+  "generatedAt": "2026-09-17T08:58:01.475Z",
+  "sourceCount": 548,
   "publishedCount": 314,
-  "skippedCount": 233,
+  "skippedCount": 234,
   "duplicateCount": 0,
   "brokenLinks": [
     {
@@ -60,6 +60,10 @@
     {
       "source": "02 Projects/Homelab.md",
       "target": "99 System/Decisions/2026-09-10 P520 Second GPU"
+    },
+    {
+      "source": "02 Projects/Homelab.md",
+      "target": "99 System/Decisions/2026-09-17 P520 Container Platform"
     },
     {
       "source": "02 Projects/Obsidian RAG Assistant.md",
@@ -1085,6 +1089,10 @@
     },
     {
       "source": "99 System/Decisions/2026-09-16 School VM on P520.md",
+      "reason": "internal 99 System material"
+    },
+    {
+      "source": "99 System/Decisions/2026-09-17 P520 Container Platform.md",
       "reason": "internal 99 System material"
     },
     {
