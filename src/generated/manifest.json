@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T07:49:29.781Z",
+  "generatedAt": "2026-09-17T07:49:54.312Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -28273,10 +28273,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-09-17T07:49:29.781Z",
-    "sourceCount": 545,
+    "generatedAt": "2026-09-17T07:49:54.312Z",
+    "sourceCount": 546,
     "publishedCount": 314,
-    "skippedCount": 231,
+    "skippedCount": 232,
     "duplicateCount": 0,
     "brokenLinks": [
       {
@@ -29347,6 +29347,10 @@
       },
       {
         "source": "99 System/Decisions/2026-09-14 Vault Auto-Sync Reconcile Contract.md",
+        "reason": "internal 99 System material"
+      },
+      {
+        "source": "99 System/Decisions/2026-09-16 School VM on P520.md",
         "reason": "internal 99 System material"
       },
       {
