@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:03:26.028Z",
+  "generatedAt": "2026-09-18T11:04:05.419Z",
   "sourceCount": 550,
   "publishedCount": 315,
   "skippedCount": 235,
@@ -44,10 +44,6 @@
     {
       "source": "02 Projects/Electronics Workbench.md",
       "target": "90 Operations/Hermes/Session Summaries/2026-08-04"
-    },
-    {
-      "source": "02 Projects/Facebook Marketplace MCP.md",
-      "target": "90 Operations/Hermes/TODO Master"
     },
     {
       "source": "02 Projects/Homelab.md",
