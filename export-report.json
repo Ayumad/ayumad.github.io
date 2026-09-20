@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-20T23:03:54.547Z",
-  "sourceCount": 551,
+  "generatedAt": "2026-09-20T23:26:02.498Z",
+  "sourceCount": 553,
   "publishedCount": 315,
-  "skippedCount": 236,
+  "skippedCount": 238,
   "duplicateCount": 0,
   "brokenLinks": [
     {
@@ -469,6 +469,14 @@
     },
     {
       "source": "07 Reflections/Weekly/2026-08-05 Vault Refactor Baseline.md",
+      "reason": "internal 07 Reflections material"
+    },
+    {
+      "source": "07 Reflections/Weekly/2026-09-13 Weekly Review.md",
+      "reason": "internal 07 Reflections material"
+    },
+    {
+      "source": "07 Reflections/Weekly/2026-09-20 Weekly Review.md",
       "reason": "internal 07 Reflections material"
     },
     {
