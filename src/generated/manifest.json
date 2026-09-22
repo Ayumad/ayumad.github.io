@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T07:01:56.333Z",
+  "generatedAt": "2026-09-22T18:28:04.612Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -2738,7 +2738,9 @@
         "about/about/home",
         "projects/projects/personal-website"
       ],
-      "backlinks": [],
+      "backlinks": [
+        "projects/projects/audio-hub"
+      ],
       "headings": [
         {
           "depth": 2,
@@ -4441,6 +4443,7 @@
       ],
       "backlinks": [
         "projects/projects/ai-as-a-computer",
+        "projects/projects/audio-hub",
         "about/about/home"
       ],
       "headings": [
@@ -5257,6 +5260,86 @@
           "depth": 2,
           "text": "Provenance",
           "id": "provenance"
+        }
+      ]
+    },
+    {
+      "id": "116c581bda4a",
+      "slug": "projects/projects/audio-hub",
+      "title": "Audio Hub",
+      "summary": "Audio Hub: one web app bundling a by-ear EQ trainer (sweep a sine, mark peaks/dips, export an 8-band PEQ), a feed of recent audio articles, and a library of articles explaining audio terms.",
+      "html": "<h1>Audio Hub</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> | Captured: 2026-09-22 | Status: idea / not started | Backlog: <a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a> | Related: <a href=\"/notes/projects/projects/album-ranking-app/\">Album Ranking App</a>, <a href=\"/notes/projects/projects/personal-website/\">Personal Website</a></p>\n<h2 id=\"idea-as-captured\">Idea (as captured)<a class=\"heading-anchor\" href=\"#idea-as-captured\">#</a></h2>\n<p>Build a single <strong>audio hub app</strong> that combines:</p>\n<ol>\n<li><strong>EQ by ear</strong> — an ear-training EQ tool: play a sine tone, sweep it slowly, mark the peaks and dips you hear, turn the marks into an 8-band parametric EQ you can paste into any PEQ app.</li>\n<li><strong>Recent articles</strong> — a surface showing recent audio-related articles/links.</li>\n<li><strong>Term explainers</strong> — a set of articles explaining audio terms (a glossary/explainer library, not just a definitions list).</li>\n</ol>\n<h2 id=\"why-it-fits\">Why it fits<a class=\"heading-anchor\" href=\"#why-it-fits\">#</a></h2>\n<ul>\n<li>Ayush's audio + IEM/headphone interest runs through the Loadout and the audio-gear advisories; this is the tooling half of that interest rather than more buying advice.</li>\n<li>Pairs naturally with the <a href=\"/notes/projects/projects/album-ranking-app/\">Album Ranking App</a> (music data / rating side) — different audience, same music-and-audio territory.</li>\n<li>It is a <strong>static-site-shaped</strong> app, which matches how the site work already deploys (no backend needed for the trainer).</li>\n</ul>\n<h2 id=\"prior-art--references\">Prior art / references<a class=\"heading-anchor\" href=\"#prior-art--references\">#</a></h2>\n<ul>\n<li><strong><code>eqbyear.com</code></strong> — DMS's browser tool for EQing headphones and IEMs by ear. Static site, no backend, no dependencies; ES modules with no build step; deploy via Cloudflare Workers static assets (<code>npx wrangler deploy</code>). Repo: <code>github.com/DMS3tv/eqbyear</code> (main branch), tutorial video <code>youtu.be/WIWHINQ5lV8</code>.</li>\n<li>Real DSP is already solved there and reusable in shape: <code>js/dsp.js</code> holds filter math (RBJ biquads), the log frequency axis, and the three-point mark → band conversion; <code>tests/dsp.test.mjs</code> runs with <code>node tests/dsp.test.mjs</code>; <code>docs/SPEC.md</code> is the build contract.</li>\n<li><strong>License constraint:</strong> Apache 2.0 — forkable/reusable code, but the \"DMS\" and \"EQ by ear\" names and logo are <strong>not</strong> licensed for derived works. A hub shipping this must use its own name and branding.</li>\n</ul>\n<h2 id=\"open-questions\">Open questions<a class=\"heading-anchor\" href=\"#open-questions\">#</a></h2>\n<ul>\n<li><strong>\"Recent articles\"</strong> — recent <em>audio</em> articles from the web (a feed/aggregator), or Ayush's own published writeups surfaced in one place? Determines whether this needs a scrape/feed pipeline or is just a static curated list.</li>\n<li><strong>Term explainers</strong> — written by Ayush (more ayumad.me article work), or scaffolded/curated from existing references? Ties into <a href=\"/notes/projects/projects/articles/\">Articles Hub</a> if they are his.</li>\n<li><strong>Relationship to <code>eqbyear.com</code></strong> — fork the trainer into the hub, embed it, or reimplement the sweep/mark/export loop from scratch.</li>\n<li><strong>Bundling vs. linking</strong> — a true single hub app, or a landing page that links out to separate tools.</li>\n</ul>\n<h2 id=\"next-steps-when-activated\">Next steps (when activated)<a class=\"heading-anchor\" href=\"#next-steps-when-activated\">#</a></h2>\n<ul>\n<li> Pick the scope for v1 (trainer only, or trainer + one content surface). ^task-audio-hub-01</li>\n<li> Decide content source for \"recent articles\" and the term explainers. ^task-audio-hub-02</li>\n<li> Decide static-site stack + host. ^task-audio-hub-03</li>\n</ul>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li>Captured from Ayush in-session, 2026-09-22.</li>\n<li>eqbyear README: <code>https://raw.githubusercontent.com/DMS3tv/eqbyear/main/README.md</code>; live tool: <code>https://eqbyear.com</code>.</li>\n</ul>\n<h2 id=\"related-notes\">Related Notes<a class=\"heading-anchor\" href=\"#related-notes\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/someday-projects/\">Someday Projects</a></li>\n<li><a href=\"/notes/projects/projects/album-ranking-app/\">Album Ranking App</a></li>\n<li><a href=\"/notes/projects/projects/articles/\">Articles Hub</a></li>\n<li><a href=\"/notes/projects/projects/project-portfolio/\">Project Portfolio</a></li>\n</ul>\n",
+      "text": "Audio Hub Home: Home Captured: 2026 09 22 Status: idea / not started Backlog: Someday Projects Related: Album Ranking App, Personal Website Idea (as captured) Build a single audio hub app that combines: 1. EQ by ear — an ear training EQ tool: play a sine tone, sweep it slowly, mark the peaks and dips you hear, turn the marks into an 8 band parametric EQ you can paste into any PEQ app. 2. Recent articles — a surface showing recent audio related articles/links. 3. Term explainers — a set of articles explaining audio terms (a glossary/explainer library, not just a definitions list). Why it fits Ayush's audio + IEM/headphone interest runs through the Loadout and the audio gear advisories; this is the tooling half of that interest rather than more buying advice. Pairs naturally with the Album Ranking App (music data / rating side) — different audience, same music and audio territory. It is a static site shaped app, which matches how the site work already deploys (no backend needed for the trainer). Prior art / references eqbyear.com — DMS's browser tool for EQing headphones and IEMs by ear. Static site, no backend, no dependencies; ES modules with no build step; deploy via Cloudflare Workers static assets ( npx wrangler deploy ). Repo: github.com/DMS3tv/eqbyear (main branch), tutorial video youtu.be/WIWHINQ5lV8 . Real DSP is already solved there and reusable in shape: js/dsp.js holds filter math (RBJ biquads), the log frequency axis, and the three point mark → band conversion; tests/dsp.test.mjs runs with node tests/dsp.test.mjs ; docs/SPEC.md is the build contract. License constraint: Apache 2.0 — forkable/reusable code, but the \"DMS\" and \"EQ by ear\" names and logo are not licensed for derived works. A hub shipping this must use its own name and branding. Open questions \"Recent articles\" — recent audio articles from the web (a feed/aggregator), or Ayush's own published writeups surfaced in one place? Determines whether this needs a scrape/feed pipeline or is just a static curated list. Term explainers — written by Ayush (more ayumad.me article work), or scaffolded/curated from existing references? Ties into Articles Hub if they are his. Relationship to eqbyear.com — fork the trainer into the hub, embed it, or reimplement the sweep/mark/export loop from scratch. Bundling vs. linking — a true single hub app, or a landing page that links out to separate tools. Next steps (when activated) [ ] Pick the scope for v1 (trainer only, or trainer + one content surface). ^task audio hub 01 [ ] Decide content source for \"recent articles\" and the term explainers. ^task audio hub 02 [ ] Decide static site stack + host. ^task audio hub 03 Sources Captured from Ayush in session, 2026 09 22. eqbyear README: https://raw.githubusercontent.com/DMS3tv/eqbyear/main/README.md ; live tool: https://eqbyear.com . Related Notes Someday Projects Album Ranking App Articles Hub Project Portfolio",
+      "section": "projects",
+      "topic": "Projects",
+      "status": "planned",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "tags": [
+        "project",
+        "audio",
+        "web-app",
+        "eq",
+        "ear-training",
+        "education",
+        "backlog"
+      ],
+      "aliases": [
+        "Audio Hub",
+        "Audio Hub App"
+      ],
+      "sourcePath": "02 Projects/Planned/Audio Hub.md",
+      "readingMinutes": 3,
+      "links": [
+        "about/about/home",
+        "projects/projects/someday-projects",
+        "projects/projects/album-ranking-app",
+        "projects/projects/personal-website",
+        "projects/projects/album-ranking-app",
+        "projects/projects/articles",
+        "projects/projects/someday-projects",
+        "projects/projects/album-ranking-app",
+        "projects/projects/articles",
+        "projects/projects/project-portfolio"
+      ],
+      "backlinks": [
+        "projects/projects/someday-projects"
+      ],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "Idea (as captured)",
+          "id": "idea-as-captured"
+        },
+        {
+          "depth": 2,
+          "text": "Why it fits",
+          "id": "why-it-fits"
+        },
+        {
+          "depth": 2,
+          "text": "Prior art / references",
+          "id": "prior-art--references"
+        },
+        {
+          "depth": 2,
+          "text": "Open questions",
+          "id": "open-questions"
+        },
+        {
+          "depth": 2,
+          "text": "Next steps (when activated)",
+          "id": "next-steps-when-activated"
+        },
+        {
+          "depth": 2,
+          "text": "Sources",
+          "id": "sources"
+        },
+        {
+          "depth": 2,
+          "text": "Related Notes",
+          "id": "related-notes"
         }
       ]
     },
@@ -11363,6 +11446,7 @@
         "projects/projects/obsidian-rag-assistant",
         "projects/projects/personal-website",
         "projects/projects/album-ranking-app",
+        "projects/projects/audio-hub",
         "projects/projects/voice-assistant",
         "interests/creative-work/creative-work",
         "interests/education/school",
@@ -20045,6 +20129,7 @@
         "projects/projects/crt-lab",
         "projects/projects/personal-website",
         "projects/projects/album-ranking-app",
+        "projects/projects/audio-hub",
         "interests/creative-work/creative-work",
         "about/about/home"
       ],
@@ -21461,6 +21546,7 @@
         "projects/projects/agentic-project-ideas-aq4",
         "projects/projects/facebook-marketplace-mcp",
         "projects/projects/personal-website",
+        "projects/projects/audio-hub",
         "projects/projects/someday-projects"
       ],
       "headings": [
@@ -24570,13 +24656,13 @@
       "slug": "projects/projects/someday-projects",
       "title": "Someday Projects",
       "summary": "Deferred project ideas preserved as a lightweight activation queue.",
-      "html": "<h1>Someday Projects</h1>\n<p>These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one.</p>\n<h2 id=\"backlog\">Backlog<a class=\"heading-anchor\" href=\"#backlog\">#</a></h2>\n<ul>\n<li>NixOS on the Panasonic Let's Note SV1</li>\n<li>Linux From Scratch</li>\n<li>Riced Linux / desktop customization</li>\n<li>Neocities website</li>\n<li>Swift/iOS Hermes interface</li>\n<li>NES emulator — full roadmap preserved in <code>05 Archive/Retired Projects/NES Emulator.md</code> (git history holds it)</li>\n<li>Audio + AI 30-Day Journey — 30-day critical-listening + local-AI challenge; paused, no completion evidence. Roadmap preserved in <code>05 Archive/Retired Projects/Audio and AI 30-Day Journey.md</code></li>\n<li>YouTube data deep dive — profile my own YT account (watch history, saved, likes, subs). Public half done; runbook ready: <a href=\"/notes/projects/projects/youtube-data-deep-dive-runbook/\">YouTube Data Deep Dive</a></li>\n<li>Social bookmark sync — Reddit saves + X bookmarks (+ TikTok later) auto-sync to vault. Plan ready: <a href=\"/notes/projects/projects/social-bookmark-sync-plan-deferred/\">Social Bookmark Sync</a></li>\n</ul>\n<h2 id=\"activation-rule\">Activation Rule<a class=\"heading-anchor\" href=\"#activation-rule\">#</a></h2>\n<p>When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then.</p>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/agentic-project-ideas-aq4/\">Agentic Project Ideas</a></li>\n<li><a href=\"/notes/projects/projects/project-portfolio/\">Project Portfolio</a></li>\n<li>Hermes Operations Queue</li>\n</ul>\n<h2 id=\"deferred-roadmap-sources\">Deferred Roadmap Sources<a class=\"heading-anchor\" href=\"#deferred-roadmap-sources\">#</a></h2>\n<p>These detailed plans are deferred until explicitly activated. The full source remains retrievable in git history (<code>git -C ~/Documents/Main log --all -- &lt;path&gt;</code>) and the <code>2026-08-05 Retired Archive Bundle.zip</code>:</p>\n<ul>\n<li>Roadmap — NixOS (was <code>05 Archive/.../Roadmap — NixOS</code>)</li>\n<li>Roadmap — Linux From Scratch</li>\n<li>Roadmap — Riced Linux</li>\n<li>Roadmap — Neocities</li>\n<li>NixOS — Panasonic Let's Note SV1</li>\n</ul>\n",
-      "text": "Someday Projects These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one. Backlog NixOS on the Panasonic Let's Note SV1 Linux From Scratch Riced Linux / desktop customization Neocities website Swift/iOS Hermes interface NES emulator — full roadmap preserved in 05 Archive/Retired Projects/NES Emulator.md (git history holds it) Audio + AI 30 Day Journey — 30 day critical listening + local AI challenge; paused, no completion evidence. Roadmap preserved in 05 Archive/Retired Projects/Audio and AI 30 Day Journey.md YouTube data deep dive — profile my own YT account (watch history, saved, likes, subs). Public half done; runbook ready: YouTube Data Deep Dive Social bookmark sync — Reddit saves + X bookmarks (+ TikTok later) auto sync to vault. Plan ready: Social Bookmark Sync Activation Rule When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then. Sources Agentic Project Ideas Project Portfolio Hermes Operations Queue Deferred Roadmap Sources These detailed plans are deferred until explicitly activated. The full source remains retrievable in git history ( git C /Documents/Main log all <path ) and the 2026 08 05 Retired Archive Bundle.zip : Roadmap — NixOS (was 05 Archive/.../Roadmap — NixOS ) Roadmap — Linux From Scratch Roadmap — Riced Linux Roadmap — Neocities NixOS — Panasonic Let's Note SV1",
+      "html": "<h1>Someday Projects</h1>\n<p>These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one.</p>\n<h2 id=\"backlog\">Backlog<a class=\"heading-anchor\" href=\"#backlog\">#</a></h2>\n<ul>\n<li>NixOS on the Panasonic Let's Note SV1</li>\n<li>Linux From Scratch</li>\n<li>Riced Linux / desktop customization</li>\n<li>Neocities website</li>\n<li>Swift/iOS Hermes interface</li>\n<li>NES emulator — full roadmap preserved in <code>05 Archive/Retired Projects/NES Emulator.md</code> (git history holds it)</li>\n<li>Audio + AI 30-Day Journey — 30-day critical-listening + local-AI challenge; paused, no completion evidence. Roadmap preserved in <code>05 Archive/Retired Projects/Audio and AI 30-Day Journey.md</code></li>\n<li>YouTube data deep dive — profile my own YT account (watch history, saved, likes, subs). Public half done; runbook ready: <a href=\"/notes/projects/projects/youtube-data-deep-dive-runbook/\">YouTube Data Deep Dive</a></li>\n<li>Social bookmark sync — Reddit saves + X bookmarks (+ TikTok later) auto-sync to vault. Plan ready: <a href=\"/notes/projects/projects/social-bookmark-sync-plan-deferred/\">Social Bookmark Sync</a></li>\n<li>Audio Hub app — single web app: EQ-by-ear trainer (sweep a sine, mark peaks/dips, export an 8-band PEQ), recent articles, and articles explaining audio terms. Idea note: <a href=\"/notes/projects/projects/audio-hub/\">Audio Hub</a></li>\n</ul>\n<h2 id=\"activation-rule\">Activation Rule<a class=\"heading-anchor\" href=\"#activation-rule\">#</a></h2>\n<p>When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then.</p>\n<h2 id=\"sources\">Sources<a class=\"heading-anchor\" href=\"#sources\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/agentic-project-ideas-aq4/\">Agentic Project Ideas</a></li>\n<li><a href=\"/notes/projects/projects/project-portfolio/\">Project Portfolio</a></li>\n<li>Hermes Operations Queue</li>\n</ul>\n<h2 id=\"deferred-roadmap-sources\">Deferred Roadmap Sources<a class=\"heading-anchor\" href=\"#deferred-roadmap-sources\">#</a></h2>\n<p>These detailed plans are deferred until explicitly activated. The full source remains retrievable in git history (<code>git -C ~/Documents/Main log --all -- &lt;path&gt;</code>) and the <code>2026-08-05 Retired Archive Bundle.zip</code>:</p>\n<ul>\n<li>Roadmap — NixOS (was <code>05 Archive/.../Roadmap — NixOS</code>)</li>\n<li>Roadmap — Linux From Scratch</li>\n<li>Roadmap — Riced Linux</li>\n<li>Roadmap — Neocities</li>\n<li>NixOS — Panasonic Let's Note SV1</li>\n</ul>\n",
+      "text": "Someday Projects These ideas remain preserved and searchable without appearing as active work until Ayush explicitly activates one. Backlog NixOS on the Panasonic Let's Note SV1 Linux From Scratch Riced Linux / desktop customization Neocities website Swift/iOS Hermes interface NES emulator — full roadmap preserved in 05 Archive/Retired Projects/NES Emulator.md (git history holds it) Audio + AI 30 Day Journey — 30 day critical listening + local AI challenge; paused, no completion evidence. Roadmap preserved in 05 Archive/Retired Projects/Audio and AI 30 Day Journey.md YouTube data deep dive — profile my own YT account (watch history, saved, likes, subs). Public half done; runbook ready: YouTube Data Deep Dive Social bookmark sync — Reddit saves + X bookmarks (+ TikTok later) auto sync to vault. Plan ready: Social Bookmark Sync Audio Hub app — single web app: EQ by ear trainer (sweep a sine, mark peaks/dips, export an 8 band PEQ), recent articles, and articles explaining audio terms. Idea note: Audio Hub Activation Rule When one becomes a real goal, create or restore a project note with a defined outcome, success criteria, and next action. Detailed historical roadmaps remain in the dated archive until then. Sources Agentic Project Ideas Project Portfolio Hermes Operations Queue Deferred Roadmap Sources These detailed plans are deferred until explicitly activated. The full source remains retrievable in git history ( git C /Documents/Main log all <path ) and the 2026 08 05 Retired Archive Bundle.zip : Roadmap — NixOS (was 05 Archive/.../Roadmap — NixOS ) Roadmap — Linux From Scratch Roadmap — Riced Linux Roadmap — Neocities NixOS — Panasonic Let's Note SV1",
       "section": "projects",
       "topic": "Projects",
       "status": "active",
       "created": "2026-08-05",
-      "updated": "2026-08-05",
+      "updated": "2026-09-22",
       "tags": [
         "system",
         "projects",
@@ -24591,11 +24677,13 @@
       "links": [
         "projects/projects/youtube-data-deep-dive-runbook",
         "projects/projects/social-bookmark-sync-plan-deferred",
+        "projects/projects/audio-hub",
         "projects/projects/agentic-project-ideas-aq4",
         "projects/projects/project-portfolio"
       ],
       "backlinks": [
         "projects/projects/agentic-project-ideas-aq4",
+        "projects/projects/audio-hub",
         "projects/projects/project-portfolio",
         "interests/audio/audio-area",
         "about/about/home"
@@ -28204,6 +28292,7 @@
         "957a87762ad6",
         "c65e05b13786",
         "f671ef3ecfbe",
+        "116c581bda4a",
         "3eb95c8593bf",
         "02b4be34bdec",
         "a21f160dc5e3",
@@ -28398,9 +28487,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-09-22T07:01:56.333Z",
-    "sourceCount": 555,
-    "publishedCount": 315,
+    "generatedAt": "2026-09-22T18:28:04.612Z",
+    "sourceCount": 556,
+    "publishedCount": 316,
     "skippedCount": 240,
     "duplicateCount": 0,
     "brokenLinks": [
