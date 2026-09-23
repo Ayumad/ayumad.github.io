@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-23T06:02:49.924Z",
-  "sourceCount": 557,
+  "generatedAt": "2026-09-23T11:22:44.115Z",
+  "sourceCount": 558,
   "publishedCount": 316,
-  "skippedCount": 241,
+  "skippedCount": 242,
   "duplicateCount": 0,
   "brokenLinks": [
     {
@@ -399,6 +399,10 @@
     }
   ],
   "skipped": [
+    {
+      "source": "00 Inbox/AI Engineering Curriculum — Brainstorm.md",
+      "reason": "internal 00 Inbox material"
+    },
     {
       "source": "00 Inbox/Inbox.md",
       "reason": "internal 00 Inbox material"
