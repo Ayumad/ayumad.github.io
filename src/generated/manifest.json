@@ -1848,6 +1848,69 @@
       ]
     },
     {
+      "id": "cdc54f2eb610",
+      "slug": "projects/projects/ai-engineering-curriculum-brainstorm",
+      "title": "AI Engineering Curriculum — Brainstorm",
+      "summary": "Brainstorm working doc: raw capture for an article (or other artifact) driven by Ayush's AI Engineering Curriculum — topic still being defined.",
+      "html": "<p>Home: <a href=\"/notes/projects/projects/articles/\">Articles</a> | Source material: <a href=\"/notes/library/general/ai-engineering-from-zero-to-production/\">AI Engineering Curriculum</a> | Voice: <code>ayush-writing-voice</code></p>\n<h1>AI Engineering Curriculum — Brainstorm</h1>\n<blockquote>\n<p><strong>Working doc — raw, in progress</strong>\nLive capture of a brainstorming session (started 2026-09-23). Not a draft, not a source of truth. Moves to <code>02 Projects/Articles/Concepts and Ideas/</code> once we know it's an article, or to the right project folder if it turns into something else.</p>\n</blockquote>\n<h2 id=\"topic--angle\">Topic / angle<a class=\"heading-anchor\" href=\"#topic--angle\">#</a></h2>\n<p><em>Open — to be defined from Ayush's ramble.</em> Anchor material available: the 12-unit curriculum (Unit 1 models/inference/hardware → Unit 12 capstone), its exercises, and his own live stack (Hermes, Mnemosyne, Obsidian, homelab).</p>\n<h2 id=\"his-words-verbatim\">His words (verbatim)<a class=\"heading-anchor\" href=\"#his-words-verbatim\">#</a></h2>\n<ul>\n<li>\"this will likely be based off my ai curriculum i will just be rambling ideas and it will be up to you to clarify, correct, and reorganize and reiterate what i say back to me\"</li>\n<li>\"an article or something else\"</li>\n</ul>\n<h2 id=\"ideas-captured\">Ideas captured<a class=\"heading-anchor\" href=\"#ideas-captured\">#</a></h2>\n<ul>\n<li>2026-09-23 — Session opened: output format deliberately undecided (article or something else). Workflow: ramble → clarify/correct/reorganize/echo back.</li>\n</ul>\n<h2 id=\"corrections-amp-verified-facts\">Corrections &amp; verified facts<a class=\"heading-anchor\" href=\"#corrections-amp-verified-facts\">#</a></h2>\n<table>\n<thead>\n<tr>\n<th>Claim</th>\n<th>Reality</th>\n<th>Source</th>\n<th>Status</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n</tr>\n</tbody></table>\n<h2 id=\"open-questions\">Open questions<a class=\"heading-anchor\" href=\"#open-questions\">#</a></h2>\n<ul>\n<li> Article, or a different artifact (curriculum note, study plan, series, video script)?</li>\n<li> Audience: ayumad.me readers, or something else?</li>\n<li> Is the subject the curriculum itself, or what the units changed in his actual stack?</li>\n</ul>\n<h2 id=\"current-outline\">Current outline<a class=\"heading-anchor\" href=\"#current-outline\">#</a></h2>\n<p><em>Empty — waiting on the first ramble.</em></p>\n<h2 id=\"next-step\">Next step<a class=\"heading-anchor\" href=\"#next-step\">#</a></h2>\n<p>Nothing written until the backbone stabilizes and Ayush says go. Handoff candidates: <code>writeup-articles</code>, <code>plan</code>, <code>study-plan-crafting</code>, or a promoted concept note.</p>\n",
+      "text": "Home: Articles Source material: AI Engineering Curriculum Voice: ayush writing voice AI Engineering Curriculum — Brainstorm Working doc — raw, in progress Live capture of a brainstorming session (started 2026 09 23). Not a draft, not a source of truth. Moves to 02 Projects/Articles/Concepts and Ideas/ once we know it's an article, or to the right project folder if it turns into something else. Topic / angle Open — to be defined from Ayush's ramble. Anchor material available: the 12 unit curriculum (Unit 1 models/inference/hardware → Unit 12 capstone), its exercises, and his own live stack (Hermes, Mnemosyne, Obsidian, homelab). His words (verbatim) \"this will likely be based off my ai curriculum i will just be rambling ideas and it will be up to you to clarify, correct, and reorganize and reiterate what i say back to me\" \"an article or something else\" Ideas captured 2026 09 23 — Session opened: output format deliberately undecided (article or something else). Workflow: ramble → clarify/correct/reorganize/echo back. Corrections & verified facts Claim Reality Source Status — — — — Open questions [ ] Article, or a different artifact (curriculum note, study plan, series, video script)? [ ] Audience: ayumad.me readers, or something else? [ ] Is the subject the curriculum itself, or what the units changed in his actual stack? Current outline Empty — waiting on the first ramble. Next step Nothing written until the backbone stabilizes and Ayush says go. Handoff candidates: writeup articles , plan , study plan crafting , or a promoted concept note.",
+      "section": "projects",
+      "topic": "Projects",
+      "status": "planned",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "tags": [
+        "brainstorm",
+        "ai-engineering",
+        "writing"
+      ],
+      "aliases": [],
+      "sourcePath": "02 Projects/Articles/Concepts and Ideas/Layers of Working with AI — Brainstorm.md",
+      "readingMinutes": 2,
+      "links": [
+        "projects/projects/articles",
+        "library/general/ai-engineering-from-zero-to-production"
+      ],
+      "backlinks": [],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "Topic / angle",
+          "id": "topic--angle"
+        },
+        {
+          "depth": 2,
+          "text": "His words (verbatim)",
+          "id": "his-words-verbatim"
+        },
+        {
+          "depth": 2,
+          "text": "Ideas captured",
+          "id": "ideas-captured"
+        },
+        {
+          "depth": 2,
+          "text": "Corrections & verified facts",
+          "id": "corrections--verified-facts"
+        },
+        {
+          "depth": 2,
+          "text": "Open questions",
+          "id": "open-questions"
+        },
+        {
+          "depth": 2,
+          "text": "Current outline",
+          "id": "current-outline"
+        },
+        {
+          "depth": 2,
+          "text": "Next step",
+          "id": "next-step"
+        }
+      ]
+    },
+    {
       "id": "cc69ae25c83f",
       "slug": "library/general/ai-engineering-from-zero-to-production",
       "title": "AI Engineering from zero to production",
@@ -1925,6 +1988,7 @@
         "library/general/ai-engineering-full-table-of-contents"
       ],
       "backlinks": [
+        "projects/projects/ai-engineering-curriculum-brainstorm",
         "library/general/ai-engineering-full-table-of-contents",
         "library/general/the-gist-of-it",
         "library/general/ai-engineering"
@@ -4443,6 +4507,7 @@
       ],
       "backlinks": [
         "projects/projects/ai-as-a-computer",
+        "projects/projects/ai-engineering-curriculum-brainstorm",
         "projects/projects/audio-hub",
         "about/about/home"
       ],
@@ -28290,6 +28355,7 @@
         "4c529ad28725",
         "79c7de6275fe",
         "957a87762ad6",
+        "cdc54f2eb610",
         "c65e05b13786",
         "f671ef3ecfbe",
         "116c581bda4a",
@@ -28489,8 +28555,8 @@
   "diagnostics": {
     "generatedAt": "2026-09-23T11:22:44.115Z",
     "sourceCount": 558,
-    "publishedCount": 316,
-    "skippedCount": 242,
+    "publishedCount": 317,
+    "skippedCount": 241,
     "duplicateCount": 0,
     "brokenLinks": [
       {
@@ -28887,10 +28953,6 @@
       }
     ],
     "skipped": [
-      {
-        "source": "00 Inbox/AI Engineering Curriculum — Brainstorm.md",
-        "reason": "internal 00 Inbox material"
-      },
       {
         "source": "00 Inbox/Inbox.md",
         "reason": "internal 00 Inbox material"
