@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T19:01:21.674Z",
+  "generatedAt": "2026-09-27T23:02:56.521Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -29159,10 +29159,10 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-09-27T19:01:21.674Z",
-    "sourceCount": 567,
+    "generatedAt": "2026-09-27T23:02:56.521Z",
+    "sourceCount": 568,
     "publishedCount": 322,
-    "skippedCount": 245,
+    "skippedCount": 246,
     "duplicateCount": 0,
     "brokenLinks": [
       {
@@ -29641,6 +29641,10 @@
       },
       {
         "source": "07 Reflections/Weekly/2026-09-20 Weekly Review.md",
+        "reason": "internal 07 Reflections material"
+      },
+      {
+        "source": "07 Reflections/Weekly/2026-09-27 Weekly Review.md",
         "reason": "internal 07 Reflections material"
       },
       {
