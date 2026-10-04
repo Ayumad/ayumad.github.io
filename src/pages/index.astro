@@ -1,9 +1,16 @@
 ---
 import manifest from "../generated/manifest.json";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { blogPosts } from "../lib/blog";
 
 const { documents, generatedAt } = manifest;
 const sections = [
+  {
+    title: "Blog",
+    href: "/blog/",
+    description: "Edited essays about the projects, systems, and ideas developed here.",
+    count: blogPosts.length,
+  },
   {
     title: "Projects",
     href: "/projects/",
@@ -40,10 +47,10 @@ const recent = [...documents]
   generatedAt={generatedAt}
 >
   <header class="plain-home-header">
-    <h1>Ayush’s notes</h1>
+    <h1>Blog + knowledge</h1>
     <p>
-      This is the public part of my Obsidian vault. I use it to keep track of my projects,
-      computers, audio gear, cameras, interests, and whatever I am learning about.
+      The public writing layer of ayumad.me. Read finished essays in the Blog or explore
+      the connected projects, systems, reference notes, and ideas exported from my Obsidian vault.
     </p>
     <form class="home-search" action="/explore/" method="get">
       <label for="home-search">Search my notes</label>
@@ -60,8 +67,21 @@ const recent = [...documents]
     ))}
   </nav>
 
+  <section class="plain-recent featured-writing">
+    <div class="simple-heading"><h2>Latest essays</h2><a href="/blog/">View all writing</a></div>
+    <ol>
+      {blogPosts.slice(0, 4).map((post) => (
+        <li>
+          <a href={`/blog/${post.slug}/`}>{post.title}</a>
+          <span>{post.tags.slice(0, 2).join(" · ")}</span>
+          <time datetime={post.date}>{post.date}</time>
+        </li>
+      ))}
+    </ol>
+  </section>
+
   <section class="plain-recent">
-    <div class="simple-heading"><h2>Recently updated</h2><a href="/timeline/">View timeline</a></div>
+    <div class="simple-heading"><h2>Recently updated notes</h2><a href="/timeline/">View timeline</a></div>
     <ol>
       {recent.map((document) => (
         <li>
