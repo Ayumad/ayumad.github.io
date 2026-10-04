@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T20:41:03.205Z",
-  "sourceCount": 577,
+  "generatedAt": "2026-10-04T23:06:41.206Z",
+  "sourceCount": 578,
   "publishedCount": 323,
-  "skippedCount": 254,
+  "skippedCount": 255,
   "duplicateCount": 0,
   "brokenLinks": [
     {
@@ -485,6 +485,10 @@
     },
     {
       "source": "07 Reflections/Weekly/2026-09-27 Weekly Review.md",
+      "reason": "internal 07 Reflections material"
+    },
+    {
+      "source": "07 Reflections/Weekly/2026-10-04 Weekly Review.md",
       "reason": "internal 07 Reflections material"
     },
     {
