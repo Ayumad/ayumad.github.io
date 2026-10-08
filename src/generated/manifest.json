@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T19:08:13.601Z",
+  "generatedAt": "2026-10-08T19:44:00.208Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -23375,7 +23375,7 @@
       "topic": "Technology",
       "status": "active",
       "created": "2026-08-24",
-      "updated": "2026-08-24",
+      "updated": "2026-10-08",
       "tags": [
         "technology",
         "gaming",
@@ -29264,7 +29264,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-10-08T19:08:13.601Z",
+    "generatedAt": "2026-10-08T19:44:00.208Z",
     "sourceCount": 581,
     "publishedCount": 323,
     "skippedCount": 258,
