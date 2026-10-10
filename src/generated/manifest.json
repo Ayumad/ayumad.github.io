@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T19:08:30.604Z",
+  "generatedAt": "2026-10-10T00:54:34.031Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -681,7 +681,9 @@
       "readingMinutes": 3,
       "links": [],
       "backlinks": [
-        "projects/projects/echosphere-physical-ai-robot-acm-ipmd"
+        "projects/projects/echosphere-physical-ai-robot-acm-ipmd",
+        "projects/projects/intro-to-agentic-ai-workshop-1-the-landscape",
+        "projects/projects/intro-to-agentic-ai-workshop-2-using-ai-well"
       ],
       "headings": [
         {
@@ -12558,6 +12560,189 @@
           "depth": 2,
           "text": "Sources and further reading",
           "id": "sources-and-further-reading"
+        }
+      ]
+    },
+    {
+      "id": "2e91bfefd355",
+      "slug": "projects/projects/intro-to-agentic-ai-workshop-1-the-landscape",
+      "title": "Intro to Agentic AI — Workshop 1: The Landscape",
+      "summary": "Workshop 1 of the ACM Fall 2026 'Intro to Agentic AI' series — the landscape: what models, agents, and harnesses are, the models actually in use (Oct 2026), the wider stack (providers, routers, runtimes, environments), and the honest list of things to be aware of.",
+      "html": "<h1>Intro to Agentic AI — Workshop 1: The Landscape</h1>\n<blockquote>\n<p>ACM Fall 2026 workshop series · Wednesdays 1:00 PM · ~50 min + Q&amp;A · slides with live demos (marked ▶)</p>\n</blockquote>\n<p><strong>Goal:</strong> everyone leaves with the vocabulary and a mental map of the agentic AI stack — what a <em>model</em>, <em>agent</em>, and <em>harness</em> are, what's actually being used right now, and the caveats to carry into every later session.</p>\n<p><strong>Audience:</strong> students who've used ChatGPT and nothing else. No coding required to attend.</p>\n<h2 id=\"1-why-this-matters-3-min\">1. Why this matters (3 min)<a class=\"heading-anchor\" href=\"#1-why-this-matters-3-min\">#</a></h2>\n<ul>\n<li>JetBrains' 2026 survey of 15,000+ developers: ~47% of code is now written by agents; 1 in 5 developers wrote no code by hand last month</li>\n<li>Sonar's 2026 State of Code: 42% of committed code is AI-generated — but 96% of developers don't fully trust it, and only 48% always verify what it produces</li>\n<li>Career literacy: \"models, agents, harnesses, MCP, RAG\" already show up in job postings and interviews. The nouns come first</li>\n<li>Series map: 1) today — the landscape; 2) using AI well (context, models, effort, modes); 3) local &amp; personal AI; 4) MCP 101 with an industry guest</li>\n</ul>\n<h2 id=\"2-what-is-a-model-8-min\">2. What is a model? (8 min)<a class=\"heading-anchor\" href=\"#2-what-is-a-model-8-min\">#</a></h2>\n<ul>\n<li>An LLM is a prediction engine: text in → most probable continuation out, token by token. It doesn't \"know\" things — it predicts them</li>\n<li>Tokens: the unit of text (~¾ of a word); everything is billed and bounded in tokens</li>\n<li>Context window: how much text it can consider at once (frontier models today: 128K–1M tokens)</li>\n<li>Training vs inference: training = building the model (labs, months, millions); inference = running it (what you pay for)</li>\n<li>Open vs closed weights: closed = API only (Claude, GPT, Gemini); open = downloadable, run it yourself (Qwen, Llama, MiMo, DeepSeek…)</li>\n<li><strong>Not all models chat.</strong> The family is broader than ChatGPT:<ul>\n<li>Embeddings — turn text into vectors for search (how RAG works)</li>\n<li>Speech (e.g. Whisper), image and video generators</li>\n<li><strong>Decision models</strong> — e.g. <strong>Jev (TypeSafe)</strong>: state + typed questions in → a choice / score / probability out, in ~300 ms, for ~$0.00002 a call. It <em>cannot</em> write prose, and that's the point. The pattern: <strong>Jev decides, an LLM writes</strong> — code owns the workflow, the model supplies judgment where code needs semantic understanding</li>\n</ul>\n</li>\n<li>Why relevant: most confusion comes from treating every \"AI\" as one thing. Knowing which <em>kind</em> of model you need is step one</li>\n</ul>\n<h2 id=\"3-the-models-being-used-right-now-oct-2026-10-min\">3. The models being used right now (Oct 2026) (10 min)<a class=\"heading-anchor\" href=\"#3-the-models-being-used-right-now-oct-2026-10-min\">#</a></h2>\n<blockquote>\n<p>Fast-moving on purpose: nine frontier models shipped in ten days last month. The skill isn't memorizing this list — it's knowing how to re-check it (Artificial Analysis leaderboards, vendor pricing pages) and reading it as quality × cost × speed × openness.</p>\n</blockquote>\n<ul>\n<li><strong>Frontier, closed:</strong><ul>\n<li><strong>Claude Opus 5.5 / Sonnet 5.5</strong> (Anthropic) — current #1/#2 on independent agent benchmarks; the default for serious coding &amp; agent work (~$4/$20 per M tokens)</li>\n<li><strong>GPT-6 Astra</strong> (OpenAI) — the computer-use specialist (drives GUIs); <strong>GPT-6.1 Sol</strong> — near-Astra at ~1/5 the cost per task; <strong>GPT-6 Luna</strong> — cheapest tier</li>\n<li><strong>Gemini 4 Argon</strong> (Google) — leads knowledge work / long documents; <strong>Gemini 3.8 Flash</strong> — fast, research-heavy, free tier</li>\n<li><strong>Grok 4.7</strong> (xAI) — low-cost coding-agent workhorse</li>\n</ul>\n</li>\n<li><strong>Open-weight (the leaders):</strong> <strong>MiMo-V2.6-Pro</strong> (Xiaomi, MIT — top open model), <strong>DeepSeek V4.1 Flash</strong> (frontier-level spikes at ~1/50th the cost), <strong>Kimi K3</strong>, <strong>GLM-5.3</strong>, <strong>Qwen3.8</strong>, <strong>Muse Glimmer 30B</strong> (Meta — built to run on a single 24 GB GPU), <strong>Gemma 4</strong>, <strong>gpt-oss-120b</strong></li>\n<li><strong>Local models</strong> for your own hardware — a full workshop (#3) on this</li>\n<li>Cost literacy: price per token ≠ cost per <em>task</em> (a token-hungry model can cost 8× more for the same job). Three ways to pay: subscription, metered API, flat-rate gateway</li>\n<li>Why relevant: choosing the wrong tier is the most common way to waste money or get bad results — both avoidable</li>\n</ul>\n<h2 id=\"4-what-is-an-agent-8-min\">4. What is an agent? (8 min)<a class=\"heading-anchor\" href=\"#4-what-is-an-agent-8-min\">#</a></h2>\n<ul>\n<li>Definition: <strong>model + goal + instructions + tools + state + a loop</strong> that runs until a stopping condition</li>\n<li>The loop: observe → decide → act → observe … until done, blocked, or out of budget</li>\n<li>Chatbot vs agent: a chatbot <em>answers</em>; an agent <em>acts</em> — reads files, runs commands, calls APIs, clicks a browser — and keeps going until it's done</li>\n<li>Not magic: it's a while-loop with guardrails. Stop conditions, budgets, approval gates, and traces are the actual engineering</li>\n<li>Failure modes worth recognizing (why demos go sideways):<ul>\n<li>Confident wrong answers cascading (a hallucination gets cited as \"evidence\" downstream)</li>\n<li>Premature \"done!\" without verification</li>\n<li>Runaway loops / runaway cost (one task, hundreds of calls)</li>\n<li>Real-world side effects (it actually sent that email)</li>\n</ul>\n</li>\n<li>Where agents show up: coding (Claude Code, Codex), computer use, research, and personal agents (workshop #3)</li>\n<li>Why relevant: ~half the working world already uses these; knowing what one <em>is</em> tells you when it's the right tool vs plain software</li>\n</ul>\n<h2 id=\"5-what-is-a-harness-8-min\">5. What is a harness? (8 min)<a class=\"heading-anchor\" href=\"#5-what-is-a-harness-8-min\">#</a></h2>\n<ul>\n<li>The harness = everything around the model that makes it usable <strong>and governable</strong>: context management, tool registry, memory, permissions, sandboxes, retries, tracing, subagents</li>\n<li>Key insight: <strong>same model, different harness, wildly different results.</strong> The harness decides what the model sees, what it can touch, and when it stops</li>\n<li>Examples in the wild:<ul>\n<li>Coding harnesses: <strong>Claude Code</strong> (Anthropic), <strong>Codex CLI</strong> (OpenAI), <strong>Cursor</strong>, <strong>Grok Build</strong> — terminal/IDE agents with plan modes, worktrees, subagents</li>\n<li>Personal / general agents: <strong>Hermes</strong> — the one I run; memory + skills + scheduling + messaging (full segment in workshop #3)</li>\n<li><strong>Herdr</strong> — \"the runtime your coding agents live on\": a terminal multiplexer built <em>for agents</em>. Keeps them alive when your laptop sleeps, one workspace per agent, agent-state detection, and a socket API so agents can supervise each other</li>\n<li><strong>DeepSeek Harness (dsh)</strong> — everything-is-a-plugin architecture: swap the model, tools, sandbox, or loop to study the harness itself</li>\n</ul>\n</li>\n<li>How to judge a harness: What tools does it get? What are its permission defaults? Can you see what it did (traces)? Can you stop it mid-run?</li>\n<li>Why relevant: this is where the quality, safety and cost of an agent actually live — and where the jobs are</li>\n</ul>\n<h2 id=\"6-the-wider-stack--where-the-nouns-live-5-min\">6. The wider stack — where the nouns live (5 min)<a class=\"heading-anchor\" href=\"#6-the-wider-stack--where-the-nouns-live-5-min\">#</a></h2>\n<ul>\n<li><strong>Providers</strong> serve models (Anthropic, OpenAI, Google, …); <strong>routers / gateways</strong> switch between them (OpenRouter, LiteLLM, opencode)</li>\n<li><strong>Environments = where it all runs.</strong> Cloud, or a machine you own. Example: I run <strong>Omarchy</strong> (an Arch Linux + Hyprland setup) across my machines — when you run agents locally, your OS and terminal are part of your stack</li>\n<li><strong>MCP</strong> — the standard \"plug\" connecting agents to tools and data (all of workshop #4)</li>\n<li><strong>Memory &amp; RAG</strong> — how agents remember beyond a single chat (deeper in #2 and #3)</li>\n<li>Two spectrums to place everything: cloud ↔ local, closed ↔ open</li>\n<li>Why relevant: when someone says \"I use AI X\" you can now tell which layer they mean — and which layer <em>you</em> are missing</li>\n</ul>\n<h2 id=\"7-things-to-be-aware-of-8-min--the-honest-list\">7. Things to be aware of (8 min) — the honest list<a class=\"heading-anchor\" href=\"#7-things-to-be-aware-of-8-min--the-honest-list\">#</a></h2>\n<ul>\n<li><strong>Hallucination:</strong> models state wrong things fluently. Verify anything load-bearing. (Only 48% of devs always check AI code — don't be the other 52%)</li>\n<li><strong>Prompt injection:</strong> any text an agent reads (a webpage, a tool result) can try to redirect it. Measured attack success varies ~10× between models. Never hand an agent credentials or powers you wouldn't give a stranger</li>\n<li><strong>Cost:</strong> billing is per token and agents loop. Budgets, effort levels, and model choice are the controls (workshop #2)</li>\n<li><strong>Privacy:</strong> anything you paste into a cloud model leaves your machine. Sensitive data → local models (#3)</li>\n<li><strong>Churn &amp; hype:</strong> today's #1 is next month's footnote. Benchmarks don't measure <em>your</em> task — test on your own work</li>\n<li><strong>Over-reliance:</strong> skill atrophy is real; using an agent ≠ understanding the output. In coursework, follow the syllabus's AI rules</li>\n<li><strong>It's both overhyped and genuinely useful</strong> — at the same time. Learn the primitives and you can judge every claim yourself</li>\n</ul>\n<h2 id=\"8--live-demo-5-min\">8. ▶ Live demo (5 min)<a class=\"heading-anchor\" href=\"#8--live-demo-5-min\">#</a></h2>\n<ul>\n<li>Give an agent a real bounded task live (e.g. \"find my homelab notes, summarize the hardware, make a doc\") — narrate the loop: tool calls, a retry, stop conditions</li>\n<li>Show the harness UI(s): agent panes + a supervising runtime</li>\n<li>Backup: pre-recorded screenshots of each step (venue Wi-Fi will fail — plan for it)</li>\n</ul>\n<h2 id=\"9-wrap--series-roadmap-2-min\">9. Wrap + series roadmap (2 min)<a class=\"heading-anchor\" href=\"#9-wrap--series-roadmap-2-min\">#</a></h2>\n<ul>\n<li>Recap: <strong>model</strong> = prediction engine; <strong>agent</strong> = a model in a loop with goals and tools; <strong>harness</strong> = the machinery that makes it usable and safe; <strong>stack</strong> = providers, routers, runtimes, environments</li>\n<li>Next: #2 using AI well → #3 local &amp; personal AI → #4 MCP 101</li>\n</ul>\n<h2 id=\"qampa-seeds\">Q&amp;A seeds<a class=\"heading-anchor\" href=\"#qampa-seeds\">#</a></h2>\n<ul>\n<li>\"Which model is free?\" → Gemini free tier, student plans; local models in #3</li>\n<li>\"Will agents take my job?\" → honest version: it changes tasks more than it deletes jobs; the 47% stat cuts both ways</li>\n<li>\"What should I learn first?\" → getting better outputs (workshop #2) beats collecting tools</li>\n</ul>\n<h2 id=\"prep-checklist\">Prep checklist<a class=\"heading-anchor\" href=\"#prep-checklist\">#</a></h2>\n<ul>\n<li> Slides: this outline → deck; keep the model list on a \"last verified\" slide</li>\n<li> Demo: warm up the agent, verify the task on data I control, record a backup video</li>\n<li> Attendance form + QR (same flow as other ACM workshops)</li>\n<li> Re-check model names/prices the week of the talk</li>\n</ul>\n<h2 id=\"sources-re-verify-at-presentation-time\">Sources (re-verify at presentation time)<a class=\"heading-anchor\" href=\"#sources-re-verify-at-presentation-time\">#</a></h2>\n<ul>\n<li>Model landscape: o-mega.ai \"Best LLM for AI Agents\" (Oct 2026); Artificial Analysis leaderboards</li>\n<li>Dev stats: JetBrains 2026 developer survey; Sonar \"State of Code\" 2026</li>\n<li>Jev: docs.typesafe.ai · Herdr: herdr.dev · MCP: modelcontextprotocol.io</li>\n<li>Deeper dives: AI-Engineering vault (What Is an Agent, Agent Harness, MCP notes)</li>\n</ul>\n<h2 id=\"related\">Related<a class=\"heading-anchor\" href=\"#related\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/acm-fall-2026-workshops/\">ACM Fall 2026 Workshops</a></li>\n<li>Series Overview</li>\n<li><a href=\"/notes/projects/projects/intro-to-agentic-ai-workshop-2-using-ai-well/\">Workshop 2</a> · Workshop 3 · Workshop 4</li>\n</ul>\n",
+      "text": "Intro to Agentic AI — Workshop 1: The Landscape ACM Fall 2026 workshop series · Wednesdays 1:00 PM · 50 min + Q&A · slides with live demos (marked ▶) Goal: everyone leaves with the vocabulary and a mental map of the agentic AI stack — what a model , agent , and harness are, what's actually being used right now, and the caveats to carry into every later session. Audience: students who've used ChatGPT and nothing else. No coding required to attend. 1. Why this matters (3 min) JetBrains' 2026 survey of 15,000+ developers: 47% of code is now written by agents; 1 in 5 developers wrote no code by hand last month Sonar's 2026 State of Code: 42% of committed code is AI generated — but 96% of developers don't fully trust it, and only 48% always verify what it produces Career literacy: \"models, agents, harnesses, MCP, RAG\" already show up in job postings and interviews. The nouns come first Series map: 1) today — the landscape; 2) using AI well (context, models, effort, modes); 3) local & personal AI; 4) MCP 101 with an industry guest 2. What is a model? (8 min) An LLM is a prediction engine: text in → most probable continuation out, token by token. It doesn't \"know\" things — it predicts them Tokens: the unit of text ( ¾ of a word); everything is billed and bounded in tokens Context window: how much text it can consider at once (frontier models today: 128K–1M tokens) Training vs inference: training = building the model (labs, months, millions); inference = running it (what you pay for) Open vs closed weights: closed = API only (Claude, GPT, Gemini); open = downloadable, run it yourself (Qwen, Llama, MiMo, DeepSeek…) Not all models chat. The family is broader than ChatGPT: Embeddings — turn text into vectors for search (how RAG works) Speech (e.g. Whisper), image and video generators Decision models — e.g. Jev (TypeSafe) : state + typed questions in → a choice / score / probability out, in 300 ms, for $0.00002 a call. It cannot write prose, and that's the point. The pattern: Jev decides, an LLM writes — code owns the workflow, the model supplies judgment where code needs semantic understanding Why relevant: most confusion comes from treating every \"AI\" as one thing. Knowing which kind of model you need is step one 3. The models being used right now (Oct 2026) (10 min) Fast moving on purpose: nine frontier models shipped in ten days last month. The skill isn't memorizing this list — it's knowing how to re check it (Artificial Analysis leaderboards, vendor pricing pages) and reading it as quality × cost × speed × openness. Frontier, closed: Claude Opus 5.5 / Sonnet 5.5 (Anthropic) — current 1/ 2 on independent agent benchmarks; the default for serious coding & agent work ( $4/$20 per M tokens) GPT 6 Astra (OpenAI) — the computer use specialist (drives GUIs); GPT 6.1 Sol — near Astra at 1/5 the cost per task; GPT 6 Luna — cheapest tier Gemini 4 Argon (Google) — leads knowledge work / long documents; Gemini 3.8 Flash — fast, research heavy, free tier Grok 4.7 (xAI) — low cost coding agent workhorse Open weight (the leaders): MiMo V2.6 Pro (Xiaomi, MIT — top open model), DeepSeek V4.1 Flash (frontier level spikes at 1/50th the cost), Kimi K3 , GLM 5.3 , Qwen3.8 , Muse Glimmer 30B (Meta — built to run on a single 24 GB GPU), Gemma 4 , gpt oss 120b Local models for your own hardware — a full workshop ( 3) on this Cost literacy: price per token ≠ cost per task (a token hungry model can cost 8× more for the same job). Three ways to pay: subscription, metered API, flat rate gateway Why relevant: choosing the wrong tier is the most common way to waste money or get bad results — both avoidable 4. What is an agent? (8 min) Definition: model + goal + instructions + tools + state + a loop that runs until a stopping condition The loop: observe → decide → act → observe … until done, blocked, or out of budget Chatbot vs agent: a chatbot answers ; an agent acts — reads files, runs commands, calls APIs, clicks a browser — and keeps going until it's done Not magic: it's a while loop with guardrails. Stop conditions, budgets, approval gates, and traces are the actual engineering Failure modes worth recognizing (why demos go sideways): Confident wrong answers cascading (a hallucination gets cited as \"evidence\" downstream) Premature \"done!\" without verification Runaway loops / runaway cost (one task, hundreds of calls) Real world side effects (it actually sent that email) Where agents show up: coding (Claude Code, Codex), computer use, research, and personal agents (workshop 3) Why relevant: half the working world already uses these; knowing what one is tells you when it's the right tool vs plain software 5. What is a harness? (8 min) The harness = everything around the model that makes it usable and governable : context management, tool registry, memory, permissions, sandboxes, retries, tracing, subagents Key insight: same model, different harness, wildly different results. The harness decides what the model sees, what it can touch, and when it stops Examples in the wild: Coding harnesses: Claude Code (Anthropic), Codex CLI (OpenAI), Cursor , Grok Build — terminal/IDE agents with plan modes, worktrees, subagents Personal / general agents: Hermes — the one I run; memory + skills + scheduling + messaging (full segment in workshop 3) Herdr — \"the runtime your coding agents live on\": a terminal multiplexer built for agents . Keeps them alive when your laptop sleeps, one workspace per agent, agent state detection, and a socket API so agents can supervise each other DeepSeek Harness (dsh) — everything is a plugin architecture: swap the model, tools, sandbox, or loop to study the harness itself How to judge a harness: What tools does it get? What are its permission defaults? Can you see what it did (traces)? Can you stop it mid run? Why relevant: this is where the quality, safety and cost of an agent actually live — and where the jobs are 6. The wider stack — where the nouns live (5 min) Providers serve models (Anthropic, OpenAI, Google, …); routers / gateways switch between them (OpenRouter, LiteLLM, opencode) Environments = where it all runs. Cloud, or a machine you own. Example: I run Omarchy (an Arch Linux + Hyprland setup) across my machines — when you run agents locally, your OS and terminal are part of your stack MCP — the standard \"plug\" connecting agents to tools and data (all of workshop 4) Memory & RAG — how agents remember beyond a single chat (deeper in 2 and 3) Two spectrums to place everything: cloud ↔ local, closed ↔ open Why relevant: when someone says \"I use AI X\" you can now tell which layer they mean — and which layer you are missing 7. Things to be aware of (8 min) — the honest list Hallucination: models state wrong things fluently. Verify anything load bearing. (Only 48% of devs always check AI code — don't be the other 52%) Prompt injection: any text an agent reads (a webpage, a tool result) can try to redirect it. Measured attack success varies 10× between models. Never hand an agent credentials or powers you wouldn't give a stranger Cost: billing is per token and agents loop. Budgets, effort levels, and model choice are the controls (workshop 2) Privacy: anything you paste into a cloud model leaves your machine. Sensitive data → local models ( 3) Churn & hype: today's 1 is next month's footnote. Benchmarks don't measure your task — test on your own work Over reliance: skill atrophy is real; using an agent ≠ understanding the output. In coursework, follow the syllabus's AI rules It's both overhyped and genuinely useful — at the same time. Learn the primitives and you can judge every claim yourself 8. ▶ Live demo (5 min) Give an agent a real bounded task live (e.g. \"find my homelab notes, summarize the hardware, make a doc\") — narrate the loop: tool calls, a retry, stop conditions Show the harness UI(s): agent panes + a supervising runtime Backup: pre recorded screenshots of each step (venue Wi Fi will fail — plan for it) 9. Wrap + series roadmap (2 min) Recap: model = prediction engine; agent = a model in a loop with goals and tools; harness = the machinery that makes it usable and safe; stack = providers, routers, runtimes, environments Next: 2 using AI well → 3 local & personal AI → 4 MCP 101 Q&A seeds \"Which model is free?\" → Gemini free tier, student plans; local models in 3 \"Will agents take my job?\" → honest version: it changes tasks more than it deletes jobs; the 47% stat cuts both ways \"What should I learn first?\" → getting better outputs (workshop 2) beats collecting tools Prep checklist [ ] Slides: this outline → deck; keep the model list on a \"last verified\" slide [ ] Demo: warm up the agent, verify the task on data I control, record a backup video [ ] Attendance form + QR (same flow as other ACM workshops) [ ] Re check model names/prices the week of the talk Sources (re verify at presentation time) Model landscape: o mega.ai \"Best LLM for AI Agents\" (Oct 2026); Artificial Analysis leaderboards Dev stats: JetBrains 2026 developer survey; Sonar \"State of Code\" 2026 Jev: docs.typesafe.ai · Herdr: herdr.dev · MCP: modelcontextprotocol.io Deeper dives: AI Engineering vault (What Is an Agent, Agent Harness, MCP notes) Related ACM Fall 2026 Workshops Series Overview Workshop 2 · Workshop 3 · Workshop 4",
+      "section": "projects",
+      "topic": "Projects",
+      "status": "active",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "tags": [
+        "acm",
+        "workshop",
+        "agentic-ai",
+        "fall-2026"
+      ],
+      "aliases": [
+        "Agentic AI Workshop 1",
+        "The Landscape"
+      ],
+      "sourcePath": "02 Projects/Intro to Agentic AI Workshops/Workshop 1 — The Landscape.md",
+      "readingMinutes": 8,
+      "links": [
+        "projects/projects/acm-fall-2026-workshops",
+        "projects/projects/intro-to-agentic-ai-workshop-2-using-ai-well"
+      ],
+      "backlinks": [
+        "projects/projects/intro-to-agentic-ai-workshop-2-using-ai-well"
+      ],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "1. Why this matters (3 min)",
+          "id": "1-why-this-matters-3-min"
+        },
+        {
+          "depth": 2,
+          "text": "2. What is a model? (8 min)",
+          "id": "2-what-is-a-model-8-min"
+        },
+        {
+          "depth": 2,
+          "text": "3. The models being used right now (Oct 2026) (10 min)",
+          "id": "3-the-models-being-used-right-now-oct-2026-10-min"
+        },
+        {
+          "depth": 2,
+          "text": "4. What is an agent? (8 min)",
+          "id": "4-what-is-an-agent-8-min"
+        },
+        {
+          "depth": 2,
+          "text": "5. What is a harness? (8 min)",
+          "id": "5-what-is-a-harness-8-min"
+        },
+        {
+          "depth": 2,
+          "text": "6. The wider stack — where the nouns live (5 min)",
+          "id": "6-the-wider-stack--where-the-nouns-live-5-min"
+        },
+        {
+          "depth": 2,
+          "text": "7. Things to be aware of (8 min) — the honest list",
+          "id": "7-things-to-be-aware-of-8-min--the-honest-list"
+        },
+        {
+          "depth": 2,
+          "text": "8. ▶ Live demo (5 min)",
+          "id": "8--live-demo-5-min"
+        },
+        {
+          "depth": 2,
+          "text": "9. Wrap + series roadmap (2 min)",
+          "id": "9-wrap--series-roadmap-2-min"
+        },
+        {
+          "depth": 2,
+          "text": "Q&A seeds",
+          "id": "qa-seeds"
+        },
+        {
+          "depth": 2,
+          "text": "Prep checklist",
+          "id": "prep-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Sources (re verify at presentation time)",
+          "id": "sources-re-verify-at-presentation-time"
+        },
+        {
+          "depth": 2,
+          "text": "Related",
+          "id": "related"
+        }
+      ]
+    },
+    {
+      "id": "428a5734c95a",
+      "slug": "projects/projects/intro-to-agentic-ai-workshop-2-using-ai-well",
+      "title": "Intro to Agentic AI — Workshop 2: Using AI Well",
+      "summary": "Workshop 2 of the ACM Fall 2026 'Intro to Agentic AI' series — using AI well: context management, choosing the right model, effort levels, and working modes (ask / plan / agent / debug / goal).",
+      "html": "<h1>Intro to Agentic AI — Workshop 2: Using AI Well</h1>\n<blockquote>\n<p>ACM Fall 2026 workshop series · Wednesdays 1:00 PM · ~50 min + Q&amp;A · demo-heavy (marked ▶)</p>\n</blockquote>\n<p><strong>Goal:</strong> a repeatable loop for getting good results out of any AI tool: manage context, pick the model, pick the effort, pick the mode — instead of just chatting and hoping.</p>\n<p><strong>Audience:</strong> anyone from workshop #1; also fine standalone.</p>\n<h2 id=\"1-mental-model-you-39re-a-manager-not-a-prompt-magician-3-min\">1. Mental model: you're a manager, not a prompt magician (3 min)<a class=\"heading-anchor\" href=\"#1-mental-model-you-39re-a-manager-not-a-prompt-magician-3-min\">#</a></h2>\n<ul>\n<li>Output quality ≈ <strong>context quality × model choice × mode choice</strong>. \"Prompt tricks\" are the smallest lever</li>\n<li>Most \"AI didn't work\" stories are context failures — it never had what it needed to know</li>\n<li>Everything here is a habit, not a hack</li>\n</ul>\n<h2 id=\"2-context-management-12-min\">2. Context management (12 min)<a class=\"heading-anchor\" href=\"#2-context-management-12-min\">#</a></h2>\n<ul>\n<li>Context = the model's working memory for this run. Finite, and quality decays as it fills (\"context rot\" — recall precision drops as tokens rise)</li>\n<li>The hierarchy, most durable to most transient:<ul>\n<li>Global preferences → project instructions → task brief → retrieved evidence → runtime output (tool results)</li>\n</ul>\n</li>\n<li>Practical moves:<ul>\n<li>Stable info goes in project instruction files (<code>AGENTS.md</code> / <code>CLAUDE.md</code> style) — written once, not retyped every message</li>\n<li>One task, one session. A long mixed chat poisons every task in it</li>\n<li>Feed the smallest set of high-signal tokens — the right file, not the whole repo</li>\n<li>Keep evidence separate from instructions; treat pasted text as data, not commands</li>\n<li>When it gets long: summarize completed work, keep decisions + open questions verbatim</li>\n</ul>\n</li>\n<li>Compression when context is full — worst-last: evict stale output → extract key facts → summarize (loses the most)</li>\n<li>▶ Demo: same question with (a) a bloated messy context vs (b) a clean minimal one — side by side</li>\n<li>Further reading: Anthropic's \"Effective context engineering for AI agents\"</li>\n</ul>\n<h2 id=\"3-model-choice--which-model-for-which-job-8-min\">3. Model choice — which model for which job (8 min)<a class=\"heading-anchor\" href=\"#3-model-choice--which-model-for-which-job-8-min\">#</a></h2>\n<ul>\n<li>Match the model to the task (working map, not gospel):<ul>\n<li>Hard coding / long agent runs → Claude Opus 5.5-tier</li>\n<li>Everyday + value → GPT-6.1 Sol / Claude Sonnet 5.5 (~$2/$10)</li>\n<li>Computer use (browsers, GUIs) → GPT-6 Astra</li>\n<li>Knowledge work / long documents → Gemini 4 Argon / 3.8 Flash</li>\n<li>Cheap bulk (extraction, classification) → GPT-6 Luna, DeepSeek V4.1 Flash, MiMo</li>\n<li>Non-chat jobs → a decision model (Jev) — don't pay a chat model to answer yes/no</li>\n<li>Private / sensitive → a local model (workshop #3)</li>\n</ul>\n</li>\n<li>Three ways to pay, three jobs: <strong>subscription</strong> (predictable, rate-limited), <strong>API</strong> (metered, scales with use), <strong>flat-rate gateway</strong> (all-you-can-use per month — how I run my daily drivers)</li>\n<li>Rule of thumb: default to a cheap-capable model; escalate to the expensive one only when it actually fails. Never start at the top</li>\n</ul>\n<h2 id=\"4-effort-levels--how-hard-should-it-think-6-min\">4. Effort levels — how hard should it think? (6 min)<a class=\"heading-anchor\" href=\"#4-effort-levels--how-hard-should-it-think-6-min\">#</a></h2>\n<ul>\n<li>Same model, adjustable thinking budget: low / medium / high / xhigh / max (names vary by vendor; some models adapt automatically)</li>\n<li>Low: extraction, formatting, quick lookups — fast and cheap</li>\n<li>High+: ambiguous, multi-step, high-stakes — slower per call but often cheaper per <em>finished task</em> (fewer retries)</li>\n<li>▶ Demo: one task at low vs high effort — show latency, cost, and the difference in the result</li>\n<li>Rule: start medium; crank when it's hairy; drop when it's mechanical</li>\n</ul>\n<h2 id=\"5-modes--ask-plan-agent-debug-goal-10-min\">5. Modes — ask, plan, agent, debug, goal (10 min)<a class=\"heading-anchor\" href=\"#5-modes--ask-plan-agent-debug-goal-10-min\">#</a></h2>\n<ul>\n<li>The first question with any agent is <strong>how to work</strong>, not what to do:<ul>\n<li><strong>Ask</strong> — understand. No changes. (\"Where is X defined?\")</li>\n<li><strong>Plan</strong> — decompose, identify risks, propose steps; nothing executed. (This is what \"plan mode\" in Claude Code / Codex does)</li>\n<li><strong>Agent</strong> — execute with authority, then verify and report. (\"Do it, run the tests\")</li>\n<li><strong>Debug</strong> — gather runtime evidence <em>before</em> changing anything. (\"It's failing — find out why\")</li>\n<li><strong>Goal</strong> — work that persists across turns or days: durable progress, checkpoints, stopping conditions. (How you run long projects without babysitting)</li>\n</ul>\n</li>\n<li>Mid-task switching is normal: Ask → Plan → Agent; drop back to Plan when surprise appears; drop to Debug when red</li>\n<li>▶ Demo: the same bug fix — (a) straight \"fix it\" vs (b) ask → plan → agent. Compare quality, thrash, trust</li>\n<li>Cost: Ask/Plan are nearly free; agents and subagents multiply usage (parallel work = parallel tokens)</li>\n</ul>\n<h2 id=\"6-put-it-together--the-working-loop-5-min\">6. Put it together — the working loop (5 min)<a class=\"heading-anchor\" href=\"#6-put-it-together--the-working-loop-5-min\">#</a></h2>\n<ol>\n<li><strong>Brief</strong>: goal + constraints + what \"done\" looks like</li>\n<li><strong>Plan first</strong> for anything non-trivial; review the plan</li>\n<li><strong>Execute</strong> in bounded scope; approvals for anything risky</li>\n<li><strong>Verify</strong> before trusting (run the tests, open the sources, read the diff)</li>\n<li><strong>Checkpoint</strong>: save decisions + next steps; start a fresh session if context is dirty</li>\n</ol>\n<ul>\n<li>Common beginner mistakes: no acceptance criteria; one giant session for everything; trusting without verifying; starting at max effort for trivia; letting it loose near anything destructive</li>\n</ul>\n<h2 id=\"7-wrap--handout-2-min\">7. Wrap + handout (2 min)<a class=\"heading-anchor\" href=\"#7-wrap--handout-2-min\">#</a></h2>\n<ul>\n<li>One-page cheat sheet: context checklist + model map + modes table (vault version to be linked)</li>\n<li>Next: Workshop 3 — local &amp; personal AI</li>\n</ul>\n<h2 id=\"qampa-seeds\">Q&amp;A seeds<a class=\"heading-anchor\" href=\"#qampa-seeds\">#</a></h2>\n<ul>\n<li>\"How do I know it's a context problem?\" → when it asks about what it already had, contradicts itself, or solves the wrong task</li>\n<li>\"Do I have to pay?\" → free tiers exist; paying helps on hard tasks, not on volume</li>\n</ul>\n<h2 id=\"prep-checklist\">Prep checklist<a class=\"heading-anchor\" href=\"#prep-checklist\">#</a></h2>\n<ul>\n<li> Two demo scripts: messy vs clean context; direct vs ask-plan-agent</li>\n<li> Cheat sheet (print + digital)</li>\n<li> Re-check model names/prices week-of</li>\n</ul>\n<h2 id=\"related\">Related<a class=\"heading-anchor\" href=\"#related\">#</a></h2>\n<ul>\n<li><a href=\"/notes/projects/projects/acm-fall-2026-workshops/\">ACM Fall 2026 Workshops</a></li>\n<li>Series Overview</li>\n<li><a href=\"/notes/projects/projects/intro-to-agentic-ai-workshop-1-the-landscape/\">Workshop 1</a> · Workshop 3 · Workshop 4</li>\n</ul>\n",
+      "text": "Intro to Agentic AI — Workshop 2: Using AI Well ACM Fall 2026 workshop series · Wednesdays 1:00 PM · 50 min + Q&A · demo heavy (marked ▶) Goal: a repeatable loop for getting good results out of any AI tool: manage context, pick the model, pick the effort, pick the mode — instead of just chatting and hoping. Audience: anyone from workshop 1; also fine standalone. 1. Mental model: you're a manager, not a prompt magician (3 min) Output quality ≈ context quality × model choice × mode choice . \"Prompt tricks\" are the smallest lever Most \"AI didn't work\" stories are context failures — it never had what it needed to know Everything here is a habit, not a hack 2. Context management (12 min) Context = the model's working memory for this run. Finite, and quality decays as it fills (\"context rot\" — recall precision drops as tokens rise) The hierarchy, most durable to most transient: Global preferences → project instructions → task brief → retrieved evidence → runtime output (tool results) Practical moves: Stable info goes in project instruction files ( AGENTS.md / CLAUDE.md style) — written once, not retyped every message One task, one session. A long mixed chat poisons every task in it Feed the smallest set of high signal tokens — the right file, not the whole repo Keep evidence separate from instructions; treat pasted text as data, not commands When it gets long: summarize completed work, keep decisions + open questions verbatim Compression when context is full — worst last: evict stale output → extract key facts → summarize (loses the most) ▶ Demo: same question with (a) a bloated messy context vs (b) a clean minimal one — side by side Further reading: Anthropic's \"Effective context engineering for AI agents\" 3. Model choice — which model for which job (8 min) Match the model to the task (working map, not gospel): Hard coding / long agent runs → Claude Opus 5.5 tier Everyday + value → GPT 6.1 Sol / Claude Sonnet 5.5 ( $2/$10) Computer use (browsers, GUIs) → GPT 6 Astra Knowledge work / long documents → Gemini 4 Argon / 3.8 Flash Cheap bulk (extraction, classification) → GPT 6 Luna, DeepSeek V4.1 Flash, MiMo Non chat jobs → a decision model (Jev) — don't pay a chat model to answer yes/no Private / sensitive → a local model (workshop 3) Three ways to pay, three jobs: subscription (predictable, rate limited), API (metered, scales with use), flat rate gateway (all you can use per month — how I run my daily drivers) Rule of thumb: default to a cheap capable model; escalate to the expensive one only when it actually fails. Never start at the top 4. Effort levels — how hard should it think? (6 min) Same model, adjustable thinking budget: low / medium / high / xhigh / max (names vary by vendor; some models adapt automatically) Low: extraction, formatting, quick lookups — fast and cheap High+: ambiguous, multi step, high stakes — slower per call but often cheaper per finished task (fewer retries) ▶ Demo: one task at low vs high effort — show latency, cost, and the difference in the result Rule: start medium; crank when it's hairy; drop when it's mechanical 5. Modes — ask, plan, agent, debug, goal (10 min) The first question with any agent is how to work , not what to do: Ask — understand. No changes. (\"Where is X defined?\") Plan — decompose, identify risks, propose steps; nothing executed. (This is what \"plan mode\" in Claude Code / Codex does) Agent — execute with authority, then verify and report. (\"Do it, run the tests\") Debug — gather runtime evidence before changing anything. (\"It's failing — find out why\") Goal — work that persists across turns or days: durable progress, checkpoints, stopping conditions. (How you run long projects without babysitting) Mid task switching is normal: Ask → Plan → Agent; drop back to Plan when surprise appears; drop to Debug when red ▶ Demo: the same bug fix — (a) straight \"fix it\" vs (b) ask → plan → agent. Compare quality, thrash, trust Cost: Ask/Plan are nearly free; agents and subagents multiply usage (parallel work = parallel tokens) 6. Put it together — the working loop (5 min) 1. Brief : goal + constraints + what \"done\" looks like 2. Plan first for anything non trivial; review the plan 3. Execute in bounded scope; approvals for anything risky 4. Verify before trusting (run the tests, open the sources, read the diff) 5. Checkpoint : save decisions + next steps; start a fresh session if context is dirty Common beginner mistakes: no acceptance criteria; one giant session for everything; trusting without verifying; starting at max effort for trivia; letting it loose near anything destructive 7. Wrap + handout (2 min) One page cheat sheet: context checklist + model map + modes table (vault version to be linked) Next: Workshop 3 — local & personal AI Q&A seeds \"How do I know it's a context problem?\" → when it asks about what it already had, contradicts itself, or solves the wrong task \"Do I have to pay?\" → free tiers exist; paying helps on hard tasks, not on volume Prep checklist [ ] Two demo scripts: messy vs clean context; direct vs ask plan agent [ ] Cheat sheet (print + digital) [ ] Re check model names/prices week of Related ACM Fall 2026 Workshops Series Overview Workshop 1 · Workshop 3 · Workshop 4",
+      "section": "projects",
+      "topic": "Projects",
+      "status": "active",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "tags": [
+        "acm",
+        "workshop",
+        "agentic-ai",
+        "fall-2026"
+      ],
+      "aliases": [
+        "Agentic AI Workshop 2",
+        "Using AI Well"
+      ],
+      "sourcePath": "02 Projects/Intro to Agentic AI Workshops/Workshop 2 — Using AI Well.md",
+      "readingMinutes": 5,
+      "links": [
+        "projects/projects/acm-fall-2026-workshops",
+        "projects/projects/intro-to-agentic-ai-workshop-1-the-landscape"
+      ],
+      "backlinks": [
+        "projects/projects/intro-to-agentic-ai-workshop-1-the-landscape"
+      ],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "1. Mental model: you're a manager, not a prompt magician (3 min)",
+          "id": "1-mental-model-youre-a-manager-not-a-prompt-magician-3-min"
+        },
+        {
+          "depth": 2,
+          "text": "2. Context management (12 min)",
+          "id": "2-context-management-12-min"
+        },
+        {
+          "depth": 2,
+          "text": "3. Model choice — which model for which job (8 min)",
+          "id": "3-model-choice--which-model-for-which-job-8-min"
+        },
+        {
+          "depth": 2,
+          "text": "4. Effort levels — how hard should it think? (6 min)",
+          "id": "4-effort-levels--how-hard-should-it-think-6-min"
+        },
+        {
+          "depth": 2,
+          "text": "5. Modes — ask, plan, agent, debug, goal (10 min)",
+          "id": "5-modes--ask-plan-agent-debug-goal-10-min"
+        },
+        {
+          "depth": 2,
+          "text": "6. Put it together — the working loop (5 min)",
+          "id": "6-put-it-together--the-working-loop-5-min"
+        },
+        {
+          "depth": 2,
+          "text": "7. Wrap + handout (2 min)",
+          "id": "7-wrap--handout-2-min"
+        },
+        {
+          "depth": 2,
+          "text": "Q&A seeds",
+          "id": "qa-seeds"
+        },
+        {
+          "depth": 2,
+          "text": "Prep checklist",
+          "id": "prep-checklist"
+        },
+        {
+          "depth": 2,
+          "text": "Related",
+          "id": "related"
         }
       ]
     },
@@ -29089,6 +29274,8 @@
         "db40034ecfec",
         "5d712e7baca9",
         "d1d922fd3ae9",
+        "2e91bfefd355",
+        "428a5734c95a",
         "cdc54f2eb610",
         "01bf8a20fe22",
         "5f72cde4ec55",
@@ -29284,9 +29471,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-10-09T19:08:30.604Z",
-    "sourceCount": 582,
-    "publishedCount": 323,
+    "generatedAt": "2026-10-10T00:54:34.031Z",
+    "sourceCount": 584,
+    "publishedCount": 325,
     "skippedCount": 259,
     "duplicateCount": 0,
     "brokenLinks": [
@@ -29353,6 +29540,30 @@
       {
         "source": "02 Projects/Homelab.md",
         "target": "99 System/Decisions/2026-09-17 P520 Container Platform"
+      },
+      {
+        "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 1 — The Landscape.md",
+        "target": "02 Projects/Intro to Agentic AI Workshops/00 Series Overview"
+      },
+      {
+        "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 1 — The Landscape.md",
+        "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 3 — Local and Personal AI"
+      },
+      {
+        "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 1 — The Landscape.md",
+        "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 4 — MCP 101"
+      },
+      {
+        "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 2 — Using AI Well.md",
+        "target": "02 Projects/Intro to Agentic AI Workshops/00 Series Overview"
+      },
+      {
+        "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 2 — Using AI Well.md",
+        "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 3 — Local and Personal AI"
+      },
+      {
+        "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 2 — Using AI Well.md",
+        "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 4 — MCP 101"
       },
       {
         "source": "02 Projects/Obsidian RAG Assistant.md",
