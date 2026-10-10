@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-10T00:54:34.031Z",
-  "sourceCount": 584,
-  "publishedCount": 325,
+  "generatedAt": "2026-10-10T00:55:33.314Z",
+  "sourceCount": 587,
+  "publishedCount": 328,
   "skippedCount": 259,
   "duplicateCount": 0,
   "brokenLinks": [
@@ -70,28 +70,8 @@
       "target": "99 System/Decisions/2026-09-17 P520 Container Platform"
     },
     {
-      "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 1 — The Landscape.md",
-      "target": "02 Projects/Intro to Agentic AI Workshops/00 Series Overview"
-    },
-    {
-      "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 1 — The Landscape.md",
-      "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 3 — Local and Personal AI"
-    },
-    {
-      "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 1 — The Landscape.md",
-      "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 4 — MCP 101"
-    },
-    {
-      "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 2 — Using AI Well.md",
-      "target": "02 Projects/Intro to Agentic AI Workshops/00 Series Overview"
-    },
-    {
-      "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 2 — Using AI Well.md",
-      "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 3 — Local and Personal AI"
-    },
-    {
-      "source": "02 Projects/Intro to Agentic AI Workshops/Workshop 2 — Using AI Well.md",
-      "target": "02 Projects/Intro to Agentic AI Workshops/Workshop 4 — MCP 101"
+      "source": "02 Projects/Intro to Agentic AI Workshops/00 Series Overview.md",
+      "target": "90 Operations/Hermes/TODO Master"
     },
     {
       "source": "02 Projects/Obsidian RAG Assistant.md",
