@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:44:49.047Z",
+  "generatedAt": "2026-10-12T22:53:07.963Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -11673,6 +11673,7 @@
         "projects/projects/personal-website",
         "projects/projects/album-ranking-app",
         "projects/projects/audio-hub",
+        "projects/projects/loadout-browser",
         "projects/projects/voice-assistant",
         "interests/creative-work/creative-work",
         "interests/education/school",
@@ -15179,6 +15180,59 @@
       ]
     },
     {
+      "id": "786f8deedf5c",
+      "slug": "projects/projects/loadout-browser",
+      "title": "Loadout Browser",
+      "summary": "Vibe-coded website for looking through the Loadout — built with the anatomy skill (interactive isometric figures) and a Claude-driven plan; target end of Oct 2026.",
+      "html": "<h1>Loadout Browser</h1>\n<p>Home: <a href=\"/notes/about/about/home/\">Home</a> · Source system: <a href=\"/notes/systems/technology/loadout-hub/\">Loadout</a> · Visual system: <code>anatomy</code> skill (official, installed 2026-10-12)</p>\n<h2 id=\"goal\">Goal<a class=\"heading-anchor\" href=\"#goal\">#</a></h2>\n<p>A small website for looking through the Loadout (requested 2026-10-12) — browse the gear visually instead of reading vault notes. The build approach is part of the point: <strong>vibe-coded</strong>, using the <strong>anatomy</strong> skill (interactive isometric machine figures), with the coding driven by a <strong>Claude plan</strong>. <strong>Target: end of Oct 2026.</strong></p>\n<h2 id=\"approach\">Approach<a class=\"heading-anchor\" href=\"#approach\">#</a></h2>\n<ul>\n<li>All figures use the <code>anatomy</code> skill's isometric kit (standalone HTML / SVG / React paths — kit is dependency-free).</li>\n<li>Plan-first: write the build plan, then vibe-code against it.</li>\n<li>Tooling flag (2026-10-12): Claude Code is <strong>not</strong> installed on the Mac mini (only <code>opencode</code>) — decide install vs running the plan on opencode.</li>\n</ul>\n<h2 id=\"open-questions\">Open questions<a class=\"heading-anchor\" href=\"#open-questions\">#</a></h2>\n<ul>\n<li>v1 scope: full catalog vs a few hero figures vs a plain browsable list with isometric detail views?</li>\n<li>Data source: parse <code>03 Areas/Technology/Loadout/Products/*.md</code> into JSON (frontmatter has summaries/specs)?</li>\n<li>Hosting: standalone (Vercel) vs subpage of ayumad.me (<code>/loadout</code>)?</li>\n</ul>\n<h2 id=\"tasks\">Tasks<a class=\"heading-anchor\" href=\"#tasks\">#</a></h2>\n<ul>\n<li> Write the build plan (vibe-code brief for Claude)</li>\n<li> Build v1 with the anatomy skill</li>\n<li> Deploy + record the URL here</li>\n</ul>\n",
+      "text": "Loadout Browser Home: Home · Source system: Loadout · Visual system: anatomy skill (official, installed 2026 10 12) Goal A small website for looking through the Loadout (requested 2026 10 12) — browse the gear visually instead of reading vault notes. The build approach is part of the point: vibe coded , using the anatomy skill (interactive isometric machine figures), with the coding driven by a Claude plan . Target: end of Oct 2026. Approach All figures use the anatomy skill's isometric kit (standalone HTML / SVG / React paths — kit is dependency free). Plan first: write the build plan, then vibe code against it. Tooling flag (2026 10 12): Claude Code is not installed on the Mac mini (only opencode ) — decide install vs running the plan on opencode. Open questions v1 scope: full catalog vs a few hero figures vs a plain browsable list with isometric detail views? Data source: parse 03 Areas/Technology/Loadout/Products/ .md into JSON (frontmatter has summaries/specs)? Hosting: standalone (Vercel) vs subpage of ayumad.me ( /loadout )? Tasks [ ] Write the build plan (vibe code brief for Claude) [ ] Build v1 with the anatomy skill [ ] Deploy + record the URL here",
+      "section": "projects",
+      "topic": "Projects",
+      "status": "planned",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "tags": [
+        "project",
+        "website",
+        "loadout",
+        "vibe-code",
+        "anatomy"
+      ],
+      "aliases": [
+        "Loadout Site",
+        "Layout Browser"
+      ],
+      "sourcePath": "02 Projects/Planned/Loadout Browser.md",
+      "readingMinutes": 1,
+      "links": [
+        "about/about/home",
+        "systems/technology/loadout-hub"
+      ],
+      "backlinks": [],
+      "headings": [
+        {
+          "depth": 2,
+          "text": "Goal",
+          "id": "goal"
+        },
+        {
+          "depth": 2,
+          "text": "Approach",
+          "id": "approach"
+        },
+        {
+          "depth": 2,
+          "text": "Open questions",
+          "id": "open-questions"
+        },
+        {
+          "depth": 2,
+          "text": "Tasks",
+          "id": "tasks"
+        }
+      ]
+    },
+    {
       "id": "7159ffe61ecb",
       "slug": "systems/technology/loadout-hub",
       "title": "Loadout Hub",
@@ -15215,6 +15269,7 @@
       ],
       "backlinks": [
         "projects/projects/facebook-marketplace-mcp",
+        "projects/projects/loadout-browser",
         "interests/audio/audio-area",
         "systems/audio/loadout-audio-history",
         "systems/technology/loadout-continuity",
@@ -29676,6 +29731,7 @@
         "7fa8040472e8",
         "74f3f8ed56de",
         "cdc54f2eb610",
+        "786f8deedf5c",
         "01bf8a20fe22",
         "5f72cde4ec55",
         "17cd53aa8b2d",
@@ -29871,9 +29927,9 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-10-12T22:44:49.047Z",
-    "sourceCount": 593,
-    "publishedCount": 329,
+    "generatedAt": "2026-10-12T22:53:07.963Z",
+    "sourceCount": 594,
+    "publishedCount": 330,
     "skippedCount": 264,
     "duplicateCount": 0,
     "brokenLinks": [
