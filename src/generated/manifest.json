@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T22:43:11.553Z",
+  "generatedAt": "2026-10-12T22:44:35.724Z",
   "documents": [
     {
       "id": "ab69c73e944b",
@@ -2732,7 +2732,7 @@
       "text": "Album Ranking App Home: Home Origin: ayumad.me Spotify Taste / Elo feature ( ayumad me site skill, references/spotify integration.md ) Source site: Personal Website Goal Take the rate album / album Elo mechanics already proven on ayumad.me and turn them into a standalone, Beli style social music app — an own product rather than a site widget. It's a persistent Spotify Wrapped like dashboard of your listening that also lets people rate albums and recommend them to each other socially. Baseline requirement: work started (scaffold + first vertical slice) by end of Aug 2026 (target Aug 31). Scope (what Ayush asked for) Recommendation ELO rating — rate albums (1–10), Elo engineered ranking against other albums/listeners. Port the site's math: expectedScore(a,b) = 1/(1+10^((b a)/400)) , K = 32 , baseline 1500 . Highest ranked albums — leaderboard surface (rating + median, top rows highlighted, like the site board). Genre overviews — aggregate taste by genre. Port the curated genre map pattern from server/genres.ts — the dev tier Spotify API returns reduced objects with no genres , so genre source of truth is a curated map; never fabricate genres for unknown artists. Constant Spotify Wrapped like listening dashboard — always on view: top artists, top albums, genre splits, listening trends. Not a once a year wrap; a live dashboard. Social aspect — recommend albums to other people, and rate/discover albums socially (Beli style: albums are the shared object of taste). Both a web app and a mobile app. Source mechanics to port from ayumad.me Album completion detection ( server/albums.ts ): playedTracks / totalTracks = 0.75 from the recent plays window; exclude albums with totalTracks < 2 (singles). Sort by most recent play; dedupe via a prompted.json style log so you don't re prompt. Rate loop : zero token nightly detection cron → prompt over Telegram → rate album.ts records rating 1–10, writes Elo, prints old → new (Δ) . Elo upsert + leaderboard (rating + median, top 3 highlighted). Token scope constraint (deadline for the app design) : refresh token only has user read currently playing + user read recently played . user top read (top artists) 403s without re auth; consider re authing with a broader scope for the standalone app since it needs a real always on dashboard. Phases Phase 1 — Product scaffold (start by Aug 31) [ ] Pick stack: shared backend + web frontend; define mobile approach (responsive PWA vs React Native/Expo vs native). ^task album app 01 [ ] Stand up repo + project skeleton. ^task album app 02 [ ] Auth: Spotify OAuth for listening data (map real scope needs for the dashboard). ^task album app 03 [ ] Core data model: users, albums, ratings, Elo entries, recommendations. ^task album app 04 Phase 2 — Core rating & dashboard (vertical slice) [ ] Album completion detection + rate flow (port from ayumad.me). ^task album app 05 [ ] Elo engine + albums leaderboard endpoint/UI. ^task album app 06 [ ] Genre overviews via curated genre map. ^task album app 07 [ ] Listening dashboard: top artists/albums, genre splits, trends. ^task album app 08 Phase 3 — Social & mobile [ ] Recommend albums to other users (share/notify). ^task album app 09 [ ] Social rating / mutual discovery surface. ^task album app 10 [ ] Mobile app build (web wrapper / PWA or native). ^task album app 11 Original Decisions Decision Date Rationale Reuse the ayumad.me Elo + completion detection design 2026 08 19 Proven mechanics; port rather than reinvent. Genre source of truth = curated map 2026 08 19 Dev tier Spotify API omits genres. Start by end of Aug 2026 2026 08 19 Ayush's stated timeline. Backburnered 2026 10 12 Ayush deprioritized it during the todo pass — not actively planned.",
       "section": "projects",
       "topic": "Projects",
-      "status": "backburner",
+      "status": "paused",
       "created": "2026-08-19",
       "updated": "2026-10-12",
       "tags": [
@@ -29871,7 +29871,7 @@
     }
   ],
   "diagnostics": {
-    "generatedAt": "2026-10-12T22:43:11.553Z",
+    "generatedAt": "2026-10-12T22:44:35.724Z",
     "sourceCount": 593,
     "publishedCount": 329,
     "skippedCount": 264,
